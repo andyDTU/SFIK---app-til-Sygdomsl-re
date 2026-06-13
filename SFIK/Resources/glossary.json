@@ -1,0 +1,3566 @@
+[
+  {
+    "term": "Abdominal fedtaflejring",
+    "definition": "fedtaflejring på/i maven."
+  },
+  {
+    "term": "Abdominalia",
+    "definition": "mavesmerter."
+  },
+  {
+    "term": "ABI",
+    "definition": "ankle-brachial index, ankel-arm-indeks."
+  },
+  {
+    "term": "Abortus imminens",
+    "definition": "truende abort."
+  },
+  {
+    "term": "Abratio",
+    "definition": "Udskrabning."
+  },
+  {
+    "term": "Absces",
+    "definition": "byld."
+  },
+  {
+    "term": "Absence",
+    "definition": "kortvarig forstyrrelse i hjernens funktion, der medfører manglende kontakt med omgivelserne, tidligere kaldet \"petit mal”."
+  },
+  {
+    "term": "ACE",
+    "definition": "angiotensinkonverterende enzym."
+  },
+  {
+    "term": "Acetaldehyd",
+    "definition": "mellemprodukt ved nedbrydning af alkohol, giftigt."
+  },
+  {
+    "term": "Acromion",
+    "definition": "ydre del af skulderbladet."
+  },
+  {
+    "term": "Adaptivt",
+    "definition": "tillært/tilpasset."
+  },
+  {
+    "term": "Adenokarcinom",
+    "definition": "ondartet svulst udgået fra en kirtel."
+  },
+  {
+    "term": "Adenom",
+    "definition": "godartet kirtelsvulst."
+  },
+  {
+    "term": "Adhærencer",
+    "definition": "sammenvoksninger."
+  },
+  {
+    "term": "Adiponektin",
+    "definition": "et fedtvævsprotein, der bedrer insulinfølsomheden og har antiinflammatoriske virkninger."
+  },
+  {
+    "term": "Adipositas",
+    "definition": "svær overvægt, fedme."
+  },
+  {
+    "term": "Adjuverende behandling",
+    "definition": "fra latin adjuvare: hjælpe."
+  },
+  {
+    "term": "Affektregulation",
+    "definition": "evne til at regulere følelser."
+  },
+  {
+    "term": "Afsmalning",
+    "definition": "når en ledspalte fremstår smallere end normalt (set på røntgen)."
+  },
+  {
+    "term": "Aftøs Stomatitis",
+    "definition": "blister i mundhuleslimhinden."
+  },
+  {
+    "term": "AGE",
+    "definition": "advanced glycation end products."
+  },
+  {
+    "term": "Agnosi",
+    "definition": "svigtende genkendelse og identifikation af komplekse stimuli trods intakt primær sansefunktion, sprog og intellekt."
+  },
+  {
+    "term": "Agorafobi",
+    "definition": "angst for at færdes alene uden for hjemmet."
+  },
+  {
+    "term": "Akillestendinopati",
+    "definition": "akillessenebetændelse."
+  },
+  {
+    "term": "AKS",
+    "definition": "akut koronart syndrom."
+  },
+  {
+    "term": "Aksiale skelet",
+    "definition": "rygsøjlen og korsryggen."
+  },
+  {
+    "term": "Aksonal skade",
+    "definition": "når nerveceller går til grunde."
+  },
+  {
+    "term": "ALL",
+    "definition": "akut lymfatisk leukæmi."
+  },
+  {
+    "term": "Allergen",
+    "definition": "et stof, som kan fremkalde allergi."
+  },
+  {
+    "term": "Allergisk rinokonjunktivitis",
+    "definition": "høfeber."
+  },
+  {
+    "term": "Allogen stamcelletransplantation",
+    "definition": "transplantation med stamceller fra en donor."
+  },
+  {
+    "term": "Alloplastik",
+    "definition": "protese."
+  },
+  {
+    "term": "Allopurinol",
+    "definition": "urinsyresænkende medicin."
+  },
+  {
+    "term": "Alveoler",
+    "definition": "luftfyldte hulrum i lungerne Amenoré: manglende menstruationsblødning i mindst seks måneder."
+  },
+  {
+    "term": "AML",
+    "definition": "akut myeloid leukæmi."
+  },
+  {
+    "term": "Anabol",
+    "definition": "vævsopbyggende."
+  },
+  {
+    "term": "Anafylaksi",
+    "definition": "akut livstruende overfølsomhedsreaktion."
+  },
+  {
+    "term": "Analgetika",
+    "definition": "smertestillende lægemidler."
+  },
+  {
+    "term": "Androgener",
+    "definition": "mandlige kønshormoner."
+  },
+  {
+    "term": "Aneurisme",
+    "definition": "udposning på en arterie."
+  },
+  {
+    "term": "Angina pectoris",
+    "definition": "hjertekrampe."
+  },
+  {
+    "term": "Angiogenese",
+    "definition": "dannelse af nye blodkar."
+  },
+  {
+    "term": "Angiografi",
+    "definition": "røntgenkontrastundersøgelse af blodkar."
+  },
+  {
+    "term": "Angulær cheilitis",
+    "definition": "inficerede furer i mundvigene."
+  },
+  {
+    "term": "Ankylose",
+    "definition": "ledstivhed."
+  },
+  {
+    "term": "Ankyloserende spondylit",
+    "definition": "rygsøjlegigt, tidligere kaldet."
+  },
+  {
+    "term": "Anoskopi",
+    "definition": "kikkertundersøgelse af endetarmsåbningen og den nederste del af endetarmen."
+  },
+  {
+    "term": "Anovulation",
+    "definition": "manglende ægløsning."
+  },
+  {
+    "term": "Anteriort",
+    "definition": "fremad."
+  },
+  {
+    "term": "Anti-CCP",
+    "definition": "antistof mod cyklisk citrullineret peptid."
+  },
+  {
+    "term": "Antikoagulerende",
+    "definition": "blodfortyndende."
+  },
+  {
+    "term": "Anæmi",
+    "definition": "nedsat hæmoglobinmasse, blodmangel."
+  },
+  {
+    "term": "AParenteral",
+    "definition": "direkte i blodbane, hud eller muskler."
+  },
+  {
+    "term": "Apati",
+    "definition": "sygelig ligegyldighed og utilgængelighed for indtryk."
+  },
+  {
+    "term": "Apopleksi",
+    "definition": "slagtilfælde (hjerneblødning eller blodprop i hjernen)."
+  },
+  {
+    "term": "Apoptose",
+    "definition": "programmeret celledød."
+  },
+  {
+    "term": "Appendicitis",
+    "definition": "blindtarmsbetændelse."
+  },
+  {
+    "term": "Appendix",
+    "definition": "blindtarm."
+  },
+  {
+    "term": "Apraksi",
+    "definition": "defekt udførelse af formålsbestemte handlinger trods normal kraft, føleevne og koordination."
+  },
+  {
+    "term": "Arachnoidea mater",
+    "definition": "den mellemste hjernehinde."
+  },
+  {
+    "term": "Arcus vertebrae",
+    "definition": "ryghvirvelbue."
+  },
+  {
+    "term": "Arkolyse",
+    "definition": "brud på ryghvirvelbue."
+  },
+  {
+    "term": "Arteria carotis",
+    "definition": "halspulsåren."
+  },
+  {
+    "term": "Arteria iliaca communis",
+    "definition": "bækkenarterie."
+  },
+  {
+    "term": "Arteria ophthalmica",
+    "definition": "arterie, der fører til øjet."
+  },
+  {
+    "term": "Arteria temporalis",
+    "definition": "tindingearterien."
+  },
+  {
+    "term": "Arteria vertebralis",
+    "definition": "nakkepulsåren."
+  },
+  {
+    "term": "Arteriel hypertension",
+    "definition": "forhøjet blodtryk."
+  },
+  {
+    "term": "Arteriole",
+    "definition": "modstandskar; lille arterielt blodkar."
+  },
+  {
+    "term": "Arthritis eller artrit",
+    "definition": "ledbetændelse, gigt."
+  },
+  {
+    "term": "Arthritis urica",
+    "definition": "urinsyregigt."
+  },
+  {
+    "term": "Artralgier",
+    "definition": "ledsmerter."
+  },
+  {
+    "term": "Artroplastik",
+    "definition": "operation, hvor nyt led indsættes."
+  },
+  {
+    "term": "Artrose",
+    "definition": "osteoartrose, slidgigt."
+  },
+  {
+    "term": "Arytmi",
+    "definition": "hjerterytmeforstyrrelse."
+  },
+  {
+    "term": "ASA",
+    "definition": "acetylsalicylsyre."
+  },
+  {
+    "term": "Ascendere",
+    "definition": "gå opad."
+  },
+  {
+    "term": "Ascites",
+    "definition": "væske i bughulen."
+  },
+  {
+    "term": "Aspiration",
+    "definition": "fejlsynkning."
+  },
+  {
+    "term": "Astenospermi",
+    "definition": "inaktive sædceller."
+  },
+  {
+    "term": "Asymptomatisk",
+    "definition": "uden symptomer."
+  },
+  {
+    "term": "Ataksi",
+    "definition": "koordinationsproblemer."
+  },
+  {
+    "term": "Aterosklerose",
+    "definition": "åreforkalkning."
+  },
+  {
+    "term": "Atopi",
+    "definition": "arvelig disposition for allergi."
+  },
+  {
+    "term": "Atopisk eksem",
+    "definition": "børneeksem."
+  },
+  {
+    "term": "Atrieflimren",
+    "definition": "hjerteforkammerflimren."
+  },
+  {
+    "term": "Atrofi",
+    "definition": "svind."
+  },
+  {
+    "term": "Atrofisk gastritis",
+    "definition": "kronisk mavebetændelse med udtynding af slimhinden."
+  },
+  {
+    "term": "Autoimmun",
+    "definition": "immunreaktion over for organismens egne celleproteiner."
+  },
+  {
+    "term": "Autolog stamcelletransplantation",
+    "definition": "transplantation med patientens egne stamceller."
+  },
+  {
+    "term": "Autolyse",
+    "definition": "selvnedbrydning."
+  },
+  {
+    "term": "Autopsi",
+    "definition": "obduktion, lægelig undersøgelse af legemets organer efter døden."
+  },
+  {
+    "term": "B1 2-vitamin Peroral",
+    "definition": "gennem munden."
+  },
+  {
+    "term": "Bakteriæmi",
+    "definition": "bakterier i blodet."
+  },
+  {
+    "term": "BAL",
+    "definition": "bronkoalveolær lavage (skylning af lungerne med små mængder saltvand, der genopsuges)."
+  },
+  {
+    "term": "Balanitis",
+    "definition": "infektion/inflammation på penishovedet."
+  },
+  {
+    "term": "Bariatrisk kirurgi",
+    "definition": "fedmekirurgi."
+  },
+  {
+    "term": "Basofili",
+    "definition": "forøget mængde basofile granulocytter i blodet."
+  },
+  {
+    "term": "Bechterews sygdom",
+    "definition": "rygsøjlegigt."
+  },
+  {
+    "term": "Bechterews sygdom Annulus fibrosus",
+    "definition": "den fibrøse ring i periferien af rygsøjlens disci."
+  },
+  {
+    "term": "Benign",
+    "definition": "godartet."
+  },
+  {
+    "term": "Benignt naevus",
+    "definition": "godartet modermærke."
+  },
+  {
+    "term": "Betablokkere",
+    "definition": "blodtryks sænkende medicin."
+  },
+  {
+    "term": "Bilirubin",
+    "definition": "galdefarvestof, affaldsprodukt fra nedbrydningen af hæmoglobin."
+  },
+  {
+    "term": "Biopsi",
+    "definition": "vævsprøve."
+  },
+  {
+    "term": "Bloddyrkning",
+    "definition": "blod tilsættes et vækstmedium, der tillader vækst af bakterier og svampe."
+  },
+  {
+    "term": "Blokade",
+    "definition": "indsprøjtning af medicin i vævet typisk med henblik på smertelindring."
+  },
+  {
+    "term": "BMD",
+    "definition": "bone mineral density, knoglemineral­ tæthed."
+  },
+  {
+    "term": "BMI",
+    "definition": "body mass index."
+  },
+  {
+    "term": "BNP",
+    "definition": "brain natriuretic peptide."
+  },
+  {
+    "term": "Borborygmi",
+    "definition": "køren i maven."
+  },
+  {
+    "term": "Bradykinesi",
+    "definition": "abnormt langsomme bevægelser."
+  },
+  {
+    "term": "Brakyterapi",
+    "definition": "radioaktive stoffer indstøbt i kugler eller tråde anbringes i patienten i et afgrænset tidsrum."
+  },
+  {
+    "term": "Bronkiektasier",
+    "definition": "udvidelser på bronkierne."
+  },
+  {
+    "term": "Bronkier",
+    "definition": "de små luftveje."
+  },
+  {
+    "term": "Bronkodilatator",
+    "definition": "luftvejsudvidende medicin."
+  },
+  {
+    "term": "Bronkokonstriktion",
+    "definition": "sammentrækning af glatte muskler i bronkierne, så disse forsnævres."
+  },
+  {
+    "term": "Bronkoskopi",
+    "definition": "kikkertundersøgelse af bronkierne."
+  },
+  {
+    "term": "Bronkospasme",
+    "definition": "sammentrækning af bronkierne."
+  },
+  {
+    "term": "BT",
+    "definition": "blodtryk."
+  },
+  {
+    "term": "Bulbus",
+    "definition": "øjeæble."
+  },
+  {
+    "term": "Bullae",
+    "definition": "overfladiske væskelommer."
+  },
+  {
+    "term": "Bursae",
+    "definition": "slimsække."
+  },
+  {
+    "term": "Bursitis",
+    "definition": "slimsækbetændelse."
+  },
+  {
+    "term": "CABG",
+    "definition": "koronar bypassoperation."
+  },
+  {
+    "term": "Caecum",
+    "definition": "første del af colon."
+  },
+  {
+    "term": "CAGE-C",
+    "definition": "skema til screening for risikabelt alkoholforbrug."
+  },
+  {
+    "term": "Callus",
+    "definition": "nydannet væv, der opstår ved knoglebrudsheling."
+  },
+  {
+    "term": "Calor",
+    "definition": "varme."
+  },
+  {
+    "term": "Cancer",
+    "definition": "kræft."
+  },
+  {
+    "term": "Cancer cervitis uteri",
+    "definition": "livmoderhalskræft."
+  },
+  {
+    "term": "Cancer cutis",
+    "definition": "hudkræft."
+  },
+  {
+    "term": "Cancer mamma",
+    "definition": "brystkræft."
+  },
+  {
+    "term": "Cancer prostatae",
+    "definition": "prostatakræft."
+  },
+  {
+    "term": "Cancer pulmonis",
+    "definition": "lungekræft."
+  },
+  {
+    "term": "Caput humeri",
+    "definition": "overarmsknoglens hoved."
+  },
+  {
+    "term": "Caput medusae",
+    "definition": "åreknuder i underhuden ud fra navlen."
+  },
+  {
+    "term": "Caputnekrose",
+    "definition": "knogledød og henfald af knoglevævet i knoglens ende, fx i lårbenshovedet."
+  },
+  {
+    "term": "Caries",
+    "definition": "huller i tænderne."
+  },
+  {
+    "term": "Cauda equina",
+    "definition": "samling af nerverødder fra lænde-, korsryg- og halebensdelen af ryggen."
+  },
+  {
+    "term": "Cavitas glenoidalis",
+    "definition": "skulderbladets ledflade."
+  },
+  {
+    "term": "Cerebral parese",
+    "definition": "spastisk lammelse pga. hjerneskade."
+  },
+  {
+    "term": "Cerebrospinalvæske",
+    "definition": "rygmarvsvæske."
+  },
+  {
+    "term": "Cerebrum",
+    "definition": "storhjernen."
+  },
+  {
+    "term": "Cervicit",
+    "definition": "infektion i livmoderhalsen/munden."
+  },
+  {
+    "term": "Cervix",
+    "definition": "livmoderhalsen."
+  },
+  {
+    "term": "Cilier",
+    "definition": "fimrehår."
+  },
+  {
+    "term": "Ciliestase",
+    "definition": "fimrehårene står stille."
+  },
+  {
+    "term": "Cirrose",
+    "definition": "skrumpelever."
+  },
+  {
+    "term": "Citrullinering",
+    "definition": "enzymatisk omdannelse af proteiner, hvor aminosyren arginin ændres til citrullin."
+  },
+  {
+    "term": "Claudicatio intermittens",
+    "definition": "smerter i benene ved gang (\"vindueskiggersyndrom”)."
+  },
+  {
+    "term": "CLL",
+    "definition": "kronisk lymfatisk leukæmi."
+  },
+  {
+    "term": "CML",
+    "definition": "kronisk myeloid leukæmi."
+  },
+  {
+    "term": "CNS",
+    "definition": "centralnervesystemet."
+  },
+  {
+    "term": "Coccygeal",
+    "definition": "halebensdel af ryggen."
+  },
+  {
+    "term": "Colchicin",
+    "definition": "et planteekstrakt til behandling af urinsyregigt."
+  },
+  {
+    "term": "Collum femoris",
+    "definition": "lårbenshalsen."
+  },
+  {
+    "term": "Colon",
+    "definition": "tyktarmen."
+  },
+  {
+    "term": "Coloncancer",
+    "definition": "tyktarmskræft."
+  },
+  {
+    "term": "Columna",
+    "definition": "rygsøjlen."
+  },
+  {
+    "term": "Columna lumbalis",
+    "definition": "lændedelen af rygsøjlen."
+  },
+  {
+    "term": "Conjunctivitis",
+    "definition": "infektion i øjets bindehinde."
+  },
+  {
+    "term": "Cor pulmonale",
+    "definition": "forstørrelse af højre hjertehalvdel pga. forhøjet modstand i lungekredsløbet."
+  },
+  {
+    "term": "Corpora cavernosa",
+    "definition": "svulmelegemer i penis."
+  },
+  {
+    "term": "Corpus luteum",
+    "definition": "det gule legeme."
+  },
+  {
+    "term": "Corpus striatum",
+    "definition": "nucleus caudatus og putamen."
+  },
+  {
+    "term": "Cortex cerebri",
+    "definition": "hjernebarken."
+  },
+  {
+    "term": "Corticalis",
+    "definition": "det yderste lag af knoglevævet."
+  },
+  {
+    "term": "CRP",
+    "definition": "C-reaktivt protein (plasmaprotein, der fremstilles i leveren i den akutte fase af en infektion)."
+  },
+  {
+    "term": "CT-scanning",
+    "definition": "computertomografiscanning (røntgenundersøgelse med tværsnitsbilleder, der kan bearbejdes i computer, så det undersøgte område kan vises tredimensionalt)."
+  },
+  {
+    "term": "CTG",
+    "definition": "cardiotocografi (en elektronisk registrering af barnets hjertefrekvens og den gravides ve­ hyppighed)."
+  },
+  {
+    "term": "Cyanose",
+    "definition": "blåfarvning af hud og slimhinder pga. lavt iltindhold i blodet."
+  },
+  {
+    "term": "Cyste",
+    "definition": "væskeblære."
+  },
+  {
+    "term": "Cystitis",
+    "definition": "blærebetændelse."
+  },
+  {
+    "term": "Cystoskopi",
+    "definition": "kikkertundersøgelse af blære og urinveje."
+  },
+  {
+    "term": "Cytokiner",
+    "definition": "inflammatoriske signalstoffer."
+  },
+  {
+    "term": "Cytostatika",
+    "definition": "lægemidler, der hæmmer cellers vækst."
+  },
+  {
+    "term": "Cøliaki",
+    "definition": "glutenallergi."
+  },
+  {
+    "term": "DALY",
+    "definition": "disability-adjusted life years."
+  },
+  {
+    "term": "DAT",
+    "definition": "dialektisk adfærdsterapi."
+  },
+  {
+    "term": "Decubitus",
+    "definition": "tryksår."
+  },
+  {
+    "term": "Degeneration",
+    "definition": "celle-, vævs- eller organforandringer, der skyldes lokale forstyrrelser i stofskiftet ledsaget af nedsat eller ophørt funktion, ofte aldersrelateret."
+  },
+  {
+    "term": "Dental plak",
+    "definition": "bakterieansamlinger på tænder."
+  },
+  {
+    "term": "Depersonalisationsoplevelse",
+    "definition": "oplevelse af egen uvirkelighed."
+  },
+  {
+    "term": "Derealitetsoplevelse",
+    "definition": "oplevelse af, at omgivelserne er uvirkelige."
+  },
+  {
+    "term": "Diabetes mellitus",
+    "definition": "sukkersyge Diarré:."
+  },
+  {
+    "term": "Disci",
+    "definition": "skiver mellem ryghvirvler."
+  },
+  {
+    "term": "Disfiguration",
+    "definition": "misdannelse/unaturligt udseende."
+  },
+  {
+    "term": "Diskusdegeneration",
+    "definition": "forandringer, fx pga. alder, i hvirvelbåndskiver i rygsøjlen."
+  },
+  {
+    "term": "Diskusprolaps",
+    "definition": "udtrængning af den bløde kerne gennem båndskivens fibrøse ring."
+  },
+  {
+    "term": "Disloceret fraktur",
+    "definition": "forskydning af knogleenderne ved knoglebrud."
+  },
+  {
+    "term": "Dissemineret",
+    "definition": "udbredt i kroppen."
+  },
+  {
+    "term": "Distal radiusfraktur",
+    "definition": "håndledsbrud af spolebenet."
+  },
+  {
+    "term": "Distale radius",
+    "definition": "distale del af spolebenet."
+  },
+  {
+    "term": "Diuretika",
+    "definition": "vanddrivende medicin."
+  },
+  {
+    "term": "Divertikel",
+    "definition": "udposning."
+  },
+  {
+    "term": "DMARD",
+    "definition": "disease modifying anti-rheumatic drugs."
+  },
+  {
+    "term": "DNA, RNA og proteiner Monarthritis",
+    "definition": "ledbetændelse i ét led."
+  },
+  {
+    "term": "Dolores",
+    "definition": "smerter."
+  },
+  {
+    "term": "Duodenum",
+    "definition": "tolvfingertarmen."
+  },
+  {
+    "term": "Dura mater",
+    "definition": "den hårde hjernehinde."
+  },
+  {
+    "term": "DVT",
+    "definition": "dyb venøs trombose."
+  },
+  {
+    "term": "Dysarti",
+    "definition": "udtaleproblemer."
+  },
+  {
+    "term": "Dysenteri",
+    "definition": "bakteriel tarminfektion, der giver blodig diarré."
+  },
+  {
+    "term": "Dyslipidæmi",
+    "definition": "forstyrrelse i blodets indhold af lipider Dysmenoré: smertefulde menstruationer."
+  },
+  {
+    "term": "Dyspepsi",
+    "definition": "smerter og ubehag i den øvre del af maven."
+  },
+  {
+    "term": "Dysplasi",
+    "definition": "celleforandringer."
+  },
+  {
+    "term": "Dyspnø",
+    "definition": "åndenød."
+  },
+  {
+    "term": "Dysuri",
+    "definition": "svie ved vandladning."
+  },
+  {
+    "term": "Dysæstesi",
+    "definition": "forstyrret berøringsfølelse."
+  },
+  {
+    "term": "ECT",
+    "definition": "elektrokonvulsiv terapi (elektrostim ulationsbehandling)."
+  },
+  {
+    "term": "EEG",
+    "definition": "elektroencefalografi (undersøgelse, hvor hjernens elektriske signaler registreres)."
+  },
+  {
+    "term": "EGF",
+    "definition": "epidermal growth factor."
+  },
+  {
+    "term": "Eklampsi",
+    "definition": "fødselskrampe, alvorlig svangerskabsforgiftning."
+  },
+  {
+    "term": "Eksekutiv dysfunktion",
+    "definition": "vanskeligheder ved at styre og planlægge tanker, følelser og bevægelser."
+  },
+  {
+    "term": "Eksfoliativ dermatitis",
+    "definition": "blæredannelse og afløsning af huden."
+  },
+  {
+    "term": "Eksogen",
+    "definition": "udefrakommende."
+  },
+  {
+    "term": "Ekspektorat",
+    "definition": "opspyt."
+  },
+  {
+    "term": "Ekssudation",
+    "definition": "udsivning."
+  },
+  {
+    "term": "Ekstensorside",
+    "definition": "strækkeside."
+  },
+  {
+    "term": "Ekstraartikulær",
+    "definition": "uden for led."
+  },
+  {
+    "term": "Ekstrauterin",
+    "definition": "uden for livmoderen."
+  },
+  {
+    "term": "Ektopisk fedtaflejring",
+    "definition": "aflejring af fedt i fx lever, pancreas, muskler og hjerte."
+  },
+  {
+    "term": "Embolia cerebri",
+    "definition": "blodprop i hjernen."
+  },
+  {
+    "term": "Embolier",
+    "definition": "blodpropper, der bevæger sig med blodet (ental: embolus)."
+  },
+  {
+    "term": "Emfysem",
+    "definition": "permanent udvidelse af alveolerne i lungerne som følge af ødelæggelse af alveolevæggene."
+  },
+  {
+    "term": "EMG",
+    "definition": "elektromyografi (undersøgelse, hvor musklernes elektriske signaler registreres)."
+  },
+  {
+    "term": "Encephalitis",
+    "definition": "hjernebetændelse."
+  },
+  {
+    "term": "Endokrin",
+    "definition": "vedrører de kirtler, der udskiller hormoner (endo = indre, krin = kirtel)."
+  },
+  {
+    "term": "Endokrinologi",
+    "definition": "læren om hormoner og hormonelt betingede sygdomme."
+  },
+  {
+    "term": "Endometriecancer",
+    "definition": "kræft i livmoderslimhindens celler."
+  },
+  {
+    "term": "Endometriose",
+    "definition": "livmoderslimhinde beliggende uden for livmoderen."
+  },
+  {
+    "term": "Endometritis",
+    "definition": "betændelse i livmoderslimhinden."
+  },
+  {
+    "term": "Endometrium",
+    "definition": "livmoderslimhinde."
+  },
+  {
+    "term": "Endoskopi",
+    "definition": "kikkertundersøgelse."
+  },
+  {
+    "term": "Enteritis",
+    "definition": "tarminfektion med diarré, men intet opkast."
+  },
+  {
+    "term": "Entese",
+    "definition": "senetilhæftning til knogle."
+  },
+  {
+    "term": "Entesopati",
+    "definition": "betændelse i senetilhæftning til knogle."
+  },
+  {
+    "term": "Eosinofil",
+    "definition": "en type hvidt blodlegeme."
+  },
+  {
+    "term": "Eosinofili",
+    "definition": "forøget mængde eosinofile granulocytter i blodet."
+  },
+  {
+    "term": "Epididymitis",
+    "definition": "betændelse i bitestiklen."
+  },
+  {
+    "term": "Epiduralt hæmatom",
+    "definition": "blødning i rummet mellem kraniets inderside og den yderste hjernehinde."
+  },
+  {
+    "term": "Epifyse",
+    "definition": "enden af en voksende rørknogle."
+  },
+  {
+    "term": "Epifyseskive",
+    "definition": "rørknoglens vækstzone."
+  },
+  {
+    "term": "Epifysiolyse",
+    "definition": "beskadigelse/afløsning af knoglevækstzonen (forekommer hos børn)."
+  },
+  {
+    "term": "Epigastrium",
+    "definition": "den øverste del af bugvæggen, solar plexus."
+  },
+  {
+    "term": "Epigenetik",
+    "definition": "molekylærbiologisk forskningsfelt, der vedrører arvelige egenskaber, der ikke ændrer den grundlæggende basesekvens i."
+  },
+  {
+    "term": "Episkleritis",
+    "definition": "betændelsestilstand i det \"hvide” i øjet, den overfladiske del af øjets senehinde."
+  },
+  {
+    "term": "EPO",
+    "definition": "erytropoietin."
+  },
+  {
+    "term": "Eradikationskur",
+    "definition": "Antibiotikakur med henblik på at fjerne bakterien helicobacter pylori fra maveslimhinden."
+  },
+  {
+    "term": "ERCP",
+    "definition": "endoskopisk retrograd kolangiopankreatikografi (røntgenkontrastundersøgelse af galdegange, galdeblære og bugspytkirtel)."
+  },
+  {
+    "term": "Eretisme",
+    "definition": "vrede og irritabilitet ved manisk sygdom."
+  },
+  {
+    "term": "Eroderes",
+    "definition": "bortgnaves."
+  },
+  {
+    "term": "Erosion",
+    "definition": "udstansning/”gnav” i den lednære knogle."
+  },
+  {
+    "term": "Erysipelas",
+    "definition": "en afgrænset overfladisk hudinfektion (rosen)."
+  },
+  {
+    "term": "Erytrocytter",
+    "definition": "røde blodlegemer."
+  },
+  {
+    "term": "Erytropoiese",
+    "definition": "dannelse af røde blodlegemer."
+  },
+  {
+    "term": "Eutyroid",
+    "definition": "normal funktion af skjoldbruskkirtlen."
+  },
+  {
+    "term": "Exacerbation",
+    "definition": "sygdomsforværring."
+  },
+  {
+    "term": "Facetled",
+    "definition": "styrende led i rygsøjlen."
+  },
+  {
+    "term": "Faryngit",
+    "definition": "halsbetændelse, svælgkatar."
+  },
+  {
+    "term": "Fasciitis plantaris",
+    "definition": "hælspore."
+  },
+  {
+    "term": "Femoro-glutealregion",
+    "definition": "på lår og bagdel."
+  },
+  {
+    "term": "Femur",
+    "definition": "lårbenet."
+  },
+  {
+    "term": "Fertil",
+    "definition": "frugtbar."
+  },
+  {
+    "term": "FEVi",
+    "definition": "forceret eksspiratorisk volumen i første sekund (lungefunktionsundersøgelse)."
+  },
+  {
+    "term": "FFA",
+    "definition": "frie fede syrer."
+  },
+  {
+    "term": "FFM",
+    "definition": "kroppens fedtfri masse."
+  },
+  {
+    "term": "Fibrinolyse",
+    "definition": "blodets fibrinopløsende system."
+  },
+  {
+    "term": "Fibromer",
+    "definition": "muskelknuder."
+  },
+  {
+    "term": "Fibrose",
+    "definition": "arvæv, bindevævsdannelse."
+  },
+  {
+    "term": "Fibrøs",
+    "definition": "bestående af bindevæv."
+  },
+  {
+    "term": "Fistel",
+    "definition": "kunstig gang."
+  },
+  {
+    "term": "Flatus- eller fæcesinkontinens",
+    "definition": "manglende evne til at holde på luft eller afføring."
+  },
+  {
+    "term": "Flushing",
+    "definition": "blussende rødme af huden."
+  },
+  {
+    "term": "Fontanelle",
+    "definition": "De bløde områder fortil og bagtil på barnets hoved."
+  },
+  {
+    "term": "Fotofobi",
+    "definition": "lysskyhed."
+  },
+  {
+    "term": "Fragmina",
+    "definition": "knoglestykker."
+  },
+  {
+    "term": "Fraktur",
+    "definition": "knoglebrud."
+  },
+  {
+    "term": "Frakturhæmatom",
+    "definition": "blodansamling ved knoglebrud."
+  },
+  {
+    "term": "Frontallap",
+    "definition": "pandelap."
+  },
+  {
+    "term": "FSH",
+    "definition": "follikelstimulerende hormon."
+  },
+  {
+    "term": "Fulminant",
+    "definition": "fuldt udviklet."
+  },
+  {
+    "term": "Functio laesa",
+    "definition": "nedsat funktion."
+  },
+  {
+    "term": "Funktionel sygdom",
+    "definition": "sygdom uden påviselige patofysiologiske ændringer."
+  },
+  {
+    "term": "FVC",
+    "definition": "forceret vitalkapacitet (lungefunktionsundersøgelse)."
+  },
+  {
+    "term": "Fæces",
+    "definition": "afføring."
+  },
+  {
+    "term": "Fækooral",
+    "definition": "fra afføring til mund."
+  },
+  {
+    "term": "Fænotype",
+    "definition": "udseende og/eller egenskaber."
+  },
+  {
+    "term": "G-CSF",
+    "definition": "granulocytstimulerende faktor."
+  },
+  {
+    "term": "GAD",
+    "definition": "glutaminsyre-decarboxylase."
+  },
+  {
+    "term": "Gastroenteritis",
+    "definition": "mave-tarm-infektion med samtidig opkast og diarré."
+  },
+  {
+    "term": "Gastroskopi",
+    "definition": "kikkertundersøgelse af spiserør, mavesæk og tolvfingertarm."
+  },
+  {
+    "term": "Genitalia",
+    "definition": "kønsorganer."
+  },
+  {
+    "term": "Genotype",
+    "definition": "den genetiske sammensætning."
+  },
+  {
+    "term": "Gestationel diabetes",
+    "definition": "svangerskabsdiabetes."
+  },
+  {
+    "term": "Gestationsalder",
+    "definition": "fosterets alder."
+  },
+  {
+    "term": "Gingival hyperplasi",
+    "definition": "fortykkelse af tandkødet."
+  },
+  {
+    "term": "Gingivitis",
+    "definition": "tandkødsbetændelse."
+  },
+  {
+    "term": "Glandula thyroidea",
+    "definition": "skjoldbruskkirtel."
+  },
+  {
+    "term": "Glandulae parotideae",
+    "definition": "ørespytkirtlerne."
+  },
+  {
+    "term": "Glomerulonefritis",
+    "definition": "betændelse i nyrens glomeruli."
+  },
+  {
+    "term": "Glossitis atrophica",
+    "definition": "glat og rød tunge."
+  },
+  {
+    "term": "Glossitis rhombica mediana",
+    "definition": "svampeinfektion på tungeryggen."
+  },
+  {
+    "term": "GLP-1",
+    "definition": "glukagonlignende peptid 1."
+  },
+  {
+    "term": "Glukokortikoid",
+    "definition": "binyrebarkhormon."
+  },
+  {
+    "term": "Glukoneogenese",
+    "definition": "glukosenydannelse."
+  },
+  {
+    "term": "Glukosuri",
+    "definition": "sukker i urinen."
+  },
+  {
+    "term": "Glukotoksicitet",
+    "definition": "vævsskadelige effekter pga. et langvarigt forhøjet blodglukoseniveau."
+  },
+  {
+    "term": "Glykogenolyse",
+    "definition": "nedbrydning af glykogen."
+  },
+  {
+    "term": "Glykolyse",
+    "definition": "nedbrydning af glukose."
+  },
+  {
+    "term": "Granulocytose",
+    "definition": "forhøjet antal granulocytter i blodet."
+  },
+  {
+    "term": "Granulom",
+    "definition": "lille kugle af inflammatoriske celler."
+  },
+  {
+    "term": "Green stick-fraktur",
+    "definition": "knoglebrud, hvor den ene side af knoglen holder, mens den anden side brækker; som at knække en frisk gren."
+  },
+  {
+    "term": "Gulsot",
+    "definition": "gullig misfarvning af hud og slimhinder pga. højt bilirubinniveau (= ikterus)."
+  },
+  {
+    "term": "Gynækologi",
+    "definition": "læren om de sygdomme, der er specielle for kvinden."
+  },
+  {
+    "term": "Halitose",
+    "definition": "dårlig ånde."
+  },
+  {
+    "term": "Hallucination",
+    "definition": "sanseindtryk uden ydre sansestimulus hCG: humant choriongonadotropin (graviditetshormon)."
+  },
+  {
+    "term": "Hemiparese",
+    "definition": "halvsidig lammelse af kroppen."
+  },
+  {
+    "term": "Hemiprotese",
+    "definition": "halv-protese; delvis udskiftning af et led."
+  },
+  {
+    "term": "Hemisfære",
+    "definition": "hjernehalvdel."
+  },
+  {
+    "term": "Hepar",
+    "definition": "lever."
+  },
+  {
+    "term": "Hepatitis",
+    "definition": "leverbetændelse."
+  },
+  {
+    "term": "Hepatocellulært karcinom",
+    "definition": "cancer udgående fra leverceller."
+  },
+  {
+    "term": "Hepatocyt",
+    "definition": "levercelle."
+  },
+  {
+    "term": "Herpes genitalis",
+    "definition": "\"forkølelsessår” på kønsorganer."
+  },
+  {
+    "term": "Herpes labialis",
+    "definition": "\"forkølelsessår” på læben."
+  },
+  {
+    "term": "Hirsutisme",
+    "definition": "øget hårvækst."
+  },
+  {
+    "term": "Histologi",
+    "definition": "vævslære, mikroskopisk anatomi."
+  },
+  {
+    "term": "Histopatologisk",
+    "definition": "mikroskopisk undersøgelse for sygeligt forandret væv."
+  },
+  {
+    "term": "HLA-vævstype",
+    "definition": "humant leukocyt-antigen-vævstype HPA-akse:hypothalamus-hypofyse-binyrebark-akse."
+  },
+  {
+    "term": "HPV",
+    "definition": "humant papillomavirus."
+  },
+  {
+    "term": "Hudturgor",
+    "definition": "hudens elasticitet og smidighed."
+  },
+  {
+    "term": "Humerus",
+    "definition": "overarmsknogle."
+  },
+  {
+    "term": "Humerusfraktur",
+    "definition": "knoglebrud på overarmen."
+  },
+  {
+    "term": "Hydrocephalus",
+    "definition": "forstørret ventrikelsystem i hjernen med forøget mængde væske."
+  },
+  {
+    "term": "Hydronefrose",
+    "definition": "udtalt udvidelse af nyrebækkenet."
+  },
+  {
+    "term": "Hyperglykæmi",
+    "definition": "forhøjet blodsukker."
+  },
+  {
+    "term": "Hyperkoagel tilstand",
+    "definition": "tilstand med øget blodstørkningstendens."
+  },
+  {
+    "term": "Hyperplasi",
+    "definition": "øget antal celler."
+  },
+  {
+    "term": "Hypertension",
+    "definition": "forhøjet blodtryk."
+  },
+  {
+    "term": "Hypertrofi",
+    "definition": "øget cellestørrelse."
+  },
+  {
+    "term": "Hypertyreose",
+    "definition": "tyrotoksikose, forhøjet stofskifte."
+  },
+  {
+    "term": "Hyperurikæmi",
+    "definition": "øget uratkoncentration i blodet."
+  },
+  {
+    "term": "Hypoglykæmi",
+    "definition": "lavt blodsukker."
+  },
+  {
+    "term": "Hypokalcæmi",
+    "definition": "nedsat kalciumkoncentration i blodet."
+  },
+  {
+    "term": "Hypoperfusion",
+    "definition": "nedsat gennemblødning."
+  },
+  {
+    "term": "Hyposalivation",
+    "definition": "nedsat spytsekretion."
+  },
+  {
+    "term": "Hypotyreose",
+    "definition": "myksødem, for lavt stofskifte."
+  },
+  {
+    "term": "Hypoxi",
+    "definition": "nedsat iltindhold i blodet."
+  },
+  {
+    "term": "Hysterektomi",
+    "definition": "fjernelse af livmoderen."
+  },
+  {
+    "term": "Hysteroskopi",
+    "definition": "kikkertundersøgelse af livmoderen."
+  },
+  {
+    "term": "Hæmatemese",
+    "definition": "blodigt opkast."
+  },
+  {
+    "term": "Hæmatogen",
+    "definition": "via blodet."
+  },
+  {
+    "term": "Hæmatologi",
+    "definition": "læren om blodets sygdomme."
+  },
+  {
+    "term": "Hæmatom",
+    "definition": "blodansamling."
+  },
+  {
+    "term": "Hæmatopoietisk",
+    "definition": "bloddannende."
+  },
+  {
+    "term": "Hæmolyse",
+    "definition": "nedbrydning af røde blodlegemer."
+  },
+  {
+    "term": "Hæmoragi",
+    "definition": "blødning."
+  },
+  {
+    "term": "Idiopatisk",
+    "definition": "uden kendt årsag."
+  },
+  {
+    "term": "IE",
+    "definition": "international enhed."
+  },
+  {
+    "term": "IFG",
+    "definition": "impaired fasting glucose, forhøjet fasteblodglukose."
+  },
+  {
+    "term": "IFG) Præeklampsi",
+    "definition": "svangerskabsforgiftning."
+  },
+  {
+    "term": "IFN-",
+    "definition": "gamma-interferon."
+  },
+  {
+    "term": "IgG-antistof Reumatoid artrit",
+    "definition": "ægte leddegigt."
+  },
+  {
+    "term": "IGT",
+    "definition": "impaired glucose tolerance, nedsat glukosetolerance."
+  },
+  {
+    "term": "Ikterus",
+    "definition": "gulsot med gulfarvning af hud og slimhinder."
+  },
+  {
+    "term": "IL-1",
+    "definition": "interleukin 1 -beta."
+  },
+  {
+    "term": "Ileus",
+    "definition": "tarmslyng."
+  },
+  {
+    "term": "ILS",
+    "definition": "interstitielle lungesygdomme."
+  },
+  {
+    "term": "Iltsaturation",
+    "definition": "iltmætning."
+  },
+  {
+    "term": "Immuninflammation",
+    "definition": "rekruttering og aktivering af betændelsesceller uden samtidig infektion."
+  },
+  {
+    "term": "Impetigo",
+    "definition": "børnesår."
+  },
+  {
+    "term": "Implantere",
+    "definition": "sætte sig fast."
+  },
+  {
+    "term": "Incidens",
+    "definition": "antallet af nye sygdomstilfælde i en befolkningsgruppe i løbet af en given tidsperiode."
+  },
+  {
+    "term": "Indkilet ff aktur",
+    "definition": "knoglebrud, hvor bruddet har trykket sig fast."
+  },
+  {
+    "term": "Infektion",
+    "definition": "en mikroorganismes overførsel, indtrængen og formering i en anden organisme."
+  },
+  {
+    "term": "Inferiort",
+    "definition": "retningen nedad."
+  },
+  {
+    "term": "Infertilitet",
+    "definition": "manglende befrugtning efter ét års forsøg på at opnå graviditet."
+  },
+  {
+    "term": "Infiltrat",
+    "definition": "fortætning."
+  },
+  {
+    "term": "Infiltration",
+    "definition": "invadering."
+  },
+  {
+    "term": "Inflammation",
+    "definition": "betændelse."
+  },
+  {
+    "term": "Infravesikalt",
+    "definition": "under blæreniveau."
+  },
+  {
+    "term": "Inhibere",
+    "definition": "hæmme."
+  },
+  {
+    "term": "Inkarceration",
+    "definition": "hjernen presses ud gennem bunden af kraniet pga. højt intrakranielt tryk."
+  },
+  {
+    "term": "Inkontinens",
+    "definition": "manglende evne til at holde på urin."
+  },
+  {
+    "term": "Inkretin",
+    "definition": "tarmhormon, der stimulerer insulinsekretionen i forbindelse med fødeindtagelse."
+  },
+  {
+    "term": "Inkubationstid",
+    "definition": "tiden fra man smittes, til man udvikler symptomer."
+  },
+  {
+    "term": "Innat",
+    "definition": "medfødt."
+  },
+  {
+    "term": "Insulinresistens",
+    "definition": "nedsat insulinfølsomhed."
+  },
+  {
+    "term": "Intermitterende",
+    "definition": "periodevis."
+  },
+  {
+    "term": "Interposition",
+    "definition": "indeklemning."
+  },
+  {
+    "term": "Interstitiel",
+    "definition": "hørende til mellemrummet mellem vævets celler."
+  },
+  {
+    "term": "Intestinum tenue",
+    "definition": "tyndtarm."
+  },
+  {
+    "term": "Intraabdominalt",
+    "definition": "i bughulen."
+  },
+  {
+    "term": "Intraartikulært",
+    "definition": "i et led."
+  },
+  {
+    "term": "Intramedullær",
+    "definition": "i medulla (marvkanalen)."
+  },
+  {
+    "term": "Intraossøs",
+    "definition": "i en knogle."
+  },
+  {
+    "term": "Intrauterin insemination",
+    "definition": "injektion af sædceller direkte i livmoderen."
+  },
+  {
+    "term": "Intravenøs",
+    "definition": "i en vene."
+  },
+  {
+    "term": "IPF",
+    "definition": "idiopatisk pulmonal fibrose."
+  },
+  {
+    "term": "Irreversibel",
+    "definition": "forandring, der ikke kan normaliseres."
+  },
+  {
+    "term": "IRS-1",
+    "definition": "insulinreceptorsubstrat-1."
+  },
+  {
+    "term": "Iskæmi",
+    "definition": "nedsat blodforsyning og dermed utilstrækkelig ilttilførsel."
+  },
+  {
+    "term": "IVF",
+    "definition": "in vitro-fertilisering (reagensglasbehandling)."
+  },
+  {
+    "term": "Juxtaartikulær halisterese",
+    "definition": "udtynding af knoglen i relation til et led."
+  },
+  {
+    "term": "KAG",
+    "definition": "koronarangiografi (røntgenkontrastundersøgelse, der viser hjertets egne blodkar)."
+  },
+  {
+    "term": "Kakeksi",
+    "definition": "ekstrem afmagring."
+  },
+  {
+    "term": "Kardiomegali",
+    "definition": "forstørret hjerte."
+  },
+  {
+    "term": "Kastration",
+    "definition": "fjernelse af testiklerne."
+  },
+  {
+    "term": "KAT",
+    "definition": "kognitiv adfærdsterapi."
+  },
+  {
+    "term": "Katabol",
+    "definition": "vævsnedbrydende."
+  },
+  {
+    "term": "Katatoni",
+    "definition": "bevægeforstyrrelser ved visse psykiatriske sygdomme, fx langvarig stivnen i bestemte stillinger."
+  },
+  {
+    "term": "Katekolaminer",
+    "definition": "adrenalin og noradrenalin."
+  },
+  {
+    "term": "Keratokonjunctivitis sicca",
+    "definition": "øjentørhed og kløe/ rødme ved Sjögrens syndrom."
+  },
+  {
+    "term": "Ketoacidose",
+    "definition": "syreforgiftning med højt blodglukoseniveau og ophobning af ketonstoffer."
+  },
+  {
+    "term": "Kirschner-tråd",
+    "definition": "stiv metaltråd."
+  },
+  {
+    "term": "Klimakterium",
+    "definition": "overgangsalder."
+  },
+  {
+    "term": "Klonal evolution",
+    "definition": "tumorer dannet fra en enkelt celle."
+  },
+  {
+    "term": "Klysma",
+    "definition": "væske, der indføres via endetarmen med det formål at fremme afføringen."
+  },
+  {
+    "term": "Knuderosen",
+    "definition": "rødt udslæt på benene."
+  },
+  {
+    "term": "Koagel",
+    "definition": "størknet blod."
+  },
+  {
+    "term": "Koagulation",
+    "definition": "blodstørkning."
+  },
+  {
+    "term": "Koagulopati",
+    "definition": "koagulationsforstyrrelse, ofte pga. nedsat koncentration af koagulationsfaktorer i blodet."
+  },
+  {
+    "term": "Kognition",
+    "definition": "tænkning, planlægning, hukommelse."
+  },
+  {
+    "term": "KOL",
+    "definition": "kronisk obstruktiv lungelidelse."
+  },
+  {
+    "term": "Kolangitis",
+    "definition": "betændelse i de store galdeveje."
+  },
+  {
+    "term": "Kolecystektomi",
+    "definition": "fjernelse af galdeblæren."
+  },
+  {
+    "term": "Kolecystitis",
+    "definition": "betændelse i galdeblæren."
+  },
+  {
+    "term": "Kolecystolitiasis",
+    "definition": "galdeblæresten."
+  },
+  {
+    "term": "Koledokolitiasis",
+    "definition": "sten i de store galdegange."
+  },
+  {
+    "term": "Kolkicin",
+    "definition": "inflammationshæmmende medicin."
+  },
+  {
+    "term": "Kollagen",
+    "definition": "grundsubstans i bindevæv."
+  },
+  {
+    "term": "Kolorektal cancer",
+    "definition": "kræft i tyk- og endetarm."
+  },
+  {
+    "term": "Koloskopi",
+    "definition": "kikkertundersøgelse af tyktarmen."
+  },
+  {
+    "term": "Kolposkopi",
+    "definition": "kikkertundersøgelse af livmoderhalsen."
+  },
+  {
+    "term": "Komminut fraktur",
+    "definition": "knoglebrud med mere end to knoglestykker."
+  },
+  {
+    "term": "Komorbiditet",
+    "definition": "anden sygdom ud over den aktuelle."
+  },
+  {
+    "term": "Kompartmentsyndrom",
+    "definition": "blødning i muskelloge, der medfører nedsat eller hindret blodtilførsel til en ekstremitet."
+  },
+  {
+    "term": "Kompulsion",
+    "definition": "tvangshandling."
+  },
+  {
+    "term": "Konception",
+    "definition": "befrugtning."
+  },
+  {
+    "term": "Kondylom",
+    "definition": "kønsvorte."
+  },
+  {
+    "term": "Kongenit",
+    "definition": "medfødt."
+  },
+  {
+    "term": "Kontaktblødning",
+    "definition": "blødning ved samleje."
+  },
+  {
+    "term": "Kontraktion",
+    "definition": "sammentrækning."
+  },
+  {
+    "term": "Kontusion",
+    "definition": "kvæstning."
+  },
+  {
+    "term": "Kortikal",
+    "definition": "via hjernebarken."
+  },
+  {
+    "term": "Kryoterapi",
+    "definition": "frysebehandling."
+  },
+  {
+    "term": "Krypthypertrofi",
+    "definition": "øget længde af slimhindekrypter."
+  },
+  {
+    "term": "Kurativ",
+    "definition": "helbredende."
+  },
+  {
+    "term": "Kvadel",
+    "definition": "en plamage/rødme i huden, der hurtigt svinder (under 24 timer)."
+  },
+  {
+    "term": "Kyfose",
+    "definition": "bagud konveks krumning af rygsøjlen."
+  },
+  {
+    "term": "Kæmpecelleartrit",
+    "definition": "karbetændelse med fund af karakteristiske store celler."
+  },
+  {
+    "term": "Laktation",
+    "definition": "amning."
+  },
+  {
+    "term": "Laktose",
+    "definition": "mælkesukker."
+  },
+  {
+    "term": "Laparoskopi",
+    "definition": "kikkertundersøgelse af bughulen."
+  },
+  {
+    "term": "Laryngotracheobronchitis",
+    "definition": "falsk strubehoste."
+  },
+  {
+    "term": "LCD",
+    "definition": "low calory diet."
+  },
+  {
+    "term": "LDH",
+    "definition": "laktatdehydrogenase."
+  },
+  {
+    "term": "Leiomyosarkom",
+    "definition": "kræft i livmoderens muskelvæv."
+  },
+  {
+    "term": "Leukocytose",
+    "definition": "forhøjet antal leukocytter i blodet."
+  },
+  {
+    "term": "Leukocytter",
+    "definition": "hvide blodlegemer (granulocytter, monocytter og lymfocytter)."
+  },
+  {
+    "term": "Leukopeni",
+    "definition": "nedsat antal leukocytter i blodet."
+  },
+  {
+    "term": "Lewy-legeme",
+    "definition": "særlig celleforandring i hjemenerveceller; ses især ved."
+  },
+  {
+    "term": "Libido",
+    "definition": "sexlyst."
+  },
+  {
+    "term": "Lichenoide læsioner",
+    "definition": "eksem-lignende forandringer i mundslimhinden."
+  },
+  {
+    "term": "Ligament",
+    "definition": "sene, fx ledbånd."
+  },
+  {
+    "term": "Lipodystrofi",
+    "definition": "mangel på eller unormal vækst af fedtvæv."
+  },
+  {
+    "term": "Lipolyse",
+    "definition": "fedtnedbrydning."
+  },
+  {
+    "term": "Lipotoksicitet",
+    "definition": "vævsskadelige effekter pga. et langvarigt forhøjet plasmaniveau af frie fede syrer."
+  },
+  {
+    "term": "Lobektomi",
+    "definition": "f jernelse af vævslap fx lungelap."
+  },
+  {
+    "term": "Luksation",
+    "definition": "ledskred."
+  },
+  {
+    "term": "Lumbal",
+    "definition": "lændedel af ryggen."
+  },
+  {
+    "term": "Lumbalpunktur",
+    "definition": "prøve af væsken omkring rygmarven."
+  },
+  {
+    "term": "Lungeabsces",
+    "definition": "byld i lungen."
+  },
+  {
+    "term": "Lungeembolus",
+    "definition": "blodprop i lungen."
+  },
+  {
+    "term": "Lungeskintigrafi",
+    "definition": "radioaktiv undersøgelse af lungernes blod- og luftgennemstrømning."
+  },
+  {
+    "term": "Lungestase",
+    "definition": "vand i lungerne."
+  },
+  {
+    "term": "Lymfocytter",
+    "definition": "immunceller (hvide blodlegemer)."
+  },
+  {
+    "term": "Lymfødem",
+    "definition": "hævelse af kropsdel pga. nedsat lymfedrænage, fx som følge af operation."
+  },
+  {
+    "term": "Makroalbuminuri",
+    "definition": "betydelig forøget udskillelse af albumin i urinen (> 300 mg/døgn)."
+  },
+  {
+    "term": "Makrofager",
+    "definition": "immunceller i væv, der kan optage og nedbryde mikroorganismer, fremmede stoffer og beskadigede celler og væv (\"skraldemandscelle”)."
+  },
+  {
+    "term": "Makrovaskulær",
+    "definition": "i store blodkar."
+  },
+  {
+    "term": "Makulopati",
+    "definition": "patologiske forandringer svarende til den gule plet i øjet."
+  },
+  {
+    "term": "Malabsorption",
+    "definition": "nedsat optagelse af føde fra tarmen."
+  },
+  {
+    "term": "Malign",
+    "definition": "ondartet."
+  },
+  {
+    "term": "Malignt lymfom",
+    "definition": "lymfeknudekræft."
+  },
+  {
+    "term": "Malignt melanom",
+    "definition": "modermærkekræft."
+  },
+  {
+    "term": "Mamma",
+    "definition": "bryst."
+  },
+  {
+    "term": "Marginal parodontitis",
+    "definition": "parodontose."
+  },
+  {
+    "term": "Mastcelle",
+    "definition": "betændelsescelle, der kan frigive vasoaktive stoffer fx histamin."
+  },
+  {
+    "term": "Mastektomi",
+    "definition": "operativ fjernelse af hele brystet."
+  },
+  {
+    "term": "Maternel",
+    "definition": "hos moderen."
+  },
+  {
+    "term": "MBT",
+    "definition": "mentaliseringsbaseret psykoterapi."
+  },
+  {
+    "term": "McBurneys punkt",
+    "definition": "punkt i højre nedre del af maven, hvor smerter typisk er lokaliseret ved blindtarmsbetændelse."
+  },
+  {
+    "term": "MCHC",
+    "definition": "middelcellehæmoglobinkoncentration."
+  },
+  {
+    "term": "MCV",
+    "definition": "middelcellevolumen."
+  },
+  {
+    "term": "Mediastinum",
+    "definition": "brystskillevæg."
+  },
+  {
+    "term": "Medulla spinalis",
+    "definition": "rygmarv."
+  },
+  {
+    "term": "Megaloblaster",
+    "definition": "store umodne røde blodlegemer."
+  },
+  {
+    "term": "Megaloman forestilling storhedsforestilling Melæna",
+    "definition": "ildelugtende, tjærelignende afføring som følge af blødning i øvre del af mave­ tarmkanalen, hvor blodet påvirkes af syre og pepsin."
+  },
+  {
+    "term": "Menarche",
+    "definition": "tidspunktet for den første menstruation."
+  },
+  {
+    "term": "Meninges",
+    "definition": "hjernehinder."
+  },
+  {
+    "term": "Meningismus",
+    "definition": "symptomer på hjernepåvirkning i form af hovedpine, lysskyhed, kvalme og opkastninger."
+  },
+  {
+    "term": "Meningitis",
+    "definition": "hjernehindebetændelse."
+  },
+  {
+    "term": "Menopause",
+    "definition": "ophør af menstruationer i forbindelse med overgangsalder."
+  },
+  {
+    "term": "Menoragi",
+    "definition": "kraftige, regelmæssige menstruationer."
+  },
+  {
+    "term": "Metaplasi",
+    "definition": "omdannelse af en celletype til en anden."
+  },
+  {
+    "term": "Metastasering",
+    "definition": "spredning af kræftceller."
+  },
+  {
+    "term": "Metroragi",
+    "definition": "uregelmæssige menstruationsblødninger."
+  },
+  {
+    "term": "Mikro- og makroangiopati",
+    "definition": "skader på små og store blodkar."
+  },
+  {
+    "term": "Mikroalbuminuri",
+    "definition": "let forøget udskillelse af albumin i urinen (30-299 mg/døgn)."
+  },
+  {
+    "term": "Mikrovaskulær",
+    "definition": "i småkar."
+  },
+  {
+    "term": "Mitella",
+    "definition": "armslynge."
+  },
+  {
+    "term": "MODY",
+    "definition": "maturity onset diabetes of the young; monogen, ikke-autoimmun diabetesform."
+  },
+  {
+    "term": "Molekylærbiologi",
+    "definition": "omhandler opbygning og funktion af makromolekyler, primært."
+  },
+  {
+    "term": "Monoklonal cellepopulation",
+    "definition": "cellepopulation udgået fra én celle."
+  },
+  {
+    "term": "Mononeuropati",
+    "definition": "nervesygdom i en enkelt nerve."
+  },
+  {
+    "term": "Mononeuropatia multiplex",
+    "definition": "nervesygdom i flere enkeltnerver."
+  },
+  {
+    "term": "Mononukleose",
+    "definition": "kyssesyge."
+  },
+  {
+    "term": "Morbiditet",
+    "definition": "sygelighed."
+  },
+  {
+    "term": "Morbus Scheuermann",
+    "definition": "rundryg."
+  },
+  {
+    "term": "Mortalitet",
+    "definition": "dødelighed."
+  },
+  {
+    "term": "MR-scanning",
+    "definition": "magnetisk resonansscanning (undersøgelsesmetode baseret på en kombineret anvendelse af magnetfelter, radiobølger og avanceret computerteknik)."
+  },
+  {
+    "term": "MRCP",
+    "definition": "MR-scanning af lever og galdeveje."
+  },
+  {
+    "term": "Mucinøs",
+    "definition": "slimagtig."
+  },
+  {
+    "term": "Mucositis",
+    "definition": "mundhulebetændelse."
+  },
+  {
+    "term": "Mucus",
+    "definition": "slim."
+  },
+  {
+    "term": "Multipel sklerose",
+    "definition": "kronisk sygdom med tilbagevendende anfald af lokaliserede symptomer i nervesystemet."
+  },
+  {
+    "term": "Mundånding",
+    "definition": "vejrtrækning gennem munden."
+  },
+  {
+    "term": "Mutisme",
+    "definition": "stumhed."
+  },
+  {
+    "term": "Myalgi",
+    "definition": "muskelsmerter."
+  },
+  {
+    "term": "Myksødem",
+    "definition": "hypotyreose, for lavt stofskifte."
+  },
+  {
+    "term": "Myogen",
+    "definition": "muskulær."
+  },
+  {
+    "term": "Myokardieinfarkt",
+    "definition": "blodprop i hjertet."
+  },
+  {
+    "term": "Myokardieperfusion",
+    "definition": "gennemblødning af hjertemuskulaturen."
+  },
+  {
+    "term": "Myotendinøs overgang",
+    "definition": "overgang mellem muskel og sene."
+  },
+  {
+    "term": "Nasal",
+    "definition": "vedrørende næsen."
+  },
+  {
+    "term": "Nasalstenose",
+    "definition": "vedvarende tilstoppet næse."
+  },
+  {
+    "term": "NASH",
+    "definition": "non-alkoholisk steatohepatitis (fedtlever)."
+  },
+  {
+    "term": "Nefrologisk",
+    "definition": "nyremedicinsk."
+  },
+  {
+    "term": "Nefropati",
+    "definition": "nyresygdom."
+  },
+  {
+    "term": "Nefrostomi",
+    "definition": "et kateter, der lægges direkte ind i nyrebækkenet gennem huden."
+  },
+  {
+    "term": "Nefrotoksisk",
+    "definition": "skadeligt for nyrerne."
+  },
+  {
+    "term": "Neglect",
+    "definition": "patienten registrerer ikke sin ene kropshalvdel eller halvdelen af det omgivende rum."
+  },
+  {
+    "term": "Nekrose",
+    "definition": "vævsdød."
+  },
+  {
+    "term": "Neoadjuverende behandling",
+    "definition": "behandling givet inden en kræftoperation."
+  },
+  {
+    "term": "Neologisme",
+    "definition": "ordnydannelse."
+  },
+  {
+    "term": "Neonatal",
+    "definition": "nyfødt."
+  },
+  {
+    "term": "Neoplasi",
+    "definition": "malignitet, maligne celler."
+  },
+  {
+    "term": "Neuralgiforme smerter",
+    "definition": "jagende smerter."
+  },
+  {
+    "term": "Neuritis",
+    "definition": "nervebetændelse."
+  },
+  {
+    "term": "Neuroadaption",
+    "definition": "tilvænning i hjernen til en bestemt tilstand."
+  },
+  {
+    "term": "Neurologi",
+    "definition": "læren om sygdomme i nervesystemet."
+  },
+  {
+    "term": "Neuropati",
+    "definition": "nervesygdom."
+  },
+  {
+    "term": "Neurotropt virus",
+    "definition": "virus, der er i stand til at inficere nerveceller."
+  },
+  {
+    "term": "Noduli rheumatici",
+    "definition": "millimeter til centimeter store knuder i underhuden."
+  },
+  {
+    "term": "Nodulus",
+    "definition": "lille knude."
+  },
+  {
+    "term": "Non-ketotisk hyperosmolært coma",
+    "definition": "sjælden tilstand med eksorbitant højt blodglukoseniveau og hyperosmolaritet, men uden ophobning af ketonstoffer."
+  },
+  {
+    "term": "NSAID",
+    "definition": "non-steroidal anti-inflammatory drugs, non-steroide antiinflammatoriske stoffer."
+  },
+  {
+    "term": "Nucleus pulposus",
+    "definition": "den bløde kerne i rygsøjlens disci (bruskplader)."
+  },
+  {
+    "term": "Nykturi",
+    "definition": "natlig vandladning."
+  },
+  {
+    "term": "Nystagmus",
+    "definition": "rytmiske øjenbevægelser bestående af en hurtig bevægelse i én retning fulgt af en langsom bevægelse i den modsatte retning."
+  },
+  {
+    "term": "Nævus",
+    "definition": "modermærke."
+  },
+  {
+    "term": "Obsession",
+    "definition": "tvangstanke."
+  },
+  {
+    "term": "Obstetrik",
+    "definition": "læren om normale og sygelige forhold under graviditet og i forbindelse med fødsel."
+  },
+  {
+    "term": "Obstipation",
+    "definition": "forstoppelse."
+  },
+  {
+    "term": "Occipitalt",
+    "definition": "i relation til baghovedet Oligomenoré: sjældne menstruationsblødninger."
+  },
+  {
+    "term": "Oligospermi",
+    "definition": "for få sædceller."
+  },
+  {
+    "term": "Onkogen",
+    "definition": "i) gen, der via mutation eller forøget udtryk forandrer en normal celle til en kræftcelle, 2) kræftfremkaldende."
+  },
+  {
+    "term": "Opioider",
+    "definition": "morfinholdige lægemidler."
+  },
+  {
+    "term": "Oral cancer",
+    "definition": "kræft i mundhulen."
+  },
+  {
+    "term": "Oral candidiasis",
+    "definition": "gærsvampeinfektioner i mundhulen."
+  },
+  {
+    "term": "ORDLISTE Abdomen",
+    "definition": "maveregionen."
+  },
+  {
+    "term": "Orofacial granulomatose",
+    "definition": "granulomer i mundhulen og ansigtet."
+  },
+  {
+    "term": "Ortopnø",
+    "definition": "åndenød (dyspnø) i liggende stilling."
+  },
+  {
+    "term": "Ortose",
+    "definition": "støttende og stabiliserende udstyr af mere permanent karakter, f x et korset."
+  },
+  {
+    "term": "Ortostatisk hypotension",
+    "definition": "abnormt blodtryksfald ved stillings skift fra liggende til oprejst stilling."
+  },
+  {
+    "term": "Os sacrum",
+    "definition": "korsbenet."
+  },
+  {
+    "term": "Ossøs",
+    "definition": "bestående af knoglevæv."
+  },
+  {
+    "term": "Osteoartrose",
+    "definition": "slidgigt."
+  },
+  {
+    "term": "Osteoblast",
+    "definition": "knogleopbyggende celle."
+  },
+  {
+    "term": "Osteofyt",
+    "definition": "knogleudvækst langs ledrand."
+  },
+  {
+    "term": "Osteoklast",
+    "definition": "knoglenedbrydende celle."
+  },
+  {
+    "term": "Osteolyse",
+    "definition": "knoglenedbrydning."
+  },
+  {
+    "term": "Osteomyelitis",
+    "definition": "knoglebetændelse."
+  },
+  {
+    "term": "Osteonekrose",
+    "definition": "knoglehenfald."
+  },
+  {
+    "term": "Osteoporose",
+    "definition": "knogleskørhed."
+  },
+  {
+    "term": "Osteoradionekrose",
+    "definition": "nekrose i kæbeknoglen efter strålebehandling."
+  },
+  {
+    "term": "Osteosyntese",
+    "definition": "operativ sammenføjning af knoglebrud med skruer, skinner og lignende."
+  },
+  {
+    "term": "Osteotomi",
+    "definition": "knogleopmejsling."
+  },
+  {
+    "term": "Otitis media",
+    "definition": "mellemørebetændelse, som kan være akut, når der er infektion, og sekretorisk ved tilstedeværelse af væske i mellemøret."
+  },
+  {
+    "term": "Ovarie",
+    "definition": "æggestok."
+  },
+  {
+    "term": "Ovariecancer",
+    "definition": "æggestokskræft."
+  },
+  {
+    "term": "Ovulation",
+    "definition": "ægløsning."
+  },
+  {
+    "term": "PA PP-A",
+    "definition": "pregnancy-associated plasma protein."
+  },
+  {
+    "term": "PAI-1",
+    "definition": "plasminogen-aktivator-inhibitor type 1."
+  },
+  {
+    "term": "Palliativ",
+    "definition": "lindrende."
+  },
+  {
+    "term": "Palmart erytem",
+    "definition": "rødblålig misfarvning i håndfladerne."
+  },
+  {
+    "term": "Palpation",
+    "definition": "undersøgelse af kropsoverfladen ved brug af hænderne."
+  },
+  {
+    "term": "Palpitation",
+    "definition": "fornemmelse af hjertebanken."
+  },
+  {
+    "term": "Pancreas",
+    "definition": "bugspytkirtel."
+  },
+  {
+    "term": "Pancreatitis",
+    "definition": "bugspytkirtelbetændelse."
+  },
+  {
+    "term": "Pannus",
+    "definition": "polypagtige udvækster på synovialis."
+  },
+  {
+    "term": "Papel",
+    "definition": "lille knudeformet hævelse i huden."
+  },
+  {
+    "term": "Parese",
+    "definition": "lammelse, nedsat muskelkraft."
+  },
+  {
+    "term": "Parkinsons sygdom",
+    "definition": "rystelammelse."
+  },
+  {
+    "term": "Parkinsons sygdom LH",
+    "definition": "luteiniserende hormon."
+  },
+  {
+    "term": "Parodontalligament",
+    "definition": "rodhindefibre."
+  },
+  {
+    "term": "Paræstesi",
+    "definition": "føleforstyrrelse (typisk prikkende, snurrende eller sovende)."
+  },
+  {
+    "term": "PCI",
+    "definition": "perkutan koronarintervention."
+  },
+  {
+    "term": "PCO",
+    "definition": "polycystiske ovarier."
+  },
+  {
+    "term": "PCOS",
+    "definition": "polycystisk ovariesyndrom."
+  },
+  {
+    "term": "PEF",
+    "definition": "peak expiratory flow."
+  },
+  {
+    "term": "Penidyni",
+    "definition": "smerter omkring penis uden synlige forandringer."
+  },
+  {
+    "term": "PEP",
+    "definition": "positive expiratory pressure."
+  },
+  {
+    "term": "Perforation",
+    "definition": "gennemhulning."
+  },
+  {
+    "term": "Perfusion",
+    "definition": "gennemblødning."
+  },
+  {
+    "term": "Pericarditis",
+    "definition": "betændelse i hjertesækken."
+  },
+  {
+    "term": "Pericytter",
+    "definition": "støtteceller omkring små blodkar."
+  },
+  {
+    "term": "Perinatal",
+    "definition": "omkring fødselstidspunktet."
+  },
+  {
+    "term": "Periost",
+    "definition": "knoglehinde."
+  },
+  {
+    "term": "Peritoneal",
+    "definition": "hørende til bughinden."
+  },
+  {
+    "term": "Peritoneum",
+    "definition": "bughinde."
+  },
+  {
+    "term": "Peritonsillær absces",
+    "definition": "byld omkring mandlerne."
+  },
+  {
+    "term": "Periumbilikal",
+    "definition": "omkring navlen."
+  },
+  {
+    "term": "Perkutan",
+    "definition": "via huden."
+  },
+  {
+    "term": "Perniciøs anæmi",
+    "definition": "anæmi ofte som følge af manglende dannelse af intrinsic factor og dermed nedsat absorption af."
+  },
+  {
+    "term": "Persekutoriske forestillinger",
+    "definition": "forfølgelses­ forestillinger."
+  },
+  {
+    "term": "Pertrochantær",
+    "definition": "gennem lårbensfremspringet."
+  },
+  {
+    "term": "PET-scanning",
+    "definition": "positron emission tomography scanning (nuklearmedicinsk teknik der anvendes til afbildning af organers stofoptagelse og -omsætning)."
+  },
+  {
+    "term": "Petekkier",
+    "definition": "1 -3 mm store punktformede blødninger i hud eller slimhinde."
+  },
+  {
+    "term": "Pia mater",
+    "definition": "den inderste hjernehinde."
+  },
+  {
+    "term": "Placenta",
+    "definition": "moderkage."
+  },
+  {
+    "term": "Planocellulært karcinom",
+    "definition": "ondartet svulst udgået fra pladeepitel."
+  },
+  {
+    "term": "Plaques",
+    "definition": "1 ) læsioner i den hvide substans i centralnervesystemet, 2) aflejringer af kolesterol og kalk i karvæggen."
+  },
+  {
+    "term": "Pleksopati",
+    "definition": "sygdom i nerveplekser."
+  },
+  {
+    "term": "Pleuraekssudat",
+    "definition": "væskeansamling imellem lungehinderne."
+  },
+  {
+    "term": "Pleurit",
+    "definition": "betændelse i lungehinderne."
+  },
+  {
+    "term": "Pneumonektomi",
+    "definition": "fjernelse af lungen."
+  },
+  {
+    "term": "Pneumoni",
+    "definition": "lungebetændelse."
+  },
+  {
+    "term": "Pneumothorax",
+    "definition": "sammenfald af lungevæv pga. luft mellem lungens yderside og brystkassens inderside."
+  },
+  {
+    "term": "Pocher",
+    "definition": "tandkødslommer."
+  },
+  {
+    "term": "Podagra",
+    "definition": "urinsyregigt i storetåens grundled."
+  },
+  {
+    "term": "Pollakisuri",
+    "definition": "hyppig vandladning."
+  },
+  {
+    "term": "Polyarthritis",
+    "definition": "ledbetændelse i flere led."
+  },
+  {
+    "term": "Polydipsi",
+    "definition": "sygelig tørst."
+  },
+  {
+    "term": "Polymyalgia reumatika",
+    "definition": "muskelgigt."
+  },
+  {
+    "term": "Polyneuropati",
+    "definition": "sygdom i mange perifere nerver."
+  },
+  {
+    "term": "Polyp",
+    "definition": "udposning på slimhinde."
+  },
+  {
+    "term": "Polyuri",
+    "definition": "øget vandladning."
+  },
+  {
+    "term": "Portal hypertension",
+    "definition": "øget blodtryk i portalvenesystemet."
+  },
+  {
+    "term": "Postmenopausal blødning",
+    "definition": "menstmationsblødning mere end ét år efter menopausen."
+  },
+  {
+    "term": "Postoperativ",
+    "definition": "efter operation."
+  },
+  {
+    "term": "PPI",
+    "definition": "protonpumpeinhibitorer."
+  },
+  {
+    "term": "Prednisolon",
+    "definition": "binyrebarkhormon analog."
+  },
+  {
+    "term": "Primær profylakse",
+    "definition": "sygdomsforebyggelse hos raske (fjernelse af risikofaktorer)."
+  },
+  {
+    "term": "Profylakse",
+    "definition": "forebyggelse af sygdom eller forebyggelse af forværring af sygdom."
+  },
+  {
+    "term": "Proksimal femurfraktur",
+    "definition": "brud på øverste del af lårbensknoglen."
+  },
+  {
+    "term": "Proksimal humems",
+    "definition": "øverste del af overarmsknoglen."
+  },
+  {
+    "term": "Proksimal jejunum",
+    "definition": "første del af jejunum, som er den midterste del af tyndtarmen."
+  },
+  {
+    "term": "Proktitis",
+    "definition": "infektion i endetarmen."
+  },
+  {
+    "term": "Prolabere",
+    "definition": "trænge ud."
+  },
+  {
+    "term": "Prolapsus disci intervertebralis",
+    "definition": "diskusprolaps."
+  },
+  {
+    "term": "Proliferation",
+    "definition": "forøgelse i antal (fx vævsceller eller bakterier)."
+  },
+  {
+    "term": "Prostata",
+    "definition": "blærehalskirtel."
+  },
+  {
+    "term": "Prostatahypertrofi",
+    "definition": "forstørret blærehalskirtel."
+  },
+  {
+    "term": "Proteolyse",
+    "definition": "nedbrydning af proteiner og peptider til små peptider og aminosyrer."
+  },
+  {
+    "term": "Præcipitere",
+    "definition": "udløse."
+  },
+  {
+    "term": "Prædiabetes",
+    "definition": "tilstande med forhøjede blodglukoseværdier ved faste eller efter glukosebelastning (IGT og."
+  },
+  {
+    "term": "Præmatur",
+    "definition": "for tidlig."
+  },
+  {
+    "term": "Prænatal",
+    "definition": "før fødslen."
+  },
+  {
+    "term": "Præterm fødsel",
+    "definition": "fødsel før udgangen af 3 7 . uge."
+  },
+  {
+    "term": "Prævalens",
+    "definition": "antallet af personer med en given sygdom på et givet tidspunkt i en afgrænset befolkning."
+  },
+  {
+    "term": "PSA",
+    "definition": "prostataspecifikt antigen."
+  },
+  {
+    "term": "Pseudartrose",
+    "definition": "manglende heling af knoglebrud medførende uægte leddannelse."
+  },
+  {
+    "term": "Psoriasisartrit",
+    "definition": "psoriasisgigt."
+  },
+  {
+    "term": "Psykoedukation",
+    "definition": "undervisning i egen psykiske sygdom."
+  },
+  {
+    "term": "Psykoterapi",
+    "definition": "formaliseret samtaleforløb ved psykisk sygdom."
+  },
+  {
+    "term": "PTSD",
+    "definition": "post-traumatic stress disorder (posttraumatisk belastningsreaktion)."
+  },
+  {
+    "term": "Pulmonal hypertension",
+    "definition": "forhøjet blodtryk i lungekredsløbet."
+  },
+  {
+    "term": "Purulent",
+    "definition": "pusagtigt."
+  },
+  {
+    "term": "Pyelonefritis",
+    "definition": "nyrebækkenbetændelse."
+  },
+  {
+    "term": "Pyrostomatitis vegetans",
+    "definition": "en tilstand præget af tandkødsbetændelse og rødme af mundslimhinder og sårdannelser."
+  },
+  {
+    "term": "RA ST",
+    "definition": "radioallergosorbent test (allergitest)."
+  },
+  {
+    "term": "Radiusfraktur",
+    "definition": "brud på den af de to underarmsknogler, der sidder til tommelfingersiden."
+  },
+  {
+    "term": "Raynaud-fænomener",
+    "definition": "forbigående spasme i arterierne, der leder til en finger, så den mister sin blodforsyning og bliver hvid."
+  },
+  {
+    "term": "Reaktiv artrit",
+    "definition": "steril ledbetændelse opstået i forbindelse med eller efter en infektion et andet sted i kroppen, fx mave-tarm-infektion."
+  },
+  {
+    "term": "Recidivere",
+    "definition": "vende tilbage."
+  },
+  {
+    "term": "Recovery",
+    "definition": "det at komme sig."
+  },
+  {
+    "term": "Rectum",
+    "definition": "endetarmen."
+  },
+  {
+    "term": "Rectumcancer",
+    "definition": "endetarmskræft."
+  },
+  {
+    "term": "Refluks",
+    "definition": "tilbageløb af mavesyre op i spiserøret, \"halsbrand”."
+  },
+  {
+    "term": "Rehabilitering",
+    "definition": "genoptræning."
+  },
+  {
+    "term": "Rektoskopi",
+    "definition": "kikkertundersøgelse af endetarmen."
+  },
+  {
+    "term": "Remission",
+    "definition": "forsvinden af symptomer."
+  },
+  {
+    "term": "Remodellering",
+    "definition": "strukturel omdannelse."
+  },
+  {
+    "term": "Reponere",
+    "definition": "sætte tilbage på plads."
+  },
+  {
+    "term": "Reproduktion",
+    "definition": "formering."
+  },
+  {
+    "term": "Resektion",
+    "definition": "bort skæring af væv."
+  },
+  {
+    "term": "Residualurin",
+    "definition": "den mængde urin, der er tilbage i blæren efter vandladning."
+  },
+  {
+    "term": "Retikulocytter",
+    "definition": "unge erytrocytter i blodet."
+  },
+  {
+    "term": "Retina",
+    "definition": "nethinde."
+  },
+  {
+    "term": "Retinal iskæmi",
+    "definition": "nedsat blodforsyning og dermed utilstrækkelig ilttilførsel til nethinden."
+  },
+  {
+    "term": "Retinopati",
+    "definition": "nethindesygdom."
+  },
+  {
+    "term": "Retrograd ejakulation",
+    "definition": "ved sædafgang løber sæden ind i blæren i stedet for ud gennem urinrøret."
+  },
+  {
+    "term": "Reumafaktor",
+    "definition": "antistof rettet mod en persons eget."
+  },
+  {
+    "term": "Reumatologi",
+    "definition": "læren om gigtsygdomme."
+  },
+  {
+    "term": "Rhesus- antistoffer hos moderen Rigiditet",
+    "definition": "stivhed, der fornemmes som øget modstand mod passiv bevægelse."
+  },
+  {
+    "term": "Rhesus-immunisering",
+    "definition": "dannelse af."
+  },
+  {
+    "term": "Rinit",
+    "definition": "forkølelse."
+  },
+  {
+    "term": "Rinosinuit",
+    "definition": "forkølelse."
+  },
+  {
+    "term": "Rinoskopi",
+    "definition": "undersøgelse af næsehulen ved hjælp af en fleksibel kikkert eller med det blotte øje."
+  },
+  {
+    "term": "RMI",
+    "definition": "risk of malignancy index."
+  },
+  {
+    "term": "Rubor",
+    "definition": "rødme."
+  },
+  {
+    "term": "Rumpere",
+    "definition": "briste."
+  },
+  {
+    "term": "Ruptunbristning RV",
+    "definition": "residualvolumen."
+  },
+  {
+    "term": "S-formede del af tyktarmen Signaltransduktion",
+    "definition": "intracellulære biokemiske signaler."
+  },
+  {
+    "term": "Sacroiliacaled",
+    "definition": "korsryggens led i bækkenringen."
+  },
+  {
+    "term": "Sakral",
+    "definition": "korsrygdel af ryggen."
+  },
+  {
+    "term": "Sakroiliitis",
+    "definition": "betændelse i korsryggens led i bækkenringen."
+  },
+  {
+    "term": "Salpingitis",
+    "definition": "underlivsinfektion, som har spredt sig til æggelederne."
+  },
+  {
+    "term": "Scaphoideumfraktur",
+    "definition": "knoglebrud i bådbenet."
+  },
+  {
+    "term": "Sclera",
+    "definition": "bindehinde (i øjet)."
+  },
+  {
+    "term": "Scrotum",
+    "definition": "pungen."
+  },
+  {
+    "term": "Secernere",
+    "definition": "udskille."
+  },
+  {
+    "term": "Sekretorisk otitis media",
+    "definition": "(langvarig) mellemørebetændelse med væske i mellemøret."
+  },
+  {
+    "term": "Sekundær profylakse",
+    "definition": "Opsporing af sygdom i tidligt stadium, og oftest før der er symptomer, med henblik på at forebygge udvikling af sygdommen."
+  },
+  {
+    "term": "Selvlimiterende",
+    "definition": "sygdommen går over af sig selv."
+  },
+  {
+    "term": "Seneruptur",
+    "definition": "senebristning."
+  },
+  {
+    "term": "Sentinel node",
+    "definition": "skildvagtslymfeknude."
+  },
+  {
+    "term": "Seponere",
+    "definition": "ophøre med."
+  },
+  {
+    "term": "Sepsis",
+    "definition": "blodforgiftning."
+  },
+  {
+    "term": "Septikæmi",
+    "definition": "blodforgiftning."
+  },
+  {
+    "term": "Serologi",
+    "definition": "læren om antigener og antistoffer."
+  },
+  {
+    "term": "Serologisk undersøgelse",
+    "definition": "undersøgelse af blodserum for antigener og antistoffer."
+  },
+  {
+    "term": "Seropositiv patient",
+    "definition": "patient med reumafaktor i blodet (ved gigtsygdomme)."
+  },
+  {
+    "term": "Serøs",
+    "definition": "tyndtflydende."
+  },
+  {
+    "term": "Sfinkter",
+    "definition": "lukkemuskel."
+  },
+  {
+    "term": "Sfinkterforstyrrelser",
+    "definition": "besvær med at holde på eller komme af med urin eller afføring."
+  },
+  {
+    "term": "Shared epitope",
+    "definition": "fælles HLA-aminosyresekvens, der ses hos over 80 % af patienter med leddegigt."
+  },
+  {
+    "term": "Sialose",
+    "definition": "bilaterale hævelser af de store spytkirtler."
+  },
+  {
+    "term": "Sigmoideoskopi",
+    "definition": "kikkertundersøgelse af den."
+  },
+  {
+    "term": "Sinuit",
+    "definition": "bihulebetændelse."
+  },
+  {
+    "term": "Sklerosering",
+    "definition": "øget tæthed/hårdhed."
+  },
+  {
+    "term": "Slimhindeatrofi",
+    "definition": "henfald af slimhinden."
+  },
+  {
+    "term": "Slipømhed",
+    "definition": "smerter, der opstår, når hånden fjernes hurtigt fra patientens abdomen."
+  },
+  {
+    "term": "Smear",
+    "definition": "celleskrab."
+  },
+  {
+    "term": "Socialfobi",
+    "definition": "frygt for at være centrum for andre menneskers opmærksomhed."
+  },
+  {
+    "term": "Somatisk",
+    "definition": "kropsligt (fysisk)."
+  },
+  {
+    "term": "SPECT-scanning",
+    "definition": "single photon emission computed tomography (nuklearmedicinsk undersøgelsesmetode, hvor gammastråler fra et indgivet radioaktivt lægemiddel registreres fra flere sider ved hjælp af et gammakamera, der roterer omkring patienten)."
+  },
+  {
+    "term": "Spider-nævus",
+    "definition": "blodkar i huden, der ligner en lille stjerne."
+  },
+  {
+    "term": "Spina iliaca anterior superior",
+    "definition": "forreste øverste hjørne af hoftekammen."
+  },
+  {
+    "term": "Splenektomi",
+    "definition": "f jernelse af milten."
+  },
+  {
+    "term": "Splenomegali",
+    "definition": "forstørret milt."
+  },
+  {
+    "term": "Spondylartropati",
+    "definition": "inflammatorisk sygdom i ryggens led."
+  },
+  {
+    "term": "Spondylit",
+    "definition": "betændelse i hvirvellegeme."
+  },
+  {
+    "term": "Spondylolistese",
+    "definition": "fremadglidning af et hvirvellegeme i forhold til det underliggende."
+  },
+  {
+    "term": "Spongiøs",
+    "definition": "svampet."
+  },
+  {
+    "term": "SR",
+    "definition": "sænkningsreaktion."
+  },
+  {
+    "term": "Stasekrepitation",
+    "definition": "fine fugtige rallelyde grundet lungestase Steatoré: fedtet diarré."
+  },
+  {
+    "term": "Steatose",
+    "definition": "fedtlever."
+  },
+  {
+    "term": "STEMI",
+    "definition": "ST-elevationsmyokardieinfarkt."
+  },
+  {
+    "term": "Stenose",
+    "definition": "forsnævring."
+  },
+  {
+    "term": "Stomatodyni",
+    "definition": "brændende symptomer i mundslimhinden."
+  },
+  {
+    "term": "Stomi",
+    "definition": "kunstigt skabt åbning på kroppen."
+  },
+  {
+    "term": "Stressinkontinens",
+    "definition": "anstrengelsesudløst ufrivillig vandladning."
+  },
+  {
+    "term": "Stridor",
+    "definition": "pibende og hvæsende vejrtrækning."
+  },
+  {
+    "term": "Struma",
+    "definition": "forstørret skjoldbruskkirtel."
+  },
+  {
+    "term": "Styloidei ulnae",
+    "definition": "knogleudspring på den distale ende af albuebenet."
+  },
+  {
+    "term": "Subaraknoidalblødning",
+    "definition": "blødning i rummet mellem den mellemste og den inderste hjernehinde."
+  },
+  {
+    "term": "Subduralt hæmatom",
+    "definition": "blødning i rummet mellem den yderste og den mellemste hjernehinde."
+  },
+  {
+    "term": "Subkutis",
+    "definition": "underhud."
+  },
+  {
+    "term": "Subletal",
+    "definition": "næsten dødelig."
+  },
+  {
+    "term": "Subluksation",
+    "definition": "delvist ledskred."
+  },
+  {
+    "term": "Substantia nigra",
+    "definition": "den \"sorte substans” i hjernestammen."
+  },
+  {
+    "term": "Sulcus",
+    "definition": "fure."
+  },
+  {
+    "term": "Suprakondylær",
+    "definition": "over knogleffemspring."
+  },
+  {
+    "term": "Surrogatmor",
+    "definition": "rugemor."
+  },
+  {
+    "term": "Svangreprofylakse",
+    "definition": "forebyggelse af sygdom og andre skader hos fosteret og den gravide."
+  },
+  {
+    "term": "Synoviale led",
+    "definition": "ægte led med ledhinde."
+  },
+  {
+    "term": "Synovialis",
+    "definition": "ledhinde."
+  },
+  {
+    "term": "Synoviocytter",
+    "definition": "fibroblastlignende celler i ledhinden."
+  },
+  {
+    "term": "Synovitis",
+    "definition": "betændelse i ledhinden."
+  },
+  {
+    "term": "Søvnapnø",
+    "definition": "kortvarigt stop i vejrtrækningen under søvn."
+  },
+  {
+    "term": "T-score",
+    "definition": "angiver, hvor mange standarddeviationer en persons bone mass density ligger over eller under den gennemsnitlige bone mass density for en reference population af yngre voksne af samme køn."
+  },
+  {
+    "term": "T3",
+    "definition": "trijodthyronin (stofskiftehormon)."
+  },
+  {
+    "term": "T4",
+    "definition": "thyroxin (stofskiftehormon)."
+  },
+  {
+    "term": "Takykardi",
+    "definition": "hurtig hjerterytme (høj puls)."
+  },
+  {
+    "term": "Tand-erosioner",
+    "definition": "emaljeskader på tænderne."
+  },
+  {
+    "term": "Tankefradrag/tanketomhed",
+    "definition": "oplevelse af, at ens tanker er forsvundet."
+  },
+  {
+    "term": "Tankepåføring",
+    "definition": "oplevelse af at have tanker, der er påført af en fremmed."
+  },
+  {
+    "term": "Tankeudspredning",
+    "definition": "oplevelse af, at ens tanker ligger åbne for alle eller spredes ud via medierne."
+  },
+  {
+    "term": "Tarmvilli",
+    "definition": "tyndtarmstråde."
+  },
+  {
+    "term": "TCFR",
+    "definition": "transcervical fibromresektion (metode til f jemelse af fibromer i livmoderen)."
+  },
+  {
+    "term": "Telomer",
+    "definition": "DNA-streng, der sidder for enden af et kromosom."
+  },
+  {
+    "term": "Temporallap",
+    "definition": "tindingelap."
+  },
+  {
+    "term": "Tendinitis",
+    "definition": "senebetændelse."
+  },
+  {
+    "term": "Tendinose",
+    "definition": "degenerative forandringer i en sene."
+  },
+  {
+    "term": "Tendovaginitis",
+    "definition": "seneskedehindebetændelse."
+  },
+  {
+    "term": "Terminale ileum",
+    "definition": "sidste del af tyndtarmen."
+  },
+  {
+    "term": "Tertiær profylakse",
+    "definition": "forebyggelse af udvikling af komplikationer eller forværring af sygdomme."
+  },
+  {
+    "term": "Testis",
+    "definition": "testikel."
+  },
+  {
+    "term": "TGER",
+    "definition": "transcervical endometrieresektion (metode til ijemelse af livmoderslimhinden)."
+  },
+  {
+    "term": "Thorax",
+    "definition": "brystkasse."
+  },
+  {
+    "term": "Thymus",
+    "definition": "brislen."
+  },
+  {
+    "term": "Thyroideahormon",
+    "definition": "stofskiftehormon."
+  },
+  {
+    "term": "Tibia",
+    "definition": "skinneben."
+  },
+  {
+    "term": "TIPS",
+    "definition": "karprotese, der forbinder portalvene og levervene."
+  },
+  {
+    "term": "Titer",
+    "definition": "koncentration."
+  },
+  {
+    "term": "Titubatio capitis",
+    "definition": "rytmisk rokkebevægelse af hovedet."
+  },
+  {
+    "term": "TLC",
+    "definition": "total lungekapacitet."
+  },
+  {
+    "term": "TNF",
+    "definition": "tumor necrosis factor alfa."
+  },
+  {
+    "term": "Tofi Torsion",
+    "definition": "snoning."
+  },
+  {
+    "term": "Toft",
+    "definition": "knuder forårsaget af uratkrystaller."
+  },
+  {
+    "term": "Toføs",
+    "definition": "med forekomst af tofi (knuder forårsaget af uratkrystaller)."
+  },
+  {
+    "term": "Tonisk-kloniske anfald",
+    "definition": "krampeanfald med skiftevis stivhed og trækninger, tidligere kaldet \"grand mal”."
+  },
+  {
+    "term": "Tonsiller",
+    "definition": "mandler."
+  },
+  {
+    "term": "Tonsillit",
+    "definition": "halsbetændelse."
+  },
+  {
+    "term": "Tophi",
+    "definition": "se."
+  },
+  {
+    "term": "TPO",
+    "definition": "thyroperoxidase eller trombopoietin (begge forkortes."
+  },
+  {
+    "term": "TPO) TRA b",
+    "definition": "TSH-receptor-antistoffer."
+  },
+  {
+    "term": "Trabekel",
+    "definition": "streng- eller bjælkelignende struktur."
+  },
+  {
+    "term": "Trachea",
+    "definition": "luftrør."
+  },
+  {
+    "term": "Transdermal",
+    "definition": "gennem huden."
+  },
+  {
+    "term": "Transitorisk cerebral iskæmi (TCI)",
+    "definition": "forbigående iltmangel i hjernen."
+  },
+  {
+    "term": "Traume",
+    "definition": "skade."
+  },
+  {
+    "term": "Tremor",
+    "definition": "rytmisk ufrivillig rysten af hoved, hænder, arme eller ben."
+  },
+  {
+    "term": "Trochanter major",
+    "definition": "den ydre lårbenskno."
+  },
+  {
+    "term": "Trofoblastvæv",
+    "definition": "graviditetsvæv."
+  },
+  {
+    "term": "Trombocyt",
+    "definition": "blodplade."
+  },
+  {
+    "term": "Trombocytopati",
+    "definition": "defekt funktion af blodplader."
+  },
+  {
+    "term": "Trombocytopeni",
+    "definition": "nedsat antal blodplader."
+  },
+  {
+    "term": "Trombocytose",
+    "definition": "forhøjet antal blodplader i blodet."
+  },
+  {
+    "term": "Tromboemboli",
+    "definition": "trombe, der dannes ét sted i karsystemet, føres med blodstrømmen og senere tillukker et blodkar et andet sted."
+  },
+  {
+    "term": "Trombolysebehandling",
+    "definition": "blodpropopløsende behandling."
+  },
+  {
+    "term": "Trombose",
+    "definition": "blodpropdannelse."
+  },
+  {
+    "term": "Trunkus",
+    "definition": "kropsstammen."
+  },
+  {
+    "term": "TRUS",
+    "definition": "transrektal ultralydsscanning (prostata scannes med ultralyd via endetarmen)."
+  },
+  {
+    "term": "TSH",
+    "definition": "thyroideastimulerende hormon."
+  },
+  {
+    "term": "Tubabevarende",
+    "definition": "æggeleder bevarende."
+  },
+  {
+    "term": "Tubuli",
+    "definition": "rørsystem i nyren, hvor præ-urinen behandles."
+  },
+  {
+    "term": "Tubulointerstitiel nefropati",
+    "definition": "shocknyre."
+  },
+  {
+    "term": "Tumor",
+    "definition": "svulst/knude, kan være godartet eller ondartet."
+  },
+  {
+    "term": "Tumorektomi",
+    "definition": "operativ fjernelse af knude (fx i brystet)."
+  },
+  {
+    "term": "Tyroiditis",
+    "definition": "betændelse i skjoldbraskkirtlen."
+  },
+  {
+    "term": "Tyrotoksikose",
+    "definition": "hypertyreose, for højt stofskifte."
+  },
+  {
+    "term": "UAP",
+    "definition": "ustabil angina pectoris."
+  },
+  {
+    "term": "UL-scanning",
+    "definition": "ultralydsscanning (billeddannelse ved hjælp af lydbølger)."
+  },
+  {
+    "term": "Ulcus",
+    "definition": "sår."
+  },
+  {
+    "term": "Ulna",
+    "definition": "albueben."
+  },
+  {
+    "term": "Ulnardeviation",
+    "definition": "vinkling i fingrenes grundled mod lillefingersiden."
+  },
+  {
+    "term": "Urethra",
+    "definition": "urinrør."
+  },
+  {
+    "term": "Uretritis",
+    "definition": "infektion i urinrøret."
+  },
+  {
+    "term": "Urge-inkontinens",
+    "definition": "pludselig og stærk vandladningstrang med ufrivillig vandladning."
+  },
+  {
+    "term": "Urinretention",
+    "definition": "manglende evne til at tømme blæren."
+  },
+  {
+    "term": "Urogenitalt",
+    "definition": "vedrørende urinveje og kønsorganer."
+  },
+  {
+    "term": "Urologi",
+    "definition": "læren om sygdomme i nyrer og urinveje."
+  },
+  {
+    "term": "Urosepsis",
+    "definition": "blodforgiftning udgået fra urinvejene."
+  },
+  {
+    "term": "Urticaria",
+    "definition": "nældefeber."
+  },
+  {
+    "term": "Uterus",
+    "definition": "livmoder."
+  },
+  {
+    "term": "Uteruscancer",
+    "definition": "livmoderkræft."
+  },
+  {
+    "term": "Vagina",
+    "definition": "skede."
+  },
+  {
+    "term": "Varice",
+    "definition": "åreknude."
+  },
+  {
+    "term": "Vaskularisering",
+    "definition": "angiver, hvor velforsynet et væv er med blodkar."
+  },
+  {
+    "term": "Vaskulit",
+    "definition": "karvægsbetændelse."
+  },
+  {
+    "term": "Vasodilatation",
+    "definition": "karudvidelse."
+  },
+  {
+    "term": "Vasokonstriktion",
+    "definition": "karsammentrækning."
+  },
+  {
+    "term": "Vasospasme",
+    "definition": "karsammentrækning."
+  },
+  {
+    "term": "Vegetativ",
+    "definition": "stille, uvirksom."
+  },
+  {
+    "term": "Venesectio",
+    "definition": "åreladning."
+  },
+  {
+    "term": "Ventrikel",
+    "definition": "mavesæk eller kammer/hulrum (i hjerte eller hjerne)."
+  },
+  {
+    "term": "Ventrikel-pouch",
+    "definition": "ny mindre mavesæk dannet efter fedmeoperation."
+  },
+  {
+    "term": "Vertebra",
+    "definition": "ryghvirvel."
+  },
+  {
+    "term": "Vertikal smitte",
+    "definition": "smitte fra gravid mor til hendes barn."
+  },
+  {
+    "term": "Vesiculae seminales",
+    "definition": "sædkirtler tæt på prostata."
+  },
+  {
+    "term": "Vesikel",
+    "definition": "blære."
+  },
+  {
+    "term": "Visceralt fedtvæv",
+    "definition": "fedtdepoter omkring organer."
+  },
+  {
+    "term": "Vitiligo",
+    "definition": "tilstand med forekomst af hvide pletter i huden."
+  },
+  {
+    "term": "VLCD",
+    "definition": "very low calory diet."
+  },
+  {
+    "term": "Volar",
+    "definition": "håndfladesiden."
+  },
+  {
+    "term": "Vrangforestilling",
+    "definition": "privat ukorrigerbar ide, der ikke deles af andre med samme sociokulturelle baggrund."
+  },
+  {
+    "term": "Vulvodyni",
+    "definition": "smerter i genitalområdet hos kvinder, uden at der er synlige forandringer."
+  },
+  {
+    "term": "WR",
+    "definition": "Wassermanns reaktion (test for syfilis)."
+  },
+  {
+    "term": "Xerostomi",
+    "definition": "mundtørhed."
+  },
+  {
+    "term": "Z-score",
+    "definition": "angiver, hvor mange standarddeviationer personens bone mineral density ligger over eller under den alders- og kønsspecifikke middelværdi for den population, personen tilhører."
+  },
+  {
+    "term": "Åben fraktur",
+    "definition": "knoglebrud med adgang til bruddet gennem en hudlæsion."
+  },
+  {
+    "term": "Ødem",
+    "definition": "væskeophobning i vævet."
+  },
+  {
+    "term": "Øsofagus",
+    "definition": "spiserør."
+  },
+  {
+    "term": "Øsofagusvaricer",
+    "definition": "åreknuder i spiserøret."
+  },
+  {
+    "term": "Øvre dyspepsi",
+    "definition": "symptomkompleks bestående af halsbrand og/eller svien og brændende fornemmelse i mellemgulvet."
+  }
+]

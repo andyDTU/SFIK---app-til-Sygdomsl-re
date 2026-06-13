@@ -1,0 +1,180 @@
+[
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "prostatakraeft"
+    ],
+    "question": "Opgave 1: Cancer prostatae (Prostatakræft)\na) Angiv omtrentlig forekomst (årligt antal nye tilfælde i DK).\nb) Angiv hvilken befolkningsgruppe der hyppigst rammes.\nc) Beskriv kort hvad der vides om ætiologien.",
+    "answer": "a) Ca. 4500 tilfælde årligt.\nb) Ældre mænd (>50 år).\nc) Vestlig levevis med store mængder animalsk fedt synes at disponere. Genetiske faktorer har en betydning i ca. 10% af tilfældene."
+  },
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "prostatakraeft",
+      "kraeft_behandling",
+      "kraeft_palliation"
+    ],
+    "question": "Opgave 1: Cancer prostatae (fortsat)\nd) Beskriv kort typiske symptomer og fund ved prostatakræft.\ne) Angiv mindst 3 typer behandling der anvendes.\nf) Beskriv kort ét eksempel på lindrende behandling (palliation) der anvendes ved mange forskellige kræftsygdomme.",
+    "answer": "d) Problemer med vandladning (sjældent, oftest pga benign forstørrelse). Blod i sæden. Spredning til lymfer kan give lymfødem. Knoglemetastaser giver knoglesmerter/brud.\ne) Radikal prostectomi, ekstern strålebehandling, hormonbehandling, brakyterapi, kemoterapi.\nf) Smertebehandling, gastrointestinal behandling (forstoppelse/kvalme), eller psykologisk behandling (angst)."
+  },
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "atrieflimren"
+    ],
+    "question": "Opgave 4: Atrieflimmer (AF)\nA) Angiv forekomsten af AF i DK (totalt antal patienter).\nC) Beskriv kort patogenesen ved AF.",
+    "answer": "A) Ca. 100.000 personer i DK lider af AF.\nC) Der opstår områder med øget automaticitet i atrierne. Der dannes multiple impulskredse (re-entry), som giver uregelmæssig aktivering af atrier og ventrikler."
+  },
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "atrieflimren"
+    ],
+    "question": "Opgave 4: Atrieflimmer (fortsat)\nD) Beskriv symptomer og fund (inklusive EKG-fund).\nE) Redegør for hvilke sygdomme der kan opstå som følge af AF.",
+    "answer": "D) Palpitationer (hjertebanken), dyspnø, svimmelhed, træthed. EKG: uregelmæssige QRS-komplekser og en 'flimrelinie' uden tydelige P-takker.\nE) Nedsat flow giver tendens til trombedannelse i atriet, hvilket øger risiko for cerebral emboli (stroke/apopleksi). Hurtig AF kan også udløse hjertesvigt."
+  },
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "cirrose"
+    ],
+    "question": "Opgave 8: Cirrose (skrumpelever)\nA) Angiv definition for cirrose.\nB) Redegør for problemer der kan opstå som følge af portal hypertension.\nC) Angiv den hyppigste årsag til cirrose i DK.",
+    "answer": "A) En lever med omfattende fibrose (arvæv) og dannelse af noduli. Slutstadiet af de fleste leversygdomme.\nB) Der dannes ødemvæske i bughulen (ascites). Blodet shuntes udenom leveren, hvilket giver øsophagusvaricer (åreknuder i spiserøret, som kan bløde), hæmorider og caput medusae.\nC) Et langvarigt, for stort alkoholforbrug."
+  },
+  {
+    "examSet": "Sommer 2023 - Ordinær",
+    "diseaseIds": [
+      "pcos"
+    ],
+    "question": "Opgave 9: Polycystisk ovariesyndrom (PCOS)\nA) Angiv de tre diagnostiske kriterier for PCOS og hvor mange der skal være opfyldt.\nB) Redegør kort for patogenesen.\nC) Beskriv udseendet af ovariet ved PCOS.",
+    "answer": "A) 1. Øget produktion af androgener (hirsutisme). 2. Blødningsforstyrrelser (oligo/amenoré). 3. Polycystiske ovarier (PCO). 2 ud af 3 skal være opfyldt.\nB) Central mekanisme er insulinresistens. Det øger insulinproduktionen, hvilket medfører øget androgensyntese i ovarierne.\nC) Mange små umodne ægblærer (follikler) der ligger som perler på en snor lige under overfladen af ovariet (ses på ultralyd)."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 1)",
+    "diseaseIds": [
+      "type_1_diabetes"
+    ],
+    "question": "Opgave: Endokrine sygdomme\nA) Angiv definitionen på Type 1-diabetes.\nB) Redegør for ætiologi og patogenese.\nC) Nævn mindst tre klassiske debutsymptomer.",
+    "answer": "A) En kronisk autoimmun sygdom, der fører til absolut insulinmangel pga. destruktion af betacellerne i bugspytkirtlen.\nB) Ætiologien er ukendt, men menes at være et samspil af genetik og miljø (evt. virusinfektion). Patogenesen er en autoimmun destruktion af pancreas' beta-celler, hvilket stopper insulinproduktionen, så glukose ikke kan optages i cellerne.\nC) Øget tørst (polydipsi), hyppig vandladning (polyuri), vægttab trods normal/øget appetit, og udtalt træthed."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 1)",
+    "diseaseIds": [
+      "astma"
+    ],
+    "question": "Opgave: Lungesygdomme (Astma)\nA) Beskriv patogenesen ved astma.\nB) Hvilken diagnostisk undersøgelse bruges til at påvise astma, og hvad kigger man efter?\nC) Hvad er principperne i den medicinske behandling?",
+    "answer": "A) En kronisk inflammatorisk tilstand i luftvejene, der fører til bronkial hyperreaktivitet og reversibel forsnævring af luftvejene (bronkospasme, slimhindeødem og øget slimproduktion).\nB) Lungefunktionsundersøgelse (Spirometri). Man kigger efter obstruktion (nedsat FEV1), som er reversibel ved inhalation af en bronkieudvidende medicin (reversibilitetstest).\nC) Inhalationsmedicin. Basis er inhalationssteroid (forebyggende, dæmper inflammation). Ved anfald gives kortvirkende beta-2-agonister (anfaldsmedicin, bronkieudvidende)."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 1)",
+    "diseaseIds": [
+      "apopleksi"
+    ],
+    "question": "Opgave: Neurologiske sygdomme\nA) Angiv definitionen på apopleksi.\nB) Hvad er de to primære årsager (patogenese)?\nC) Nævn tre typiske neurologiske udfald (symptomer).",
+    "answer": "A) Slagtilfælde. En akut indsættende neurologisk defekt (ofte halvsidig) af vaskulær årsag, som varer over 24 timer eller medfører død.\nB) Blodprop i hjernen (iskæmi, ca. 85%) og hjerneblødning (hæmoragi, ca. 15%).\nC) Halvsidig lammelse (hemiparese), sprogforstyrrelser (afasi), hængende mundvigen (facialis parese) og synsfeltsudfald."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 2)",
+    "diseaseIds": [
+      "reumatoid_artrit"
+    ],
+    "question": "Opgave: Bevægeapparatets sygdomme\nA) Hvilken befolkningsgruppe rammes typisk af Reumatoid artrit (leddegigt)?\nB) Redegør kort for patogenesen.\nC) Hvilke led påvirkes oftest, og hvad er det kliniske mønster?",
+    "answer": "A) Kvinder rammes 2-3 gange hyppigere end mænd. Debuterer oftest i 40-60 års alderen.\nB) Det er en autoimmun sygdom. Immunforsvaret angriber ledhinden (synovialis), hvilket skaber kronisk inflammation. Dette fører over tid til nedbrydning af brusk og knogle i leddet.\nC) Oftest de små led i hænder og fødder (PIP og MCP led). Mønsteret er symmetrisk (begge sider rammes) og er værst om morgenen med 'morgenstivhed'."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 2)",
+    "diseaseIds": [
+      "skizofreni"
+    ],
+    "question": "Opgave: Psykiske sygdomme\nA) Nævn mindst to 'positive' og to 'negative' symptomer ved Skizofreni.\nB) Hvor hyppig er sygdommen i befolkningen (livstidsrisiko)?",
+    "answer": "A) Positive symptomer (noget lagt til): Hallucinationer (ofte auditive - stemmer), vrangforestillinger (fx forfølgelse) og desorganiseret tale. Negative symptomer (noget trukket fra): Følelsesmæssig fladhed (affektfladhed), social tilbagetrækning, manglende initiativ (apati).\nB) Livstidsrisikoen er ca. 1% over hele verden."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 2)",
+    "diseaseIds": [
+      "inflammatoriske_tarmsygdomme"
+    ],
+    "question": "Opgave: Mave-Tarmsygdomme\nA) Hvilke to hovedsygdomme dækker begrebet Inflammatorisk tarmsygdom (IBD) over?\nB) Hvad er den væsentligste anatomiske forskel på, hvor de to sygdomme rammer?\nC) Hvad er de typiske symptomer?",
+    "answer": "A) Colitis ulcerosa og Morbus Crohn.\nB) Colitis ulcerosa rammer KUN tyktarmen (colon) og endetarmen, og kun den overfladiske slimhinde. Morbus Crohn kan ramme HELE mave-tarm-kanalen (fra mund til anus), og inflammationen går gennem alle tarmvæggens lag (transmural).\nC) Blodig diarré, mavesmerter, træthed og vægttab. Sygdommen forløber i opblussen (relaps) og rolige faser (remission)."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 3)",
+    "diseaseIds": [
+      "akut_myeloid_leukaemi"
+    ],
+    "question": "Opgave: Blodsygdomme\nA) Hvad er patogenesen bag Akut myeloid leukæmi (AML)?\nB) Hvorfor får patienten symptomer som blødningstendens og hyppige infektioner?",
+    "answer": "A) En genetisk mutation i knoglemarvens myeloide stamceller stopper cellernes modning. De umodne kræftceller (blaster) deler sig voldsomt og fylder knoglemarven.\nB) Fordi blasterne fortrænger den normale blodproduktion i knoglemarven (knoglemarvssvigt). Mangel på blodplader (trombocytopeni) giver blødninger, og mangel på raske hvide blodlegemer (leukopeni) giver nedsat immunforsvar og infektioner."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 3)",
+    "diseaseIds": [
+      "praeeklampsi"
+    ],
+    "question": "Opgave: Gynækologi & Obstetrik (Præeklampsi)\nA) Hvad er de tre diagnostiske kriterier for præeklampsi (svangerskabsforgiftning)?\nB) Hvad er den eneste egentlige kuratrice (helbredende) behandling?",
+    "answer": "A) 1. Gravid over 20 uger. 2. Forhøjet blodtryk (hypertension, >140/90). 3. Protein i urinen (proteinuri). Ødemer er ofte til stede, men ikke et diagnostisk krav.\nB) At forløse barnet og fjerne moderkagen. Indtil da behandles symptomatisk med blodtryksnedsættende medicin for at forhindre kramper og hjerneblødning hos mor."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 3)",
+    "diseaseIds": [
+      "sepsis"
+    ],
+    "question": "Opgave: Infektionssygdomme\nA) Angiv definitionen på sepsis (blodforgiftning).\nB) Hvad er de typiske kliniske symptomer og parakliniske fund?\nC) Hvad er førstevalgsbehandling i den akutte fase?",
+    "answer": "A) En livstruende tilstand, der opstår, når kroppens reaktion på en infektion medfører skade på dens egne væv og organer (organsvigt pga. dysreguleret immunrespons).\nB) Klinisk: Påvirket bevidsthed, hurtig vejrtrækning (takypnø), lavt blodtryk (hypotension), høj puls og ofte feber. Paraklinisk: Forhøjet infektionstal (CRP og leukocytter) samt laktat i blodet (tegn på iltmangel i væv).\nC) Tidsfaktor er kritisk! Bredspektret antibiotika (intravenøst) givet hurtigst muligt efter der er taget bloddyrkninger, samt store mængder væske i drop for at opretholde blodtrykket."
+  },
+  {
+    "examSet": "Autogenereret (Træningssæt 4)",
+    "diseaseIds": [
+      "hiv_infektion"
+    ],
+    "question": "Opgave: Infektionssygdomme\nA) Hvilken type virus er HIV, og hvilke specifikke celler i immunforsvaret angriber den?\nB) Hvad forstås ved AIDS?\nC) Er sygdommen helbredelig med moderne medicin?",
+    "answer": "A) Et retrovirus. Det angriber primært T-hjælper cellerne (CD4-positive lymfocytter), som er dirigenterne i immunforsvaret.\nB) Acquired Immunodeficiency Syndrome. Slutstadiet af HIV-infektionen, hvor immunforsvaret er brudt så meget ned, at patienten rammes af opportunistiske infektioner eller specifikke kræftformer, som raske normalt ikke får.\nC) Nej, HIV kan p.t. ikke helbredes fuldstændigt (virus gemmer sig i cellernes DNA). Men moderne antiviral kombinationsbehandling (HAART) holder virus i dvale, så immunforsvaret bevares, og man smitter ikke andre (\"Undetectable = Untransmittable\"). Levetiden er i dag normal."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Ved en bestemt psykisk sygdom, er opnåelse af vægt-tab det helt centrale omdrejningspunkt for patienten, og vægttabet kan blive livstruende stort.\na) Angiv navn for denne sygdom\nb) Hvilke(n) befolkningsgruppe(r) rammes hyppig af sygdommen\nc) Beskriv de væsentligste symptomer og fund\nd) Hvad er prognosen for sygdommen hvad angår helbredelse",
+    "answer": "a) Anorexi (nervøs spisevægring)\nb) Højrisikogruppen er piger/unge kvinder\nc) Kropsopfattelsen er påvirket i en grad at den kan kategoriseres som psykotisk. Patienten er optaget af kontrol over egen krop. Tilstanden er præget af ambivalens med stor optagethed af mad, madopskrifter og af hvad andre indtager, samtidig med at patienten undgår (særligt fedende) mad Stor optagethed af at forbrænde kalorier Patienten vil ofte forsøge at skjule tilstanden (væske indtag op til vejning/tøj der skjuler) For pigers/kvinder vedkommende vil menstruationerne ophøre og udviklingen af sekundære kønskarakteristika bremses. Efterhånden som graden af underernæring skrider fremad udvikles påvirkning af blodtryk, elektrolytforstyrrelser, nedsat plasma-albumin og ødemer. I ekstreme tilfælde kan udvikles en demenslignende tilstand.\nd) Sygdommen varer typisk adskillige år, men ved opfølgning viser det sig at jo længere tid man venter, jo flere bliver helbredt (73% ved en opfølgningstid på mere end 10 år). Der persisterer en restgruppe på 15-25% som har et meget langvarigt sygdomsforløb og især blandt disse er dødeligheden høj."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Ved en bestemt psykisk sygdom ses et unormalt mønster hvad angår føde-indtagelse, men denne sygdom er ikke forbundet med vægt-tab. Ved denne sygdom ses hyppigt skade på tændernes emalje.\na) Angiv navn på denne sygdom.\nb) Beskriv kort den typiske adfærd i forhold mad.\nc) Redegør for typiske symptomer og fund.\nd) Beskriv kort behandlingen",
+    "answer": "a) Bulimi (nervøs overspisning)\nb) Impulsiv og ukontrollérbar overspisning efterfulgt af opkastninger er det centrale ved bulimi\nc) Patienten er modsætning til anorektikeren (almindeligvis) normalvægtig, men er optaget af vægt og forsøger at holde denne trods overspisning. Den ukontrollable overspisning medfører efterfølgende en trang til opkastning, hvor den psykiske spænding lindres når patienten giver efter. De gentagne opkastninger giver syreskader på tændernes emalje og kan give elektrolytforstyrrelser (især hypokaliæmi der øger risikoen for kardielle arytmier). Overspisningen kan giver anledning til reflux- symptomer/obstipation.\nd) Behandling kan oftest foregå i ambulant regi da patienterne ikke (som anoreksipatienter) er underernærede. Kognitiv adfærdsterapi (KAT) er den behandlingsform hvor der er bedst dokumentation for virkning på den korte bane mens dokumentation for langtidseffekten mangler. Der er ligeledes dokumentation for en god virkning af antidepressive midler (SSRI præparater) på kort sigt, hvorfor disse med fordel kan anvendes samtidig med KAT."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Ved en bestemt gruppe af somatiske sygdomme (ikke-psykiske sygdomme) er et kraftigt vægttab et meget hyppigt fund – særligt hvis sygdommen er fremskreden med spredning til andre dele af kroppen end der hvor den opstod. Den sygdomsgruppe er meget stor både hvad angår antallet af sygdomme og hvad angår antallet af patienter. Et karakteristikum for disse sygdomme er at de alle er forbundet med ændringer i visse cellers arvemateriale og opførsel.\na) Angiv mindst tre forskellige sygdomme fra denne gruppe\nb) Angiv den hyppigste ætiologi når en sådan sygdom opstår i lungerne\nc) Beskriv typiske symptomer og fund når en sådan sygdom opstår i lungerne\nd) Beskriv kort hvordan denne type sygdom diagnosticeres og behandles når den opstår i lungerne\ne) Angiv prognosen for sygdommen hvad angår overlevelse når den opstår i lungerne",
+    "answer": "a) Her kunne fx nævnes, brystkræft, prostata kræft, tyktarms/endetarmskræft, lungekræft, malignt melanom – men helt ok at nævne sjældnere kræftformer inkl. de hæmatologiske\nb) Rygning\nc) Vedvarende hoste og opspyt (evt. blodtilblandet), hyppige lungebetændelser, vejrtrækningsbesvær, hæshed og smerter i brystet (betegnes alarmsymptomer). Der kan også være almene symptomer som træthed og vægttab (evt. uden andre symptomer).\nd) Diagnosticeres normalt ved CT af thorax og øvre del af abdomen samt ved udtagelse af biopsi (hyppigt ved bronkoskopi). Behandling baseres på udbredelsen af sygdommen på diagnosetidspunktet samt på histologien (typen af lungekræft) og omfatter kirurgi, kemoterapi, immunterapi og stråleterapi. Dertil smertebehandling.\ne) Prognosen er dårlig hvad angår overlevelse – langt de fleste ender med at dø af sygdommen."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "En meget stor gruppe af patienter lider af kronisk eller vekslende grad af obstruktion i deres luftveje. Særligt to store folkesygdomme giver sådanne symptomer.\na) Angiv hvilke to sygdomme der er tale om\nb) Man kan med en simpel undersøgelse måle lungernes funktion. Dette kan foregå på hospital men også i almen praksis eller hjemme hos patienten selv – hvad kaldes denne type undersøgelse og hvad vil den vise ved hver af de to sygdomme\nc) Beskriv kort de hyppigste ætiologier ved de to sygdomme\nd) Redegør for de karakteristiske forandringer i lungevævet ved hver af de to sygdomme",
+    "answer": "a) Astma og KOL (Kronisk obstruktiv lungelidelse)\nb) Spirometri, undersøgelsen vil i begge tilfælde vise en nedsat FEV1/FVC ratio (<0.7) som det mest konsistente fund (dog hos astmapatienter forudsat at der er en vis aktivitet i sygdommen). De absolutte værdier for både FEV1 og FVC vil også typisk være nedsat (men altså FEV1 mest).\nc) I DK er tobaksrygning er den altdominerende årsag (85-90%) til KOL. Den væsentligste del af de øvrige tilfælde skyldes erhverv (støv i stalde, foderstofvirksomheder, cementindustri). Ætiologien ved astma er multifaktoriel: arv (arvelig disposition til allergi). Hos disponerede individer er særligt overvægt (specielt hos børn og kvinder), luftforurening (partikler, rygning), luftbårne allergener og lav fysisk aktivitet af betydning som risikofaktorer.\nd) KOL: Påvirkningen fra det/de skadelige stof(fer) udløser inflammation i lungevævet og i de små luftveje (bronchiolitis). Aktiverede leukocytter der frigiver en række vævsnedbrydende enzymer, hvilket giver emfysem (destruktion af lungevævet). Lungefunktionstabet hos en ryger er typisk det dobbelte af det man finder hos en ikke-ryger (40-50 ml FEV1/år mod 20-25 ml FEV1/år hos ikke-rygere) Astma: Ved astma ses (reversibel) inflammation de små luftveje. Inflammationen giver hyper-reaktivitet af den glatte muskulatur i bronkie/bronkiole-væggen (øget tendens til kontraktion), slimhindeødem, sekretpropper og i sidste ende strukturel omdannelse (remodellering) af de små luftveje. Den nedsatte diameter i de små luftveje medfører øget luftvejsmodstand."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Mangel på et bestemt metal (en metal-ion) som findes i hæmoglobin kan føre til en bestemt godartet blodsygdom.\na) Angiv navnet på denne sygdom\nb) Beskriv kort hvordan denne mangel-situation kan opstå\nc) Redegør kort for hvilke grupper der er i særlig risiko for at udvikle en mangel-situation\nd) Beskriv kort hvilke forebyggelses- og behandlingsmuligheder man har af en mangelsituationen.",
+    "answer": "a) Jernmangelanæmi\nb) Mangel kan opstå enten pga. utilstrækkeligt optag eller pga. øget tab\nc) Mangel pga. for ringe optag (sjældent hos voksne) ses ved malabsorbtion. Kan ses hos spædbørn på ensidig mælkekost. Mangel pga. forøget tab: Jerntab ved blødning udgør hovedårsagen til jernmangelanæmi og ses hyppigt hos kvinder i den fertile alder pga. menstruationsblødning. Patologisk jerntab fra gastro- intestinale eller urogenitale sår er ligeledes en hyppig årsag. Der er et betydeligt øget jernbehov under graviditet og laktation, hvorfor disse tilstande kan udløse jernmangel\nd) Behandlingen er peroralt jerntilskud. Behandling af tilgrundliggende sygdom såsom cancer i mavetarmkanalen/ulcus Forebygges med kost med et tilstrækkeligt jernindhold og peroralt jerntilskud til udvalgte grupper / patienter (fx ved kraftige menstruationer, svangerskab og under laktation)."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Vores stofskifte reguleres ved graden af aktivitet i (sekretion fra) en bestemt kirtel der er placeret fortil på halsen\na) Angiv for denne kirtel navn, samt navnet på det produkt den secernerer\nb) Kirtlens sekretion styres under normale forhold af et hormon fra en anden kirtel. Angiv navnet på denne anden kirtel samt navnet på det hormon den secernerer\nc) Hvordan ændres blod- koncentrationen af hormonet fra denne anden kirtel hvis stofskiftet for højt? og hvis stofskiftet er for lavt?\nd) Angiv typiske almene symptomer og fund ved for højet stofskifte\ne) Beskriv kort på hvilke måder forhøjet stofskifte kan udgøre en byrde for patient og samfund",
+    "answer": "a) Skjoldbruskkirtlen (gl. thyroidea), secernerer skjoldbruskkirtelhormon\nb) Hypofysen, det hormon der styrer skjoldbruskkirtlen er TSH (thyroidea stimulerende hormon)\nc) Hvis stofskiftet er for højt (hypertyreose, forårsaget af forhøjet blod-koncentration af stofskiftehormon) vil TSH være lavt. Omvendt vil TSH være højt ved hypotyreose\nd) Træthed, vægttab, øget appetit, varme-intolerans, søvnbesvær, hyperaktivitet\ne) Livskvaliteten er nedsat – særligt for patienter med Graves sygdom og ophthalmopati. Patienterne kan være alment påvirkede og uarbejdsdygtige i længere perioder; de er i forøget risiko for at udvikle hjerte-karsygdom, diabetes og psykisk sygdom. Da sygdommen tillige er hyppig, udgør den en vis byrde for samfundet."
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Ved en række sygdomme kan ses neurologiske symptomer som følge af enten bristning eller tilstopning af intra-kranielle blodkar.\na) For så mange af sådanne sygdomme du kan, angiv sygdommens navn samt typiske ætiologi",
+    "answer": "a) Apopleksi (slagtilfælde), skyldes tilstopning (trombose eller emboli) eller bristning af et kar i hjernevævet Subaraknoidalblødning (SAH), blødning ud i subaraknoidalrummet hyppigst fra et bristet aneurisme Subduralt hæmatom (akut/kronisk), blødning mellem dura - og araknoidea mater forårsaget af traume mod hovedet (fra mildt- til svært traume) Epiduralt hæmatom, blødning mellem kraniet og dura forårsaget af kranietraume Endvidere kan nævnes Vaskulær demens, sygdom i hjernens små kar der tillukkes - ses typisk ved hypertension/diabetes Et voldsomt blodtryksfald kan nedsætte hjernens gennemblødning til et kritisk lavt niveau. Beskriv kort de forskellige årsager til du kender til et voldsomt (og ofte pludseligt indsættende) blodtryksfald Anafylaktisk shock – pludselig og voldsom overfølsomhedsreaktion (fx på bi- eller hvepsegift) der giver universel vasodilatation og dermed blodtryksfald Septisk shock – ”blodforgifning” – infektion der har spredt sig til blodbanen og forårsager kraftig almen påvirkning Kardiogent shock, skyldes utilstrækkelig pumpefunktion fx efter AMI Blødningsshock (eller hypovolæmisk shock), tab af blod enten fra en ydre overflade eller ind i et hulrum i kroppen så selve blødningen ikke umiddelbart kan erkendes på overfladen (i bogen kun nævnt under ekstrauterin graviditet) Neurogent shock forventes ikke kendt da det vist ikke er nævnt i bogen"
+  },
+  {
+    "examSet": "Sommer 2020 - Ordinær",
+    "diseaseIds": [],
+    "question": "Betændelse i mave-tarmkanalens væg ses ved en række sygdomme.\na) For så mange af sådanne sygdomme du kan: Angiv sygdommens navn samt hyppigste ætiologi (hvis den er kendt)\nb) Angiv navn\nc) Beskriv kort patogenesen\nd) Redegør for symptomer og fund samt for mulige følgesygdomme\ne) Beskriv kort diagnostik, behandling samt prognose",
+    "answer": "a) Reflux esophagitis – ætiologi: Insufficient aflukning af spiserører ved overgangen til mavesækken. Ulcus ventriculi/duodeni – ætiologi: Syreætsning i en svækket slimhinde (hyppige årsager til svækkelse: infektion i slimhinden med Helicobacter pylori og/eller medicin fx NSAID) Mb. Crohn / Colitis ulcerosa – ætiologi: Begge er autoimmune sygdomme. Appendicitis acuta (blindtarmsbetændelse) – ætiologi: Bakteriel invasion af tarmvæggen (se også nedenfor) Infektiøse gastroenteritter – ætiologi: En række forskellige virus og bakterier. Erhverves normalt via føden. En bestemt sygdom med betændelse i tarmvæggen opstår ofte ret akut og tit hos børn og unge. Karakteristisk vil der hyppigt på et tidspunkt opstå smerter nedadtil i højre side af abdomen. I Danmark er denne sygdom årsag til omkring 6000-7000 akutte operationer årligt. For denne sygdom:\nb) Appendicitis acuta (blindtarmsbetændelse)\nc) Aflukning af lumen er centralt (fx via bestanddele i føden eller hævelse i væggen (lymphoidt væv) eller mekanisk (snoning, afklemning udefra)). Derefter slimhindeforandringer og bakteriel invasion af alle tarmvæggens lag.\nd) Initialt periumbilicale smerter (turevise). Feber, kvalme, opkastninger. Obstipation eller diarré. Senere mere konstante smerter i nedre højre kvadrant (McBurneys punkt), forværres ved tryk eller bevægelse. Der kan være hårdhed af bugvæggen (reflektorisk muskelspænding (defence)) samt slipømhed (hvis et tryk mod abdomen pludseligt ophæves). Ved præsentation har 15-30 % perforation af appendix. Følgesygdomme omfatter peritonitis (bughindebetændelse) som komplikation til perforation, sårinfektion, intra-abdominal absces (byld i bughulen) og ilius (tarmslyng).\ne) Diagnosen er primært klinisk, baseret på anamnesen og de kliniske fund (se ovenstående). Paraklinisk kan specifikke blodprøver og urinprøver medvirke til at udelukke andre tilstande (og understøtte diagnosen). Evt. (sjældnere) ultralyd eller CT. Behandlingen er operation (akut, åben eller laparoskopisk) og hyppigt antibiotika. Prognosen er god. Meget lav mortalitet totalt set (højest ved perforation) og normalt ingen langtidsfølger. Dog højere komplikationsrate hos helt små børn, gravide og gamle hvor diagnosen er vanskeligere og derfor ofte forsinkes."
+  }
+]
