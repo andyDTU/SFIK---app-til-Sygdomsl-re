@@ -176,5 +176,156 @@
     "diseaseIds": [],
     "question": "Betændelse i mave-tarmkanalens væg ses ved en række sygdomme.\na) For så mange af sådanne sygdomme du kan: Angiv sygdommens navn samt hyppigste ætiologi (hvis den er kendt)\nb) Angiv navn\nc) Beskriv kort patogenesen\nd) Redegør for symptomer og fund samt for mulige følgesygdomme\ne) Beskriv kort diagnostik, behandling samt prognose",
     "answer": "a) Reflux esophagitis – ætiologi: Insufficient aflukning af spiserører ved overgangen til mavesækken. Ulcus ventriculi/duodeni – ætiologi: Syreætsning i en svækket slimhinde (hyppige årsager til svækkelse: infektion i slimhinden med Helicobacter pylori og/eller medicin fx NSAID) Mb. Crohn / Colitis ulcerosa – ætiologi: Begge er autoimmune sygdomme. Appendicitis acuta (blindtarmsbetændelse) – ætiologi: Bakteriel invasion af tarmvæggen (se også nedenfor) Infektiøse gastroenteritter – ætiologi: En række forskellige virus og bakterier. Erhverves normalt via føden. En bestemt sygdom med betændelse i tarmvæggen opstår ofte ret akut og tit hos børn og unge. Karakteristisk vil der hyppigt på et tidspunkt opstå smerter nedadtil i højre side af abdomen. I Danmark er denne sygdom årsag til omkring 6000-7000 akutte operationer årligt. For denne sygdom:\nb) Appendicitis acuta (blindtarmsbetændelse)\nc) Aflukning af lumen er centralt (fx via bestanddele i føden eller hævelse i væggen (lymphoidt væv) eller mekanisk (snoning, afklemning udefra)). Derefter slimhindeforandringer og bakteriel invasion af alle tarmvæggens lag.\nd) Initialt periumbilicale smerter (turevise). Feber, kvalme, opkastninger. Obstipation eller diarré. Senere mere konstante smerter i nedre højre kvadrant (McBurneys punkt), forværres ved tryk eller bevægelse. Der kan være hårdhed af bugvæggen (reflektorisk muskelspænding (defence)) samt slipømhed (hvis et tryk mod abdomen pludseligt ophæves). Ved præsentation har 15-30 % perforation af appendix. Følgesygdomme omfatter peritonitis (bughindebetændelse) som komplikation til perforation, sårinfektion, intra-abdominal absces (byld i bughulen) og ilius (tarmslyng).\ne) Diagnosen er primært klinisk, baseret på anamnesen og de kliniske fund (se ovenstående). Paraklinisk kan specifikke blodprøver og urinprøver medvirke til at udelukke andre tilstande (og understøtte diagnosen). Evt. (sjældnere) ultralyd eller CT. Behandlingen er operation (akut, åben eller laparoskopisk) og hyppigt antibiotika. Prognosen er god. Meget lav mortalitet totalt set (højest ved perforation) og normalt ingen langtidsfølger. Dog højere komplikationsrate hos helt små børn, gravide og gamle hvor diagnosen er vanskeligere og derfor ofte forsinkes."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "spiseforstyrrelser"
+    ],
+    "question": "Opgave 1: Bulimi\na) Hvilken gruppe rammes hyppigst?\nb) Symptomer og fund.\nc) Diagnostik og behandling.\nd) Byrde.",
+    "answer": "a) Yngre kvinder.\nb) Spiseanfald efterfulgt af opkastninger; oftest normalvægtig; syreskader på tænder, hypokaliæmi (arytmirisiko), reflux/obstipation, menstruationsforstyrrelser.\nc) Anamnese (overspisningsepisoder), tandstatus; behandles ambulant med kognitiv adfærdsterapi (KAT) + evt. SSRI.\nd) Nedsat livskvalitet; primært ambulante udgifter."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "urticaria"
+    ],
+    "question": "Opgave 2: Urticaria (nældefeber)\na) Definition.\nb) Forekomst (livstid) – hyppig/sjælden?\nc) Ætiologi og patogenese.",
+    "answer": "a) Anfaldsvis kløende hudsygdom med røde, sammenflydende kvaddler; kronisk hvis >8 uger. Angioødem = dybere hævelse.\nb) Ca. 15 % af danskere får et anfald → hyppig.\nc) Histaminfrigørelse fra mastceller (IgE-medieret allergi eller fysisk/kemisk udløsning); ofte ingen påviselig årsag."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "kol"
+    ],
+    "question": "Opgave 3: KOL\na) Forekomst.\nb) Ætiologi.\nc) Patogenese.\nd) Symptomer/fund.\ne) Diagnostik.\nf) Skitsér Fletcher-kurven.",
+    "answer": "a) Ca. 400.000 (40.000 svær).\nb) Rygning 85-90 %; erhverv; alfa1-antitrypsinmangel (sjælden).\nc) Inflammation → vævsnedbrydende enzymer; rygere taber ~40-50 ml FEV1/år.\nd) Snigende dyspnø, hoste, ekspektoration, hyppige infektioner, eksacerbationer.\ne) Lungefunktion (FEV1/FVC <0,7 efter bronkodilatator), MRC/CAT, rtg. thorax.\nf) Fletcher-kurve: normal vs. ryger vs. rygestop."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "myelomatose"
+    ],
+    "question": "Opgave 4: Myelomatose\na) Definition.\nb) Forekomst – hyppig/sjælden?\nc) Mindst 2 symptomer og hvorfor de opstår.",
+    "answer": "a) Neoplasi med ophobning af abnorme plasmaceller i knoglemarven (M-komponent).\nb) Ca. 300/år → sjælden.\nc) Knoglesmerter/osteolytiske foci + patologiske frakturer (cytokin-drevet knoglenedbrydning); nyreskade (Bence Jones-protein, hyperkalcæmi); immunparese → infektioner; anæmi (marvfortrængning); neurologiske udfald ved tryk på medulla."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "appendicitis"
+    ],
+    "question": "Opgave 5: Akut appendicitis\na) Definition + aldersgruppe.\nb) Patogenese.\nc) Symptomer, fund og følgesygdomme.\nd) Diagnostik og behandling.\ne) Prognose.",
+    "answer": "a) Akut inflammation/infektion i alle lag af appendix' væg; hyppigst store børn/unge.\nb) Aflukning af lumen → slimhindeforandringer → bakteriel invasion gennem væggen.\nc) Periumbilicale smerter → McBurney; feber, kvalme; slipømhed/défense; 15-30 % perforerede ved ankomst. Følger: peritonitis, absces, ileus.\nd) Klinisk diagnose + blod/urin; evt. UL/CT. Behandling: operation (appendektomi) + ofte antibiotika.\ne) God; meget lav mortalitet."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "praeeklampsi"
+    ],
+    "question": "Opgave 6: Præeklampsi\na) Definition.\nb) Patogenese og ætiologi.\nc) Symptomer, fund og følgetilstande.",
+    "answer": "a) Hypertension + proteinuri efter 20. graviditetsuge.\nb) Øget karmodstand i placenta og moderens kredsløb → nedsat placentafunktion, proteinuri, ødemer. Risiko øget ved hypertension, diabetes, adipositas, flerfold, autoimmun sygdom.\nc) Vægtøgning/ødemer, hovedpine, synsforstyrrelser, forhøjet BT, proteinuri. Følger: nedsat fostertilvækst, eklampsi, hjerneødem, lungeødem, nyrepåvirkning, DIC."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "parkinsons"
+    ],
+    "question": "Opgave 7: Parkinsons sygdom\na) Forandringer i hjernen.\nb) Symptomer og fund.\nc) Behandling.",
+    "answer": "a) Tab af dopaminerge neuroner i substantia nigra og deres forbindelser til basalganglierne (nigrostriatale baner).\nb) 3 kardinalsymptomer: hviletremor (pilletriller), bradykinesi (maskeansigt, mikrografi), rigiditet (tandhjul); senere balanceproblemer; asymmetrisk debut.\nc) Dopaminerge lægemidler, især L-dopa; ved svigt evt. dyb hjernestimulation."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "urinvejsinfektioner"
+    ],
+    "question": "Opgave 8: Urinvejsinfektioner\na) Patogenese.\nb) Symptomer.\nc) Behandling.",
+    "answer": "a) Bakterier (oftest E. coli) fra mave-tarm via urinrør → cystitis → (opstigende) pyelonefritis → urosepsis. Kompliceret cystitis (børn, mænd, ældre, gravide, recidiv) skyldes ofte strukturelle forhold (strikturer, sten, prostata) eller kateter.\nb) Cystitis: pollakisuri, dysuri, blæreømhed. Pyelonefritis: feber + flankesmerter. Urosepsis: påvirket almentilstand.\nc) Simpel cystitis: ofte spontan/væske; ellers antibiotika (i.v. ved pyelonefritis/urosepsis); asymptomatisk bakteriuri behandles ikke (undt. gravide)."
+  },
+  {
+    "examSet": "Sommer 2021 - Ordinær",
+    "diseaseIds": [
+      "lungekraeft"
+    ],
+    "question": "Opgave 9: Lungekræft\na) Antal nye tilfælde – hyppig/sjælden?\nb) Ætiologi.\nc) Symptomer.\nd) Diagnostik og behandling.\ne) Prognose.",
+    "answer": "a) Over 4000/år → meget hyppig.\nb) Rygning >90 %; sjældnere asbest, radon, luftforurening.\nc) Alarmsymptomer: vedvarende hoste/blodigt opspyt, hyppige lungebetændelser, dyspnø, hæshed, brystsmerter; + almene (træthed, vægttab).\nd) CT thorax + biopsi (bronkoskopi); behandling: kirurgi, kemo, stråle afhængigt af type/udbredelse.\ne) Dårlig – de fleste dør af sygdommen."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "bechterew",
+      "diskusprolaps",
+      "ra"
+    ],
+    "question": "Opgave 1 (tværgående): Sygdomme i rygsøjlen\na) Bechterew: kønsratio, debutalder, vævstype.\nb) Bechterew: symptomer/fund.\nc) Bechterew: hvilke andre led/væv rammes.\nd) Diskusprolaps i lænden: definition + patogenese.\ne) Hvilken del af rygsøjlen angriber RA?",
+    "answer": "a) Mænd ~5x, debut 20-40 år, HLA-B27 (90x risiko).\nb) Gradvise lændesmerter værst om natten, morgenstivhed, lindres ved foroverbøjning; stivner foroverbøjet.\nc) Sacroiliacaled, centralt placerede led (bryst/kraveben, hofte, skulder), tarmaffektion, entesitis (hæl).\nd) Udposning af nucleus pulposus gennem annulus fibrosus; tryk/inflammation ved nerverod → smerter, lammelser, føleudfald (mange er asymptomatiske).\ne) Nakken."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "parkinsons"
+    ],
+    "question": "Opgave 2: Parkinsons sygdom\na) Forandringer i hjernen.\nb) Symptomer og fund.\nd) Forebyggelse.\ne) Byrde for patient og samfund.",
+    "answer": "a) Tab af dopaminerge neuroner i substantia nigra og deres forbindelser til basalganglierne.\nb) Tremor (hvile/pilletriller), bradykinesi (maskeansigt), rigiditet (tandhjul); asymmetrisk debut; senere balanceproblemer.\nd) Ingen kendt forebyggelse.\ne) Kronisk, progredierende, invaliderende; dyr behandling der aftager i effekt; evt. demens og plejehjem; stor byrde for patient, pårørende og samfund."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "appendicitis"
+    ],
+    "question": "Opgave 3: Akut appendicitis\na) Definition + forekomst.\nb) Patogenese.\nc) Symptomer, fund + følgesygdomme.\nd) Diagnostik + behandling.\ne) Prognose + byrde.",
+    "answer": "a) Akut inflammation/infektion i appendix' væg; ca. 6500/år (faldende); hyppigst store børn/unge.\nb) Lumen-aflukning → slimhindeforandring → bakteriel invasion.\nc) Periumbilicale → McBurney-smerter, feber, kvalme, défense, slipømhed; 15-30 % perforerede. Følger: peritonitis, sårinfektion, absces, ileus.\nd) Klinisk + blod/urin, evt. UL/CT; operation + ofte antibiotika.\ne) God prognose; mortalitet ~8 promille; byrde beskeden-moderat."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "psykose_begreber",
+      "skizofreni"
+    ],
+    "question": "Opgave 4 (tværgående): Psykoser\na) Definér 'hallucination' + mindst to eksempler.\nb) Definér 'vrangforestilling' + eksempler.\nc) Kriterier for tvangsindlæggelse.",
+    "answer": "a) Sanseindtryk uden sansestimulus; fx hørehallucinationer (kommanderende stemmer) og synshallucinationer.\nb) Privat, ukorrigerbar idé der ikke deles af andre med samme baggrund; fx forfølgelses-, storheds- og selvhenførende forestillinger.\nc) Patienten skal være psykotisk (el. ligestillet) OG det skal være uforsvarligt ikke at indlægge fordi 1) fare for sig selv/andre, eller 2) udsigt til bedring forringes uden behandling."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "praeeklampsi"
+    ],
+    "question": "Opgave 5: Præeklampsi\na) Definition.\nb) Patogenese.\nc) Ætiologi.\nd) Symptomer/fund.\ne) Følgetilstande.",
+    "answer": "a) Hypertension + proteinuri efter 20. graviditetsuge.\nb) Øget karmodstand i placenta/moderens kredsløb → nedsat placentafunktion, proteinuri, lavt plasmavolumen, ødemer.\nc) Ukendt udløser; risiko øget ved 1. graviditet/ny partner, hypertension, diabetes, adipositas, flerfold, autoimmun sygdom.\nd) Vægtøgning/ødemer, forhøjet BT, proteinuri, hovedpine/synsforstyrrelser, mavesmerter; påvirkede blodprøver.\ne) Nedsat fostertilvækst, eklampsi, hjerneødem, lungeødem, nyrepåvirkning, leverpåvirkning, DIC."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "erysipelas",
+      "impetigo"
+    ],
+    "question": "Opgave 6 (tværgående): Infektioner i huden\na) Erysipelas: definition + aldersgruppe.\nb) Erysipelas: risikofaktorer.\nc) Erysipelas: patogenese + symptomer.\nd) Impetigo: definition + bakterie.\ne) Impetigo: lokalisation + ses hos voksne?\nf) Impetigo: forebyggelse.",
+    "answer": "a) Akut, overfladisk, velafgrænset streptokokinfektion i huden; hyppigst ældre.\nb) Svær overvægt, diabetes, kronisk lymfødem, nedsat immunforsvar.\nc) Starter hvor barrieren er svækket (eksem/svamp); spreder sig superficielt; rødme/varme/hævelse/ømhed, skarpt afgrænset, evt. feber; typisk underben.\nd) Overfladisk hudinfektion med gullige skorper; oftest Staphylococcus aureus.\ne) Hyppigst ansigtet; ses i alle aldre, men langt hyppigst børn.\nf) God håndhygiejne, tildæk elementer, separate håndklæder, opmærksomhed ved atopisk eksem."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "spiseforstyrrelser"
+    ],
+    "question": "Opgave 7 (tværgående): Spiseforstyrrelser\na) Anoreksi: hvem rammes hyppigst?\nb) Anoreksi: symptomer/fund.\nc) Bulimi: symptomer/fund.",
+    "answer": "a) Piger/unge kvinder.\nb) Forstyrret (psykotisk grad) kropsopfattelse, kontrolbehov, vægttab; amenoré; ved svær underernæring: påvirket BT, elektrolytforstyrrelser, ødemer; evt. demenslignende tilstand.\nc) Anfald af overspisning + opkastninger; oftest normalvægtig; syreskader på tænder, elektrolytforstyrrelser, reflux/obstipation."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "hypotyreose",
+      "hypertyreose"
+    ],
+    "question": "Opgave 8 (tværgående): Stofskiftesygdomme\na) Hypotyreose: patogenese.\nb) Hypotyreose: symptomer/fund.\nc) Hypotyreose: diagnostiske tests.\nd) Hypertyreose: mindst 3 symptomer + T3/T4 og TSH?",
+    "answer": "a) Oftest kronisk autoimmun thyroiditis (med/uden struma) → destruktion + fibrose → thyroidea-insufficiens (livslang substitution); evt. atrofisk/forbigående.\nb) Træthed, glemsomhed, depression, kuldskærhed, vægtøgning, tør hud, forstoppelse, langsom puls, hæs stemme.\nc) Høj TSH + lave stofskiftehormoner.\nd) Nervøsitet, tremor, hjertebanken/atrieflimren, vægttab, varmeintolerans, svedtendens m.fl.; T3/T4 høje, TSH supprimeret."
+  },
+  {
+    "examSet": "Sommer 2022 - Ordinær",
+    "diseaseIds": [
+      "lungekraeft",
+      "kraeft_behandling",
+      "kraeft_palliation"
+    ],
+    "question": "Opgave 9 (tværgående): Kræftsygdomme\na) Mindst to almene symptomer ved fremskreden kræft.\nb) Mindst tre behandlingsformer.\nc) Lungekræft: antal nye tilfælde/år.\nd) Lungekræft: dominerende ætiologi + %.\ne) Lungekræft: alarmsymptomer.\nf) Småcellet lungekræft: behandlingsprincipper.",
+    "answer": "a) Træthed, vægttab, manglende appetit, smerter, lav blodprocent.\nb) Kirurgi, stråleterapi, kemoterapi, immunterapi + palliation.\nc) Lidt over 4000/år.\nd) Rygning ~90 %.\ne) Vedvarende hoste/blodigt opspyt, hyppige lungebetændelser, dyspnø, hæshed, brystsmerter.\nf) Oftest spredt ved diagnosen → ikke operabel; kemoterapi + stråleterapi; evt. forebyggende strålebehandling mod hjernemetastaser."
   }
 ]

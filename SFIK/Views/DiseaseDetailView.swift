@@ -15,6 +15,15 @@ struct DiseaseDetailView: View {
                         .font(.headline)
                         .foregroundColor(.secondary)
                     Spacer()
+                    if DiseasePriority.tier(for: disease) == .high {
+                        Label("Høj prioritet", systemImage: "star.fill")
+                            .font(.caption).bold()
+                            .foregroundColor(.orange)
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 4)
+                            .background(Color.orange.opacity(0.15))
+                            .clipShape(Capsule())
+                    }
                 }
                 .padding(.bottom, 5)
                 
