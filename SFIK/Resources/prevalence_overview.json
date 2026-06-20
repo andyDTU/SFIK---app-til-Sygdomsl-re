@@ -1,0 +1,892 @@
+{
+  "prevalences": [
+    {
+      "id": "hoefeber",
+      "name": "Allergisk rhinoconjunctivitis (høfeber)",
+      "chapter": "Allergiske sygdomme",
+      "prevalenceFull": "Ca. 15-20% af danskere. Hyppigste allergiske sygdom. Typisk debut i barndom/ungdom.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "anafylaksi",
+      "name": "Anafylaksi (allergisk shock)",
+      "chapter": "Allergiske sygdomme",
+      "prevalenceFull": "Incidens ca. 5-10/100.000/år. Kan forekomme i alle aldre. Dødsfald ca. 1-3 per million per år.",
+      "prevalenceShort": "Incidens ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "atopisk_eksem",
+      "name": "Atopisk eksem (børneeksem)",
+      "chapter": "Allergiske sygdomme",
+      "prevalenceFull": "Ca. 10-20% af børn i Danmark. Hyppigste kroniske hudsygdom hos børn. Del af 'atopisk triade' (astma, høfeber, eksem).",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "foedevareallergi",
+      "name": "Fødevareallergi",
+      "chapter": "Allergiske sygdomme",
+      "prevalenceFull": "Ca. 4-8% af børn, 1-2% af voksne. Hyppigste allergener hos børn: mælk, æg, jordnødder, hvede.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "urticaria",
+      "name": "Urticaria (nældefeber)",
+      "chapter": "Allergiske sygdomme",
+      "prevalenceFull": "Ca. 20% af befolkningen oplever urticaria en gang i livet. Kronisk urticaria (>6 uger): ca. 1%.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "artritis_urica",
+      "name": "Artritis urica (podagra/urinsyregigt)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Ca. 1-2% af befolkningen. Hyppigst hos midaldrende mænd. Øget forekomst pga. fedme og alkohol.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "bechterew",
+      "name": "Bechterews sygdom (rygsøjlegigt)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Ca. 0,1% af befolkningen. 95% af patienterne har vævstype HLA-B27. Mænd/kvinder ratio 5:1. Debuterer typisk 20-40-årsalderen.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "diskusprolaps",
+      "name": "Diskusprolaps i lænden",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Meget hyppig. Hyppigst i 30-50-årsalderen. L4-L5 og L5-S1 er oftest ramt.",
+      "prevalenceShort": "Meget hyppig",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "distal_radiusfraktur",
+      "name": "Distal radiusfraktur (håndledsbrud)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Den hyppigste osteoporosebetingede fraktur hos ældre, især kvinder. Ca. 30 % af frakturerne sker i glat føre.",
+      "prevalenceShort": "Den hyppigste osteoporosebetingede fraktur hos ældre, især kvinder",
+      "category": "hyppig"
+    },
+    {
+      "id": "frakturer",
+      "name": "Frakturer (knoglebrud)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Ca. 80.000 frakturer/år på danske skadestuer; ca. 50.000 behandles konservativt. Hoftebrud beslaglægger flest sengedage af nogen enkeltsygdom.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "humerusfraktur",
+      "name": "Humerusfraktur (brud på overarmen)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Hyppig hos både børn og voksne; den næsthyppigste frakturtype efter distal radiusfraktur. Hyppig hos ældre med osteoporose.",
+      "prevalenceShort": "Hyppig hos både børn og voksne; den næsthyppigste frakturtype efter distal radiusfraktur",
+      "category": "hyppig"
+    },
+    {
+      "id": "osteoartrose",
+      "name": "Osteoartrose (slidgigt)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Hyppigste ledsygdom. Rammer >50% af personer over 65 år. Kvinder hyppigere end mænd, særligt knæ og hænder.",
+      "prevalenceShort": "Hyppigste ledsygdom",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "proksimal_femurfraktur",
+      "name": "Proksimal femurfraktur (hoftebrud)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Ca. 10.000 tilfælde om året i Danmark, hyppigst hos ældre kvinder. Den enkeltsygdom, der beslaglægger flest indlæggelsesdøgn i DK (ca. 300.000/år).",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "reaktiv_artrit",
+      "name": "Reaktiv artrit (reaktiv gigt)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Incidensen er ca. 2.300 registrerede tilfælde årligt. Rammer typisk yngre voksne. 60-90% har HLA-B27.",
+      "prevalenceShort": "Incidensen er ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "ra",
+      "name": "Reumatoid artrit (leddegigt)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Ca. 1% af befolkningen. Kvinde/mand ratio ca. 3:1. Debuterer typisk i 40-60-årsalderen.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "skulderluksation",
+      "name": "Skulderluksation (ledskred i skulderen)",
+      "chapter": "Bevægeapparatets sygdomme",
+      "prevalenceFull": "Relativt hyppig — mest hos yngre sportsaktive og hos ældre efter fald med slag mod skulderen. Ligger dog under forekomsten af skulderfrakturer.",
+      "prevalenceShort": "Relativt hyppig — mest hos yngre sportsaktive og hos ældre efter fald med slag mod skulder…",
+      "category": "hyppig"
+    },
+    {
+      "id": "akut_lymfoblastaer_leukaemi",
+      "name": "Akut lymfoblastær leukæmi (ALL)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Den hyppigste kræftform hos børn (ca. 40 børn årligt i DK), men rammer også voksne (sjældnere).",
+      "prevalenceShort": "Den hyppigste kræftform hos børn (ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "leukemi_aml",
+      "name": "Akut myeloid leukæmi (AML)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Ca. 300-350 nye tilfælde/år i Danmark. Medianalder ~70 år. Kan forekomme i alle aldre.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "haemoragisk_diatese",
+      "name": "Hæmoragisk diatese (blødningssygdomme)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Varierer. Von Willebrands sygdom er hyppig (1% af befolkningen), mens hæmofili (blødersygdom) er sjælden (ca. 1 pr. 10.000).",
+      "prevalenceShort": "Varierer",
+      "category": "hyppig"
+    },
+    {
+      "id": "anemi_jern",
+      "name": "Jernmangelanæmi",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Hyppigste anæmitype globalt. Kvinder i fertil alder og gravide er særlige risikogrupper.",
+      "prevalenceShort": "Hyppigste anæmitype globalt",
+      "category": "hyppig"
+    },
+    {
+      "id": "kronisk_lymfatisk_leukaemi",
+      "name": "Kronisk lymfatisk leukæmi (CLL)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Den hyppigste leukæmiform i Danmark (ca. 450 nye tilfælde pr. år). Rammer næsten udelukkende ældre over 65 år. Hyppigere hos mænd.",
+      "prevalenceShort": "Den hyppigste leukæmiform i Danmark (ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "kronisk_myeloid_leukaemi",
+      "name": "Kronisk myeloid leukæmi (CML)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Incidens ca. 50 tilfælde årligt i Danmark. Rammer typisk midaldrende og ældre. Sjælden hos børn.",
+      "prevalenceShort": "Incidens ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "lymfom",
+      "name": "Maligne lymfomer",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "NHL: ca. 1.500 nye tilfælde/år i Danmark. HL: ca. 200 nye tilfælde/år. HL rammer typisk yngre (20-30 år + >50 år).",
+      "prevalenceShort": "NHL: ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "megaloblastaer_anaemi",
+      "name": "Megaloblastær anæmi",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Hyppig hos ældre. Perniciøs anæmi (B12-mangel) ses hos ca. 1-2% af personer over 60 år.",
+      "prevalenceShort": "Hyppig hos ældre",
+      "category": "hyppig"
+    },
+    {
+      "id": "myelomatose",
+      "name": "Myelomatose (multipelt myelom)",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Ca. 400-450 nye tilfælde/år i Danmark. Medianalder ~70 år. Uhelbredelig, men behandlingsmulighederne har forbedret sig markant.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "polycytaemia_vera",
+      "name": "Polycytaemia vera",
+      "chapter": "Blodsygdomme",
+      "prevalenceFull": "Sjælden. Incidens er ca. 1-2 pr. 100.000 om året. Oftest diagnosticeret hos ældre over 60 år.",
+      "prevalenceShort": "Sjælden",
+      "category": "sjælden"
+    },
+    {
+      "id": "adipositas",
+      "name": "Adipositas (svær overvægt)",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 17% af voksne danskere har BMI ≥30. Stigende prævalens globalt. Alle aldersgrupper, men hyppigst over 40 år.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "hypertyreose",
+      "name": "Hypertyreose (forhøjet stofskifte)",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 1% af befolkningen. Kvinder ca. 10x hyppigere end mænd. Graves sygdom er hyppigste årsag.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "hypotyreose",
+      "name": "Hypotyreose (lavt stofskifte)",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 2-3% af befolkningen. Kvinder ca. 5-10x hyppigere end mænd. Hyppigste endokrine sygdom.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "metabolisk_syndrom",
+      "name": "Metabolisk syndrom",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 20-25% af voksne danskere. Prævalensen stiger med alderen.",
+      "prevalenceShort": "Ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "osteoporose",
+      "name": "Osteoporose (knogleskørhed)",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 500.000 danskere. Kvinder 3-4x hyppigere end mænd. Postmenopausale kvinder er højrisikogruppe. Ca. 20.000 hoftefrakturer/år i Danmark.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "diabetes_type1",
+      "name": "Type 1-diabetes",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 25.000 danskere. Incidens ca. 15/100.000/år. Danmark har en af verdens højeste incidenser. Debuterer hyppigst i barndom/ungdom, men kan opstå i alle aldre.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "diabetes_type2",
+      "name": "Type 2-diabetes",
+      "chapter": "Endokrine sygdomme",
+      "prevalenceFull": "Ca. 320.000 diagnosticerede danskere + skønsmæssigt 100.000 udiagnosticerede. Hyppigst over 40 år. Stigende prævalens pga. fedmeepidemien.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "benigne_ovariecyster",
+      "name": "Benigne ovariecyster og -tumorer",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Ekstremt hyppigt hos kvinder i den fødedygtige alder (op mod 10% opereres i løbet af livet).",
+      "prevalenceShort": "Ekstremt hyppigt hos kvinder i den fødedygtige alder (op mod 10% opereres i løbet af livet…",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "cin",
+      "name": "Cervikal intraepitelial neoplasi (CIN)",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Meget hyppig. Opdages oftest via screening. Over 15.000 kvinder årligt får påvist celleforandringer i DK.",
+      "prevalenceShort": "Meget hyppig",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "ekstrauterin_graviditet",
+      "name": "Ekstrauterin graviditet (EUG)",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Ca. 1-2% af alle graviditeter.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "pcos",
+      "name": "Polycystisk ovariesyndrom (PCOS)",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Ca. 5-10% af kvinder i fertil alder. Hyppigste årsag til anovulatorisk infertilitet.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "postmenopausal_bloedning",
+      "name": "Postmenopausal blødning",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Optræder hos ca. 5-10% af postmenopausale kvinder.",
+      "prevalenceShort": "Optræder hos ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "praeeklampsi",
+      "name": "Præeklampsi (svangerskabsforgiftning)",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Forekommer hos ca. 3-5% af graviditeter. Hyppigere ved 1. graviditet, tvillinger, kronisk hypertension, diabetes.",
+      "prevalenceShort": "Forekommer hos ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "praetermfodsel",
+      "name": "Præterm fødsel",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Ca. 5-7% af alle fødsler i Danmark. Hyppigste årsag til neonatal mortalitet og morbiditet.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "spontan_abort",
+      "name": "Spontan abort",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Meget hyppigt. Ca. 15-20% af alle erkendte graviditeter ender i spontan abort (størstedelen før 12. uge).",
+      "prevalenceShort": "Meget hyppigt",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "vaeksthaemning_foster",
+      "name": "Væksthæmning af fosteret",
+      "chapter": "Gynækologiske sygdomme og obstetrik",
+      "prevalenceFull": "Rammer omkring 3-5% af alle graviditeter.",
+      "prevalenceShort": "Rammer omkring 3-5% af alle graviditeter",
+      "category": "sjælden"
+    },
+    {
+      "id": "hjerteinfarkt",
+      "name": "Akut myokardieinfarkt (AMI)",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 10.000 AMI/år i Danmark. Hyppigst hos mænd og ældre. Incidensen er faldende pga. bedre behandling og forebyggelse.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "angina_pectoris",
+      "name": "Angina pectoris",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 160.000 danskere. Prævalensen stiger med alderen.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "aterosklerose",
+      "name": "Aterosklerose (åreforkalkning)",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Den hyppigste dødsårsag — ansvarlig for ca. en tredjedel af alle dødsfald i Danmark (ca. 12.000/år). Mindst 450.000 danskere lever med hjerte-kar-sygdom; ca. 150.000 har symptomer på iskæmisk hjertesygdom og ca. 100.000 iskæmiske symptomer fra hjerne eller ben.",
+      "prevalenceShort": "Den hyppigste dødsårsag — ansvarlig for ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "atrieflimren",
+      "name": "Atrieflimren",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 80.000 danskere. Prævalensen stiger markant med alderen (10% over 80 år). Mænd lidt hyppigere end kvinder.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "claudicatio",
+      "name": "Claudicatio intermittens (perifer arteriesygdom)",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Stiger kraftigt med alderen; op mod 5 % af 70-årige mænd har symptomer.",
+      "prevalenceShort": "Stiger kraftigt med alderen; op mod 5 % af 70-årige mænd har symptomer",
+      "category": "sjælden"
+    },
+    {
+      "id": "dvt",
+      "name": "Dyb venøs trombose (DVT)",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 6.000 tilfælde/år i Danmark.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "hjertesvigt",
+      "name": "Hjertesvigt",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 60.000-70.000 danskere. Prævalensen stiger med alderen. 1-2% af vestlige befolkninger.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "hypertension",
+      "name": "Hypertension (forhøjet blodtryk)",
+      "chapter": "Hjerte-kar-sygdomme",
+      "prevalenceFull": "Ca. 30% af voksne danskere. Stiger med alderen. Hyppigste kardiovaskulære risikofaktor globalt.",
+      "prevalenceShort": "Ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "akut_gastroenteritis",
+      "name": "Akut gastroenteritis (mave-tarm-infektion)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Rammer alle mennesker utallige gange i løbet af et liv (fx 'roskildesyge').",
+      "prevalenceShort": "Rammer alle mennesker utallige gange i løbet af et liv (fx 'roskildesyge')",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "tonsillitis_acuta",
+      "name": "Bakteriel tonsillitis acuta (akut halsbetændelse)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Meget hyppig, occurs in all ages, but is most common in school-aged children and young adults.",
+      "prevalenceShort": "Meget hyppig, occurs in all ages, but is most common in school-aged children and young adu…",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "erysipelas",
+      "name": "Erysipelas (rosen)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ret hyppig (ca. 10.000 behandles årligt i DK). Stiger markant med alderen.",
+      "prevalenceShort": "Ret hyppig (ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "gonorre",
+      "name": "Gonorré",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Mindre hyppig end klamydia, men incidensen er voldsomt stigende (over 3000 om året, særligt hos unge mænd).",
+      "prevalenceShort": "Mindre hyppig end klamydia, men incidensen er voldsomt stigende (over 3000 om året, særlig…",
+      "category": "hyppig"
+    },
+    {
+      "id": "hiv",
+      "name": "HIV-infektion",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ca. 6.500 danskere lever med HIV (2023). Incidens ca. 200-250 nye tilfælde/år i Danmark. Globalt: 39 millioner lever med HIV.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "impetigo",
+      "name": "Impetigo (børnesår)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Meget hyppig i alderen 2-5 år, occurs oftest i små epidemier i institutioner.",
+      "prevalenceShort": "Meget hyppig i alderen 2-5 år, occurs oftest i små epidemier i institutioner",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "influenza",
+      "name": "Influenza",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Epidemier hvert år (vinter). Ca. 500.000-1 million smittede/år i Danmark. Pandemi-potentiale (1918 Spansk syge, 2009 H1N1).",
+      "prevalenceShort": "Epidemier hvert år (vinter)",
+      "category": "sjælden"
+    },
+    {
+      "id": "kondylomer",
+      "name": "Kondylomer (kønsvorter)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Meget almindelig seksuelt overført infektion. Antages at ramme >10% af befolkningen mindst én gang. HPV-vaccinen (Gardasil-9) beskytter dog i dag de unge årgange.",
+      "prevalenceShort": "Meget almindelig seksuelt overført infektion",
+      "category": "sjælden"
+    },
+    {
+      "id": "meningitis",
+      "name": "Meningitis (hjernehindebetændelse)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Bakteriel meningitis: ca. 200-300 tilfælde/år i Danmark. Viral meningitis: hyppigere, oftest mildere forløb.",
+      "prevalenceShort": "Bakteriel meningitis: ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "otitis_media_acuta",
+      "name": "Otitis media acuta (mellemørebetændelse)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ekstremt hyppig, især hos børn i alderen 0-3 år. De fleste børn oplever mindst ét tilfælde før de fylder 3 år.",
+      "prevalenceShort": "Ekstremt hyppig, især hos børn i alderen 0-3 år",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "pneumoni",
+      "name": "Pneumoni (lungebetændelse)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ca. 40.000 hospitalskrævende tilfælde/år i Danmark. Hyppigst hos ældre og immunsupprimerede. S. pneumoniae er hyppigste årsag.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "sepsis",
+      "name": "Sepsis (blodforgiftning)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ca. 15.000-20.000 tilfælde/år i Danmark. Mortalitet 20-30%. Hyppigste årsag til intensiv-mortalitet.",
+      "prevalenceShort": "Ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "urinvejsinfektioner",
+      "name": "Urinvejsinfektioner (blærebetændelse/cystitis)",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ekstremt hyppig. Næsten alle kvinder oplever det i løbet af livet. Mænd rammes sjældent før pensionsalderen (prostataforstørrelse).",
+      "prevalenceShort": "Ekstremt hyppig",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "klamydia",
+      "name": "Urogenital klamydia",
+      "chapter": "Infektionssygdomme",
+      "prevalenceFull": "Ca. 30.000 registrerede tilfælde årligt. Ekstremt hyppig blandt unge i alderen 15-25 år.",
+      "prevalenceShort": "Ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "brystkraeft",
+      "name": "Brystkræft (cancer mamma)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Ca. 5.000 nye tilfælde/år i Danmark. Hyppigste kræftform hos kvinder. Lifetime risiko ca. 12%. Mænd <1%.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "kraeft_behandling",
+      "name": "Kræft – Behandling",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Mange tusinde danskere er dagligt i kræftbehandling på specialafdelinger på landsplan.",
+      "prevalenceShort": "Mange tusinde danskere er dagligt i kræftbehandling på specialafdelinger på landsplan",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_byrde",
+      "name": "Kræft – Byrde for patient og samfund",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Næsten halvdelen af de store sundhedsressourcer bruges indirekte eller direkte relateret til kræftsygdom og senfølger.",
+      "prevalenceShort": "Næsten halvdelen af de store sundhedsressourcer bruges indirekte eller direkte relateret t…",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_forebyggelse",
+      "name": "Kræft – Forebyggelse",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Man anslår at 40% af alle kræfttilfælde globalt kan undgås (forebygges) ved livsstilsændringer.",
+      "prevalenceShort": "Man anslår at 40% af alle kræfttilfælde globalt kan undgås (forebygges) ved livsstilsændri…",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_palliation",
+      "name": "Kræft – Palliation (lindring)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Stort set alle patienter, der dør af kræft, modtager palliativ indsats i større eller mindre grad fra sundhedsvæsnet.",
+      "prevalenceShort": "Stort set alle patienter, der dør af kræft, modtager palliativ indsats i større eller mind…",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_senfoelger",
+      "name": "Kræft – Senfølger og rehabilitering",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Stærkt stigende fænomen, da rekordmange danskere (over 350.000) nu overlever deres kræftsygdom. Over halvdelen af disse melder om kroniske senfølger.",
+      "prevalenceShort": "Stærkt stigende fænomen, da rekordmange danskere (over 350",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_tumorbiologi",
+      "name": "Kræft – Tumorbiologi (patogenese)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Generelt princip for alle kræftsygdomme. Ligger til grund for hvorfor hver 3. dansker rammes af kræft.",
+      "prevalenceShort": "Generelt princip for alle kræftsygdomme",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_udredning",
+      "name": "Kræft – Udredning (diagnostik)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Flere hundrede tusinde danskere gennemgår en udredning i Kræftpakker (når der rejses begrundet mistanke om kræft) hvert år.",
+      "prevalenceShort": "Flere hundrede tusinde danskere gennemgår en udredning i Kræftpakker (når der rejses begru…",
+      "category": "sjælden"
+    },
+    {
+      "id": "kraeft_generelt",
+      "name": "Kræft – generel onkologi",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Ca. 45.000 nye kræfttilfælde/år i Danmark. Næststørste dødsårsag (efter hjertekarsygdom). Livstidsrisiko: ca. 40% af danskere får kræft.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "lungekraeft",
+      "name": "Lungekræft (cancer pulmonis)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Ca. 5.000 nye tilfælde/år i Danmark. Hyppigste kræftdødsårsag hos begge køn. Rygning årsag i 85-90%.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "prostatakraeft",
+      "name": "Prostatakræft (cancer prostatae)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Ca. 5.000 nye tilfælde/år i Danmark. Hyppigste kræftform hos mænd. Lifetime risiko ca. 15%. Autopriopsi-studier: >80% over 80 år har mikroskopisk prostatakræft.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "tyktarmskraeft",
+      "name": "Tyk- og endetarmskræft (kolorektal karcinom)",
+      "chapter": "Kræftsygdomme",
+      "prevalenceFull": "Ca. 5.000 nye tilfælde/år i Danmark. 3. hyppigste kræftform. Hyppigst over 60 år.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "astma",
+      "name": "Astma",
+      "chapter": "Lungesygdomme",
+      "prevalenceFull": "Ca. 300.000 danskere (5-8% af befolkningen). Hyppigste kroniske sygdom hos børn. Let overhyppighed hos drenge (børn) → kvinder (voksne).",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "idf",
+      "name": "Idiopatisk pulmonal fibrose (IPF)",
+      "chapter": "Lungesygdomme",
+      "prevalenceFull": "Sjælden sygdom: prævalens ca. 10/100.000. Hyppigst hos ældre mænd (>60 år). Rygerhistorie er risikofaktor.",
+      "prevalenceShort": "Sjælden sygdom: prævalens ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "kol",
+      "name": "KOL (kronisk obstruktiv lungesygdom)",
+      "chapter": "Lungesygdomme",
+      "prevalenceFull": "Ca. 320.000 danskere (mange udiagnosticerede). Ca. 3. hyppigste dødsårsag globalt. Hyppigst over 40 år med rygerhistorie.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "appendicitis",
+      "name": "Akut appendicitis (blindtarmsbetændelse)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Livstidsrisiko er ca. 7-8%. Forekommer i alle aldre, men er absolut hyppigst hos unge i alderen 10-30 år.",
+      "prevalenceShort": "Livstidsrisiko er ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "pancreatitis",
+      "name": "Akut og kronisk pancreatitis (bugspytkirtelbetændelse)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Akut form er hyppig (ca. 2-3000 indlæggelser årligt i DK). Kronisk form er mere sjælden.",
+      "prevalenceShort": "Akut form er hyppig (ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "alkoholisk_leversygdom",
+      "name": "Alkoholisk leversygdom",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Hyppig. Betydelig andel af voksne danskere drikker over sundhedsstyrelsens genstandsgrænser. Leversygdom udvikles hos ca. 15-20% af dem med årelangt overforbrug.",
+      "prevalenceShort": "Hyppig",
+      "category": "hyppig"
+    },
+    {
+      "id": "cirrose",
+      "name": "Cirrose (skrumpelever)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Ca. 10.000 danskere med cirrose. Alkohol er hyppigste årsag (50-60%) i Danmark.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "diarre",
+      "name": "Diarré",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Meget hyppigt symptom. Næsten alle oplever akut diarré. Kronisk diarré ses hos ca. 5% af befolkningen.",
+      "prevalenceShort": "Meget hyppigt symptom",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "galdestenssygdomme",
+      "name": "Galdestenssygdomme",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Meget hyppigt. Forekommer hos ca. 20% af kvinder og 10% af mænd over 40 år. 'The 4 Fs': Female, Forty, Fat, Fertile.",
+      "prevalenceShort": "Meget hyppigt",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "ibd",
+      "name": "Inflammatoriske tarmsygdomme (IBD)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Ca. 50.000 danskere. Incidens stigende. Danmark har en af verdens højeste incidenser. Debut typisk 15-35 år.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "malabsorption",
+      "name": "Malabsorptionssygdomme",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Cøliaki rammer op mod 1% af befolkningen, mange uden at vide det. Laktoseintolerans er meget hyppig (omkring 5% i DK, højere i andre kulturer).",
+      "prevalenceShort": "Cøliaki rammer op mod 1% af befolkningen, mange uden at vide det",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "refluks",
+      "name": "Refluksøsofagitis (GERD/sure opstød)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Meget udbredt; ca. 10 % af befolkningen har dyspepsi, og ~600.000 danskere får årligt syrehæmmende medicin.",
+      "prevalenceShort": "Meget udbredt; ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "ulcus",
+      "name": "Ulcus (mavesår og tolvfingertarmssår)",
+      "chapter": "Mave-Tarm-sygdomme",
+      "prevalenceFull": "Duodenalulcus hyppigst (3:1 vs ventrikelulcus). Ca. 20.000 nye tilfælde/år i Danmark. Hyppigst hos middelaldrende og ældre.",
+      "prevalenceShort": "Duodenalulcus hyppigst (3:1 vs ventrikelulcus)",
+      "category": "hyppig"
+    },
+    {
+      "id": "apopleksi",
+      "name": "Apopleksi (slagtilfælde)",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 12.000 tilfælde/år i Danmark. Incidens stiger markant med alder. Hyppigst hos ældre, let overhyppighed hos mænd.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "demens_alzheimers",
+      "name": "Demens (Alzheimers sygdom)",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 90.000 danskere med demens. Prævalensen fordobles for hvert 5. leveår efter 65 år. Over 85 år rammes ca. 30%. Let overhyppighed hos kvinder.",
+      "prevalenceShort": "Ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "epiduralt_haematom",
+      "name": "Epiduralt hæmatom",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 10.000 indlægges årligt i DK med hovedtraume; epiduralt hæmatom ses hos 1-2 % af disse. Der opereres ca. 75 om året i Danmark.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "epilepsi",
+      "name": "Epilepsi",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 60.000 danskere med epilepsi. Incidens ca. 50/100.000/år. Bimodal fordeling: hyppigst hos børn og ældre.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "multipel_sklerose",
+      "name": "Multipel sklerose (MS)",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "19.000 danskere (OBS: korrekt tal ifølge MS-foreningen – bogen angiver fejlagtigt lavere tal). Ny incidens ca. 700/år. Kvinder:mænd ca. 2:1. Oftest debut 20-40 år.",
+      "prevalenceShort": "19",
+      "category": "sjælden"
+    },
+    {
+      "id": "parkinsons",
+      "name": "Parkinsons sygdom",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 8.000-10.000 danskere. Incidens ca. 20/100.000/år. Hyppigst over 60 år. Mænd lidt hyppigere end kvinder.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "subaraknoidalbloedning",
+      "name": "Subaraknoidalblødning (SAH)",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Ca. 80 % skyldes et bristet aneurisme. Rammer ofte relativt unge, erhvervsaktive voksne.",
+      "prevalenceShort": "Ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "subduralt_haematom",
+      "name": "Subduralt hæmatom",
+      "chapter": "Neurologiske sygdomme",
+      "prevalenceFull": "Akut subduralt hæmatom ses hos ca. 20 % af svære hovedtraumer (~200/år i DK). Kronisk subduralt hæmatom har en incidens på ca. 300/år og er hyppigst hos ældre.",
+      "prevalenceShort": "Akut subduralt hæmatom ses hos ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "akut_nyresvigt",
+      "name": "Akut nyresvigt (akut nyreskade)",
+      "chapter": "Nyre- og urinvejssygdomme",
+      "prevalenceFull": "Ses som sekundær tilstand hos ca. 5 % af alle indlagte og 15-30 % af kritisk syge på intensiv.",
+      "prevalenceShort": "Ses som sekundær tilstand hos ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "nyresvigt",
+      "name": "Kronisk nyresvigt (CKD)",
+      "chapter": "Nyre- og urinvejssygdomme",
+      "prevalenceFull": "Ca. 10% af befolkningen har CKD (alle stadier). Ca. 3.000-4.000 i dialysebehandling i Danmark. Stiger med alderen.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "prostatahypertrofi",
+      "name": "Prostatahypertrofi (godartet forstørret blærehalskirtel)",
+      "chapter": "Nyre- og urinvejssygdomme",
+      "prevalenceFull": "Ses hos >75 % af alle 70-årige mænd; prostata vokser ca. 2-2,5 % årligt. 10-25 % får operationskrævende forstørrelse inden 80-årsalderen. Ca. 3.000 mænd opereres årligt i Danmark.",
+      "prevalenceShort": "Ses hos >75 % af alle 70-årige mænd; prostata vokser ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "urininkontinens",
+      "name": "Urininkontinens",
+      "chapter": "Nyre- og urinvejssygdomme",
+      "prevalenceFull": "Ca. hver 10. dansker; ~75 % er kvinder. Stærkt underrapporteret, da få søger hjælp (tabubelagt). Hyppigheden stiger med alderen.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Ca. 3-5% af skolebørn. Diagnosticeres i stigende grad hos voksne. Drenge/mænd ca. 2-3x hyppigere end piger/kvinder.",
+      "prevalenceShort": "Ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "angst",
+      "name": "Angstlidelser",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Hyppigste psykiske lidelse. Livstidsprævalens ca. 25%. Kvinder ca. 2x hyppigere. Alle aldersgrupper.",
+      "prevalenceShort": "Hyppigste psykiske lidelse",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "bipolar",
+      "name": "Bipolar lidelse",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Ca. 1-2% af befolkningen. Kønsratio 1:1. Debut typisk 20-30-årsalderen.",
+      "prevalenceShort": "Ca",
+      "category": "middel"
+    },
+    {
+      "id": "depression",
+      "name": "Depression (unipolar)",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Livstidsprævalens ca. 20%. En af de hyppigste psykiske sygdomme. Kvinder ca. 2x hyppigere end mænd. Alle aldersgrupper.",
+      "prevalenceShort": "Livstidsprævalens ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "misbrug_afhaengighed",
+      "name": "Misbrug og afhængighed (alkohol)",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Blandt danskere over 16 år drikker ca. 860.000 over det anbefalede ugentlige indtag, ca. 585.000 har et skadeligt brug og ca. 140.000 et afhængighedssyndrom. Ca. 122.000 børn vokser op i en familie med alkoholproblemer.",
+      "prevalenceShort": "Blandt danskere over 16 år drikker ca",
+      "category": "middel"
+    },
+    {
+      "id": "ocd",
+      "name": "OCD (tvangslidelse)",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Prævalens ca. 2-3 % (ca. 75.000 danskere). Lige hyppig hos mænd og kvinder; debut typisk omkring 20-årsalderen.",
+      "prevalenceShort": "Prævalens ca",
+      "category": "hyppig"
+    },
+    {
+      "id": "ptsd",
+      "name": "PTSD (posttraumatisk belastningsreaktion)",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Livstidsrisiko 1-9 % (ca. 50.000 danskere). Kønsratio M:K ca. 1:2 — mænd oftest pga. krig/vold, kvinder oftest pga. voldtægt/vold i hjemmet.",
+      "prevalenceShort": "Livstidsrisiko 1-9 % (ca",
+      "category": "sjælden"
+    },
+    {
+      "id": "personlighedsforstyrrelser",
+      "name": "Personlighedsforstyrrelser",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Meget hyppig — prævalens ca. 10 % i befolkningen; udgør ca. 50 % af ambulante psykiatriske patienter.",
+      "prevalenceShort": "Meget hyppig — prævalens ca",
+      "category": "meget_hyppig"
+    },
+    {
+      "id": "skizofreni",
+      "name": "Skizofreni",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "Livstidsprævalens ca. 1%. Kønsratio 1:1, men mænd debuterer tidligere (20-25 år vs. kvinder 25-30 år).",
+      "prevalenceShort": "Livstidsprævalens ca",
+      "category": "middel"
+    },
+    {
+      "id": "spiseforstyrrelser",
+      "name": "Spiseforstyrrelser (AN/BN)",
+      "chapter": "Psykiske sygdomme",
+      "prevalenceFull": "AN: ca. 0,5-1% (kvinder), debut typisk 13-18 år. BN: ca. 1-3% (kvinder). Stærk overhyppighed hos kvinder (10:1).",
+      "prevalenceShort": "AN: ca",
+      "category": "hyppig"
+    }
+  ]
+}

@@ -1,0 +1,1131 @@
+{
+  "connections": [
+    {
+      "id": "ra__bechterew",
+      "diseaseA": "ra",
+      "diseaseB": "bechterew",
+      "type": "forveksles",
+      "bridge": "Begge er kroniske inflammatoriske gigtsygdomme — RA er perifer (hænder/fødder) og seropositiv (RF+), Bechterew er aksial (rygsøjle) og HLA-B27-associeret"
+    },
+    {
+      "id": "ra__reaktiv_artrit",
+      "diseaseA": "ra",
+      "diseaseB": "reaktiv_artrit",
+      "type": "forveksles",
+      "bridge": "Begge giver ledinflamation, men reaktiv artrit er selvlimiterende (uger–måneder) og udløst af forudgående infektion (klamydia, salmonella)"
+    },
+    {
+      "id": "ra__ibd",
+      "diseaseA": "ra",
+      "diseaseB": "ibd",
+      "type": "behandling",
+      "bridge": "Begge behandles med TNF-alfa-hæmmere (biologisk medicin) ved moderat–svær sygdom"
+    },
+    {
+      "id": "ra__multipel_sklerose",
+      "diseaseA": "ra",
+      "diseaseB": "multipel_sklerose",
+      "type": "mekanisme",
+      "bridge": "Begge er autoimmune sygdomme hvor immunsystemet angriber kroppens eget væv med autoantistoffer"
+    },
+    {
+      "id": "ra__diabetes_type1",
+      "diseaseA": "ra",
+      "diseaseB": "diabetes_type1",
+      "type": "mekanisme",
+      "bridge": "Begge er autoimmune — immunsystemet ødelægger henholdsvis ledbrusk/synovia og pankreatiske betaceller"
+    },
+    {
+      "id": "bechterew__reaktiv_artrit",
+      "diseaseA": "bechterew",
+      "diseaseB": "reaktiv_artrit",
+      "type": "mekanisme",
+      "bridge": "Begge er HLA-B27-associerede SpA (spondyloartropati-spektret) — HLA-B27 er positiv hos ~95% (Bechterew) og ~50–80% (reaktiv artrit)"
+    },
+    {
+      "id": "artritis_urica__metabolisk_syndrom",
+      "diseaseA": "artritis_urica",
+      "diseaseB": "metabolisk_syndrom",
+      "type": "risikofaktor",
+      "bridge": "Metabolisk syndrom (insulinresistens, fedme) nedsætter urinsyreudskillelsen → hyperurikæmi → urinsyregigt"
+    },
+    {
+      "id": "artritis_urica__nyresvigt",
+      "diseaseA": "artritis_urica",
+      "diseaseB": "nyresvigt",
+      "type": "komplikation",
+      "bridge": "Nyrerne udskiller urinsyre — kronisk nyresvigt giver hyperurikæmi og øger risikoen for gigt-anfald"
+    },
+    {
+      "id": "artritis_urica__osteoartrose",
+      "diseaseA": "artritis_urica",
+      "diseaseB": "osteoartrose",
+      "type": "forveksles",
+      "bridge": "Begge giver smerter og hævelse i led, men artritis urica er akut, monoartikulær og viser urinsyrekrystaller i ledvæske"
+    },
+    {
+      "id": "osteoartrose__adipositas",
+      "diseaseA": "osteoartrose",
+      "diseaseB": "adipositas",
+      "type": "risikofaktor",
+      "bridge": "Overvægt er den vigtigste modificerbare risikofaktor for knæ- og hofteartrose pga. mekanisk overbelastning"
+    },
+    {
+      "id": "osteoartrose__diskusprolaps",
+      "diseaseA": "osteoartrose",
+      "diseaseB": "diskusprolaps",
+      "type": "mekanisme",
+      "bridge": "Begge er degenerative lidelser i bevægeapparatet med progredierende bruskdegeneration — osteoartrose i perifere led, diskusprolaps i intervertebrale disci"
+    },
+    {
+      "id": "osteoporose__frakturer",
+      "diseaseA": "osteoporose",
+      "diseaseB": "frakturer",
+      "type": "komplikation",
+      "bridge": "Osteoporose er den vigtigste årsag til lavenergi-frakturer (hoftebrud, håndledsbrud, kompressionsfrakturer) hos ældre"
+    },
+    {
+      "id": "osteoporose__proksimal_femurfraktur",
+      "diseaseA": "osteoporose",
+      "diseaseB": "proksimal_femurfraktur",
+      "type": "komplikation",
+      "bridge": "Proksimal femurfraktur (hoftebrud) er den alvorligste osteoporotiske fraktur — 1-årsmortalitet er ~20%"
+    },
+    {
+      "id": "osteoporose__distal_radiusfraktur",
+      "diseaseA": "osteoporose",
+      "diseaseB": "distal_radiusfraktur",
+      "type": "komplikation",
+      "bridge": "Distal radiusfraktur (Colles fraktur) er ofte første tegn på osteoporose hos kvinder i 50'erne"
+    },
+    {
+      "id": "osteoporose__humerusfraktur",
+      "diseaseA": "osteoporose",
+      "diseaseB": "humerusfraktur",
+      "type": "komplikation",
+      "bridge": "Proksimal humerusfraktur er klassisk osteoporotisk fraktur hos ældre kvinder efter fald på udstrakt arm"
+    },
+    {
+      "id": "osteoporose__malabsorption",
+      "diseaseA": "osteoporose",
+      "diseaseB": "malabsorption",
+      "type": "komplikation",
+      "bridge": "Cøliaki og malabsorption giver calcium- og D-vitaminmangel → knogleresorption → osteoporose"
+    },
+    {
+      "id": "osteoporose__brystkraeft",
+      "diseaseA": "osteoporose",
+      "diseaseB": "brystkraeft",
+      "type": "komplikation",
+      "bridge": "Aromatasehæmmere (brystkræftbehandling) sænker østrogen → accelereret knogletab → iatrogen osteoporose"
+    },
+    {
+      "id": "proksimal_femurfraktur__distal_radiusfraktur",
+      "diseaseA": "proksimal_femurfraktur",
+      "diseaseB": "distal_radiusfraktur",
+      "type": "mekanisme",
+      "bridge": "Begge er de hyppigste osteoporotiske frakturer — håndledsbrud typisk i 50'erne, hoftebrud typisk i 70–80'erne"
+    },
+    {
+      "id": "proksimal_femurfraktur__humerusfraktur",
+      "diseaseA": "proksimal_femurfraktur",
+      "diseaseB": "humerusfraktur",
+      "type": "mekanisme",
+      "bridge": "Begge er hyppige lavenergi-frakturer hos ældre med osteoporose efter fald"
+    },
+    {
+      "id": "skulderluksation__humerusfraktur",
+      "diseaseA": "skulderluksation",
+      "diseaseB": "humerusfraktur",
+      "type": "forveksles",
+      "bridge": "Begge giver akut skuldersmerte efter traume — røntgen er nødvendig for at skelne luksation fra fraktur"
+    },
+    {
+      "id": "apopleksi__aterosklerose",
+      "diseaseA": "apopleksi",
+      "diseaseB": "aterosklerose",
+      "type": "mekanisme",
+      "bridge": "Iskæmisk apopleksi (80%) skyldes aterosklerose i carotis/cerebrale arterier eller kardioembolisme — aterosklerose er den vigtigste underliggende årsag"
+    },
+    {
+      "id": "apopleksi__hypertension",
+      "diseaseA": "apopleksi",
+      "diseaseB": "hypertension",
+      "type": "risikofaktor",
+      "bridge": "Hypertension er den vigtigste risikofaktor for apopleksi — øger risikoen 2-4×, gælder både iskæmisk og hæmoragisk type"
+    },
+    {
+      "id": "apopleksi__atrieflimren",
+      "diseaseA": "apopleksi",
+      "diseaseB": "atrieflimren",
+      "type": "komplikation",
+      "bridge": "Atrieflimren er den hyppigste årsag til kardioembolisk apopleksi — øger risikoen 5× og giver typisk store infarkter"
+    },
+    {
+      "id": "apopleksi__hjerteinfarkt",
+      "diseaseA": "apopleksi",
+      "diseaseB": "hjerteinfarkt",
+      "type": "risikofaktor",
+      "bridge": "Samme risikofaktorer (aterosklerose, hypertension, rygning, diabetes) og deler akutbehandlingsprincippet: trombolyse/revaskularisering"
+    },
+    {
+      "id": "apopleksi__dvt",
+      "diseaseA": "apopleksi",
+      "diseaseB": "dvt",
+      "type": "mekanisme",
+      "bridge": "Begge er tromboemboli-sygdomme der forebygges med antikoagulation (apopleksi ved AFli, DVT direkte)"
+    },
+    {
+      "id": "apopleksi__epilepsi",
+      "diseaseA": "apopleksi",
+      "diseaseB": "epilepsi",
+      "type": "komplikation",
+      "bridge": "Apopleksi er den hyppigste årsag til nyopstået epilepsi hos ældre — post-apoplektisk epilepsi ses hos ca. 10%"
+    },
+    {
+      "id": "parkinsons__demens_alzheimers",
+      "diseaseA": "parkinsons",
+      "diseaseB": "demens_alzheimers",
+      "type": "mekanisme",
+      "bridge": "Begge er neurodegenerative sygdomme med protein-aflejringer — Parkinson: α-synuklein (Lewy bodies), Alzheimers: amyloid-β og tau"
+    },
+    {
+      "id": "parkinsons__depression",
+      "diseaseA": "parkinsons",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "Depression ses hos 40-50% af Parkinson-patienter — dels reaktivt, dels pga. dopaminmangel i det mesolimbiske system"
+    },
+    {
+      "id": "multipel_sklerose__depression",
+      "diseaseA": "multipel_sklerose",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "Depression ses hos 50% af MS-patienter — hyppigst af alle MS-symptomer, dels reaktivt, dels pga. demyelinisering i frontallapper"
+    },
+    {
+      "id": "epilepsi__meningitis",
+      "diseaseA": "epilepsi",
+      "diseaseB": "meningitis",
+      "type": "komplikation",
+      "bridge": "Meningitis/encephalitis kan give symptomatisk epilepsi under den akutte fase og øger risikoen for kronisk epilepsi efterfølgende"
+    },
+    {
+      "id": "subaraknoidalbloedning__hypertension",
+      "diseaseA": "subaraknoidalbloedning",
+      "diseaseB": "hypertension",
+      "type": "risikofaktor",
+      "bridge": "Hypertension er den vigtigste risikofaktor for aneurismebristning — risiko for SAH øges 2-4× ved hypertension"
+    },
+    {
+      "id": "subaraknoidalbloedning__epiduralt_haematom",
+      "diseaseA": "subaraknoidalbloedning",
+      "diseaseB": "epiduralt_haematom",
+      "type": "forveksles",
+      "bridge": "Begge giver 'den værste hovedpine i mit liv' og kræver akut CT-scanning — men SAH er spontan (aneurisme), EDH er traumatisk"
+    },
+    {
+      "id": "epiduralt_haematom__subduralt_haematom",
+      "diseaseA": "epiduralt_haematom",
+      "diseaseB": "subduralt_haematom",
+      "type": "forveksles",
+      "bridge": "Begge er traumatiske intrakranielle blødninger — EDH (arteriel, lucid interval) vs SDH (venøs, ældre/alkohol, kronisk forløb)"
+    },
+    {
+      "id": "demens_alzheimers__depression",
+      "diseaseA": "demens_alzheimers",
+      "diseaseB": "depression",
+      "type": "forveksles",
+      "bridge": "Depression hos ældre kan give pseudodemens (kognitiv svækkelse) — vigtig differentialdiagnose da depression er behandlingsbar"
+    },
+    {
+      "id": "depression__angst",
+      "diseaseA": "depression",
+      "diseaseB": "angst",
+      "type": "behandling",
+      "bridge": "Begge behandles primært med SSRI og kognitiv adfærdsterapi (KAT) — komorbiditet er ekstremt hyppig (50-60%)"
+    },
+    {
+      "id": "depression__bipolar",
+      "diseaseA": "depression",
+      "diseaseB": "bipolar",
+      "type": "forveksles",
+      "bridge": "Bipolar depression og unipolar depression ser ens ud — afgørende at spørge om tidligere maniske episoder, da SSRI kan udløse mani"
+    },
+    {
+      "id": "depression__misbrug_afhaengighed",
+      "diseaseA": "depression",
+      "diseaseB": "misbrug_afhaengighed",
+      "type": "komplikation",
+      "bridge": "Depression og alkoholmisbrug forstærker hinanden — alkohol bruges som selvmedicin, men forværrer depressionen på sigt"
+    },
+    {
+      "id": "skizofreni__bipolar",
+      "diseaseA": "skizofreni",
+      "diseaseB": "bipolar",
+      "type": "forveksles",
+      "bridge": "Begge kan give psykose med vrangforestillinger — bipolar psykose er stemningssymptom-domineret og episodisk, skizofreni er vedvarende"
+    },
+    {
+      "id": "angst__ocd",
+      "diseaseA": "angst",
+      "diseaseB": "ocd",
+      "type": "behandling",
+      "bridge": "Begge behandles med SSRI (høje doser ved OCD) og eksponerings-baseret KAT — OCD er klassificeret i angstspektret"
+    },
+    {
+      "id": "angst__ptsd",
+      "diseaseA": "angst",
+      "diseaseB": "ptsd",
+      "type": "mekanisme",
+      "bridge": "Begge involverer hyperaktivitet i amygdala og HPA-akse dysregulation — PTSD behandles med traumefokuseret KAT + SSRI"
+    },
+    {
+      "id": "ptsd__depression",
+      "diseaseA": "ptsd",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "PTSD og depression har høj komorbiditet (50-80%) — begge behandles med SSRI og KAT"
+    },
+    {
+      "id": "adhd__angst",
+      "diseaseA": "adhd",
+      "diseaseB": "angst",
+      "type": "komplikation",
+      "bridge": "Angst er den hyppigste komorbiditet ved ADHD — ses hos 50% og kan skyldes gentagne sociale fiaskoer og frustration"
+    },
+    {
+      "id": "adhd__depression",
+      "diseaseA": "adhd",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "Depression ses hos 30-50% med ADHD — sekundær til kroniske mestringssvigt og manglende selvtillid"
+    },
+    {
+      "id": "spiseforstyrrelser__depression",
+      "diseaseA": "spiseforstyrrelser",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "Depression er hyppigste komorbiditet ved AN/BN (60-70%) — underernæring forværrer selv depressionen"
+    },
+    {
+      "id": "personlighedsforstyrrelser__misbrug_afhaengighed",
+      "diseaseA": "personlighedsforstyrrelser",
+      "diseaseB": "misbrug_afhaengighed",
+      "type": "komplikation",
+      "bridge": "Emotionel instabilitet og impulsivitet (særligt borderline) øger risikoen for misbrug som følelsesregulering"
+    },
+    {
+      "id": "misbrug_afhaengighed__cirrose",
+      "diseaseA": "misbrug_afhaengighed",
+      "diseaseB": "cirrose",
+      "type": "progression",
+      "bridge": "Langvarigt alkoholforbrug → alkoholisk hepatitis → cirrose. Alkohol er årsag til 50-60% af cirrose i Danmark"
+    },
+    {
+      "id": "misbrug_afhaengighed__alkoholisk_leversygdom",
+      "diseaseA": "misbrug_afhaengighed",
+      "diseaseB": "alkoholisk_leversygdom",
+      "type": "progression",
+      "bridge": "Alkoholisk leversygdom er direkte konsekvens af kronisk alkoholforbrug — et kontinuum fra fedtlever til cirrose"
+    },
+    {
+      "id": "diabetes_type1__diabetes_type2",
+      "diseaseA": "diabetes_type1",
+      "diseaseB": "diabetes_type2",
+      "type": "forveksles",
+      "bridge": "Begge giver hyperglykæmi, men T1DM er autoimmun (absolut insulinmangel, ung), T2DM er insulinresistens (relativ mangel, ældre/overvægtig)"
+    },
+    {
+      "id": "diabetes_type2__adipositas",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "adipositas",
+      "type": "risikofaktor",
+      "bridge": "Abdominal fedme → insulinresistens → T2DM. Vægttab på 5-10% kan normalisere blodsukker i tidlig T2DM"
+    },
+    {
+      "id": "diabetes_type2__metabolisk_syndrom",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "metabolisk_syndrom",
+      "type": "mekanisme",
+      "bridge": "T2DM er en del af det metaboliske syndrom (dyslipidæmi + hypertension + abdominal fedme + insulinresistens/T2DM)"
+    },
+    {
+      "id": "diabetes_type2__hypertension",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "hypertension",
+      "type": "risikofaktor",
+      "bridge": "Insulinresistens giver natrium-retention og øget sympatikustonus → hypertension. Begge øger kardiovaskulær risiko markant"
+    },
+    {
+      "id": "diabetes_type2__aterosklerose",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "aterosklerose",
+      "type": "komplikation",
+      "bridge": "Diabetes accelererer aterosklerose 2-4× — glykation af LDL, oxidativt stress og inflammation i karvæggen"
+    },
+    {
+      "id": "diabetes_type2__nyresvigt",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "nyresvigt",
+      "type": "komplikation",
+      "bridge": "Diabetisk nefropati er den hyppigste årsag til terminal nyresvigt i Danmark — skyldes glomerulosklerose"
+    },
+    {
+      "id": "diabetes_type2__pcos",
+      "diseaseA": "diabetes_type2",
+      "diseaseB": "pcos",
+      "type": "mekanisme",
+      "bridge": "PCOS er stærkt associeret med insulinresistens — samme patofysiologi som T2DM, og metformin bruges ved begge"
+    },
+    {
+      "id": "diabetes_type1__ra",
+      "diseaseA": "diabetes_type1",
+      "diseaseB": "ra",
+      "type": "mekanisme",
+      "bridge": "Begge er autoimmune sygdomme med HLA-association — T1DM har HLA-DR3/DR4, RA har HLA-DR4"
+    },
+    {
+      "id": "adipositas__metabolisk_syndrom",
+      "diseaseA": "adipositas",
+      "diseaseB": "metabolisk_syndrom",
+      "type": "mekanisme",
+      "bridge": "Abdominal adipositas er kernen i metabolisk syndrom — visceralt fedt producerer adipokiner der fremmer insulinresistens og inflammation"
+    },
+    {
+      "id": "adipositas__hypertension",
+      "diseaseA": "adipositas",
+      "diseaseB": "hypertension",
+      "type": "mekanisme",
+      "bridge": "Fedme → øget sympatikusaktivitet, RAAS-aktivering og natriumretention → hypertension. Vægttab sænker BT"
+    },
+    {
+      "id": "adipositas__osteoartrose",
+      "diseaseA": "adipositas",
+      "diseaseB": "osteoartrose",
+      "type": "risikofaktor",
+      "bridge": "Overvægt øger mekanisk belastning på knæ og hofte — 5 kg vægttab reducerer risikoen for knæartrose med ~50%"
+    },
+    {
+      "id": "metabolisk_syndrom__aterosklerose",
+      "diseaseA": "metabolisk_syndrom",
+      "diseaseB": "aterosklerose",
+      "type": "komplikation",
+      "bridge": "Metabolisk syndrom tredobler risikoen for kardiovaskulær sygdom pga. kombineret hyperglykæmi, dyslipidæmi og hypertension"
+    },
+    {
+      "id": "hypertyreose__hypotyreose",
+      "diseaseA": "hypertyreose",
+      "diseaseB": "hypotyreose",
+      "type": "forveksles",
+      "bridge": "Modsatte sygdomme fra samme organ — hypertyreose: takykardi/vægttab/uro, hypotyreose: bradykardi/vægtstigning/træthed"
+    },
+    {
+      "id": "hypertyreose__atrieflimren",
+      "diseaseA": "hypertyreose",
+      "diseaseB": "atrieflimren",
+      "type": "komplikation",
+      "bridge": "Hypertyreose er en vigtig og behandlingsbar årsag til atrieflimren — altid kontroller TSH ved nyopdaget AF"
+    },
+    {
+      "id": "hypotyreose__depression",
+      "diseaseA": "hypotyreose",
+      "diseaseB": "depression",
+      "type": "forveksles",
+      "bridge": "Hypotyreose giver træthed, depression, koncentrationsbesvær — altid TSH ved depressionssymptomer"
+    },
+    {
+      "id": "osteoporose__hypotyreose",
+      "diseaseA": "osteoporose",
+      "diseaseB": "hypotyreose",
+      "type": "komplikation",
+      "bridge": "Overdoseret levothyroxin-behandling (TSH for lav) accelererer knogleresorption → iatrogen osteoporose"
+    },
+    {
+      "id": "aterosklerose__hjerteinfarkt",
+      "diseaseA": "aterosklerose",
+      "diseaseB": "hjerteinfarkt",
+      "type": "progression",
+      "bridge": "AMI er den akutte konsekvens af aterosklerose — plaqueruptur → trombe → koronarokklusion → myokardienekrose"
+    },
+    {
+      "id": "aterosklerose__angina_pectoris",
+      "diseaseA": "aterosklerose",
+      "diseaseB": "angina_pectoris",
+      "type": "progression",
+      "bridge": "Stabil angina skyldes >70% koronarstenose pga. aterosklerose — iskæmi ved anstrengelse, men ingen nekrose"
+    },
+    {
+      "id": "aterosklerose__claudicatio",
+      "diseaseA": "aterosklerose",
+      "diseaseB": "claudicatio",
+      "type": "mekanisme",
+      "bridge": "Claudicatio er aterosklerose i de perifere arterier (aorta/iliacae/femoral) — samme risikofaktorer, samme forebyggelse"
+    },
+    {
+      "id": "hjerteinfarkt__angina_pectoris",
+      "diseaseA": "hjerteinfarkt",
+      "diseaseB": "angina_pectoris",
+      "type": "progression",
+      "bridge": "Ustabil angina og NSTEMI er et kontinuum — ustabil angina → NSTEMI → STEMI er eskalerende plaqueinstabilitet"
+    },
+    {
+      "id": "hjerteinfarkt__hjertesvigt",
+      "diseaseA": "hjerteinfarkt",
+      "diseaseB": "hjertesvigt",
+      "type": "komplikation",
+      "bridge": "AMI er den hyppigste årsag til hjertesvigt — stort infarkt → myokardietab → reduceret EF → systolisk svigt"
+    },
+    {
+      "id": "hjerteinfarkt__atrieflimren",
+      "diseaseA": "hjerteinfarkt",
+      "diseaseB": "atrieflimren",
+      "type": "komplikation",
+      "bridge": "Atrieflimren opstår hos 15-20% efter AMI pga. atriedilation, inflammation og sympatikusaktivering"
+    },
+    {
+      "id": "hjertesvigt__atrieflimren",
+      "diseaseA": "hjertesvigt",
+      "diseaseB": "atrieflimren",
+      "type": "mekanisme",
+      "bridge": "Hjertesvigt og AF er et ondartet kredsløb — AF forværrer hjertesvigt (takykardiomyopati), hjertesvigt giver AF"
+    },
+    {
+      "id": "hjertesvigt__nyresvigt",
+      "diseaseA": "hjertesvigt",
+      "diseaseB": "nyresvigt",
+      "type": "komplikation",
+      "bridge": "Kardiorenalt syndrom: lavt cardiac output → nedsat nyreperfusion → AKI. ACE-hæmmere beskytter begge organer"
+    },
+    {
+      "id": "hjertesvigt__kol",
+      "diseaseA": "hjertesvigt",
+      "diseaseB": "kol",
+      "type": "forveksles",
+      "bridge": "Begge giver dyspnø og reduceret funktionsevne — vigtig differentialdiagnose: ekkokardiografi + spirometri"
+    },
+    {
+      "id": "hypertension__aterosklerose",
+      "diseaseA": "hypertension",
+      "diseaseB": "aterosklerose",
+      "type": "mekanisme",
+      "bridge": "Hypertension accelererer aterosklerose via shear stress på karvæggen → endotelskade → LDL-infiltration"
+    },
+    {
+      "id": "hypertension__hjertesvigt",
+      "diseaseA": "hypertension",
+      "diseaseB": "hjertesvigt",
+      "type": "komplikation",
+      "bridge": "Langvarig hypertension → venstresidig ventrikulær hypertrofi → diastolisk dysfunktion → hjertesvigt"
+    },
+    {
+      "id": "hypertension__nyresvigt",
+      "diseaseA": "hypertension",
+      "diseaseB": "nyresvigt",
+      "type": "komplikation",
+      "bridge": "Bidirektionel sammenhæng: hypertension → glomerulosklerose → CKD, og CKD → RAAS-aktivering → hypertension"
+    },
+    {
+      "id": "atrieflimren__dvt",
+      "diseaseA": "atrieflimren",
+      "diseaseB": "dvt",
+      "type": "behandling",
+      "bridge": "Begge behandles med antikoagulation (DOAK/warfarin) — AF for at forebygge apopleksi, DVT for at forebygge lungeemboli"
+    },
+    {
+      "id": "dvt__erysipelas",
+      "diseaseA": "dvt",
+      "diseaseB": "erysipelas",
+      "type": "forveksles",
+      "bridge": "Begge giver rød, hævet, øm underekstremitet — DVT er vaskulær (venøs okklusion), erysipelas er infektion (streptokokker)"
+    },
+    {
+      "id": "dvt__praeeklampsi",
+      "diseaseA": "dvt",
+      "diseaseB": "praeeklampsi",
+      "type": "risikofaktor",
+      "bridge": "Graviditet øger DVT-risikoen 4-5× pga. hyperkoagulabilitet, venøs stase og kompression af vena cava"
+    },
+    {
+      "id": "claudicatio__dvt",
+      "diseaseA": "claudicatio",
+      "diseaseB": "dvt",
+      "type": "forveksles",
+      "bridge": "Begge giver bensmerter — claudicatio er arteriøs iskæmi ved gang, DVT er venøs okklusion med ødem/rødme"
+    },
+    {
+      "id": "claudicatio__diabetes_type2",
+      "diseaseA": "claudicatio",
+      "diseaseB": "diabetes_type2",
+      "type": "risikofaktor",
+      "bridge": "Diabetes er den vigtigste risikofaktor for perifer arteriesygdom — giver neuropati og øger amputationsrisikoen"
+    },
+    {
+      "id": "astma__kol",
+      "diseaseA": "astma",
+      "diseaseB": "kol",
+      "type": "forveksles",
+      "bridge": "Begge er obstruktive lungesygdomme med piben og dyspnø — astma er reversibel og allergisk, KOL er irreversibel og ryger-relateret"
+    },
+    {
+      "id": "astma__hoefeber",
+      "diseaseA": "astma",
+      "diseaseB": "hoefeber",
+      "type": "mekanisme",
+      "bridge": "Den 'allergiske march': atopisk eksem (spæd) → høfeber (barn) → astma (ung). Alle er IgE-medierede (type I) allergireaktioner"
+    },
+    {
+      "id": "astma__atopisk_eksem",
+      "diseaseA": "astma",
+      "diseaseB": "atopisk_eksem",
+      "type": "mekanisme",
+      "bridge": "Begge er atopiske sygdomme med Th2-domineret inflammation og forhøjet total-IgE — hyppig komorbiditet"
+    },
+    {
+      "id": "astma__anafylaksi",
+      "diseaseA": "astma",
+      "diseaseB": "anafylaksi",
+      "type": "mekanisme",
+      "bridge": "Begge involverer bronkospasme via IgE/mastcelle-degranulering — astmatikere har øget risiko for fatal anafylaksi"
+    },
+    {
+      "id": "kol__lungekraeft",
+      "diseaseA": "kol",
+      "diseaseB": "lungekraeft",
+      "type": "risikofaktor",
+      "bridge": "Rygning er den dominerende årsag til begge — KOL-patienter har 2-5× øget risiko for lungekræft"
+    },
+    {
+      "id": "kol__hjertesvigt",
+      "diseaseA": "kol",
+      "diseaseB": "hjertesvigt",
+      "type": "forveksles",
+      "bridge": "Begge giver anstrengelsesudløst dyspnø — hyppig komorbiditet, da rygning er risikofaktor for begge"
+    },
+    {
+      "id": "idf__kol",
+      "diseaseA": "idf",
+      "diseaseB": "kol",
+      "type": "forveksles",
+      "bridge": "Begge er progressive kroniske lungesygdomme med dyspnø og nedsat diffusionskapacitet — spirometri differentierer (restriktiv vs. obstruktiv)"
+    },
+    {
+      "id": "hoefeber__atopisk_eksem",
+      "diseaseA": "hoefeber",
+      "diseaseB": "atopisk_eksem",
+      "type": "mekanisme",
+      "bridge": "Begge er atopiske sygdomme — atopisk eksem debuterer typisk som spæd, høfeber som barn. Hyppig komorbiditet"
+    },
+    {
+      "id": "hoefeber__urticaria",
+      "diseaseA": "hoefeber",
+      "diseaseB": "urticaria",
+      "type": "mekanisme",
+      "bridge": "Begge er IgE-medierede allergiske reaktioner med histaminfrigivelse — urticaria er kutan, høfeber er lokal slimhinde-reaktion"
+    },
+    {
+      "id": "anafylaksi__foedevareallergi",
+      "diseaseA": "anafylaksi",
+      "diseaseB": "foedevareallergi",
+      "type": "komplikation",
+      "bridge": "Fødevareallergi (jordnødder, skaldyr) er den hyppigste årsag til anafylaksi — behandles med adrenalins (EpiPen)"
+    },
+    {
+      "id": "anafylaksi__urticaria",
+      "diseaseA": "anafylaksi",
+      "diseaseB": "urticaria",
+      "type": "mekanisme",
+      "bridge": "Urticaria kan være første tegn på anafylaksi — hvis der tilkommer dyspnø, hypotension eller angioødem er det anafylaksi"
+    },
+    {
+      "id": "pneumoni__influenza",
+      "diseaseA": "pneumoni",
+      "diseaseB": "influenza",
+      "type": "komplikation",
+      "bridge": "Influenza er den hyppigste årsag til viral pneumoni og kan kompliceres med bakteriel superinfektion (pneumokokker)"
+    },
+    {
+      "id": "pneumoni__sepsis",
+      "diseaseA": "pneumoni",
+      "diseaseB": "sepsis",
+      "type": "komplikation",
+      "bridge": "Pneumoni er den hyppigste årsag til sepsis — altid vurder sepsiskriterier ved lungebetændelse"
+    },
+    {
+      "id": "pneumoni__kol",
+      "diseaseA": "pneumoni",
+      "diseaseB": "kol",
+      "type": "komplikation",
+      "bridge": "Pneumoni er den hyppigste årsag til KOL-eksacerbation med akut forværring af dyspnø"
+    },
+    {
+      "id": "meningitis__sepsis",
+      "diseaseA": "meningitis",
+      "diseaseB": "sepsis",
+      "type": "komplikation",
+      "bridge": "Meningokoksepsis og meningitis er livstruende tilstande der kan optræde samtidigt — begge kræver akut penicillin"
+    },
+    {
+      "id": "hiv__pneumoni",
+      "diseaseA": "hiv",
+      "diseaseB": "pneumoni",
+      "type": "komplikation",
+      "bridge": "Pneumocystis jirovecii pneumoni (PJP) er AIDS-definerende infektion — ses ved CD4 <200/μL"
+    },
+    {
+      "id": "hiv__lymfom",
+      "diseaseA": "hiv",
+      "diseaseB": "lymfom",
+      "type": "komplikation",
+      "bridge": "HIV øger risikoen for non-Hodgkin lymfom 60-200× pga. kronisk B-celle-stimulation og nedsat immunovervågning"
+    },
+    {
+      "id": "ulcus__refluks",
+      "diseaseA": "ulcus",
+      "diseaseB": "refluks",
+      "type": "mekanisme",
+      "bridge": "Begge er mavesyre-relaterede tilstande i øvre GI — behandles begge med protonpumpehæmmere (PPI)"
+    },
+    {
+      "id": "ibd__tyktarmskraeft",
+      "diseaseA": "ibd",
+      "diseaseB": "tyktarmskraeft",
+      "type": "komplikation",
+      "bridge": "Langvarig colitis ulcerosa (>8-10 år) øger risikoen for kolorektal karcinom 5-10× — koloskopi-overvågning er obligatorisk"
+    },
+    {
+      "id": "ibd__ra",
+      "diseaseA": "ibd",
+      "diseaseB": "ra",
+      "type": "behandling",
+      "bridge": "Begge behandles med TNF-alfa-hæmmere (infliximab, adalimumab) og methotrexat — fælles biologisk behandlingsplatform"
+    },
+    {
+      "id": "cirrose__alkoholisk_leversygdom",
+      "diseaseA": "cirrose",
+      "diseaseB": "alkoholisk_leversygdom",
+      "type": "progression",
+      "bridge": "Alkoholisk leversygdom er et kontinuum: fedtlever → hepatitis → fibrose → cirrose. Abstinens kan bremse alle stadier"
+    },
+    {
+      "id": "malabsorption__anemi_jern",
+      "diseaseA": "malabsorption",
+      "diseaseB": "anemi_jern",
+      "type": "komplikation",
+      "bridge": "Cøliaki giver malabsorption af jern (absorberes i duodenum/jejunum) — jernmangelanæmi som første symptom på cøliaki"
+    },
+    {
+      "id": "malabsorption__megaloblastaer_anaemi",
+      "diseaseA": "malabsorption",
+      "diseaseB": "megaloblastaer_anaemi",
+      "type": "komplikation",
+      "bridge": "Malabsorption (cøliaki, terminal ileum-sygdom) giver B12/folat-mangel → megaloblastær anæmi med høj MCV"
+    },
+    {
+      "id": "galdestenssygdomme__pancreatitis",
+      "diseaseA": "galdestenssygdomme",
+      "diseaseB": "pancreatitis",
+      "type": "komplikation",
+      "bridge": "Gallesten er den hyppigste årsag til akut pancreatitis (40-50%) — sten blokerer ductus choledochus/pancreaticus"
+    },
+    {
+      "id": "pancreatitis__alkoholisk_leversygdom",
+      "diseaseA": "pancreatitis",
+      "diseaseB": "alkoholisk_leversygdom",
+      "type": "risikofaktor",
+      "bridge": "Alkohol er næsthyppigste årsag til pancreatitis (30-40%) og hyppigste årsag til leversygdom — alkohol skader begge organer"
+    },
+    {
+      "id": "pancreatitis__diabetes_type1",
+      "diseaseA": "pancreatitis",
+      "diseaseB": "diabetes_type1",
+      "type": "komplikation",
+      "bridge": "Kronisk pancreatitis kan destruere betaceller og give pankreatogen diabetes — morfologisk lig T1DM men anden årsag"
+    },
+    {
+      "id": "diarre__ibd",
+      "diseaseA": "diarre",
+      "diseaseB": "ibd",
+      "type": "komplikation",
+      "bridge": "Kronisk diarré (>4 uger) er kardinalsymptomet ved IBD — altid koloskopi ved vedvarende diarré hos unge"
+    },
+    {
+      "id": "diarre__akut_gastroenteritis",
+      "diseaseA": "diarre",
+      "diseaseB": "akut_gastroenteritis",
+      "type": "mekanisme",
+      "bridge": "Akut gastroenteritis er den hyppigste årsag til akut diarré — selvlimiterende, behandles symptomatisk"
+    },
+    {
+      "id": "appendicitis__diarre",
+      "diseaseA": "appendicitis",
+      "diseaseB": "diarre",
+      "type": "forveksles",
+      "bridge": "Appendicitis kan præsentere sig med diarré og mavesmerter — McKurney's punkt og leukocytose hjælper differentialdiagnosen"
+    },
+    {
+      "id": "refluks__ulcus",
+      "diseaseA": "refluks",
+      "diseaseB": "ulcus",
+      "type": "forveksles",
+      "bridge": "Begge giver epigastrisk smerte og dyspepsi — ulcus giver typisk natsmerter lindret af mad, reflux giver brænden opstigende"
+    },
+    {
+      "id": "nyresvigt__akut_nyresvigt",
+      "diseaseA": "nyresvigt",
+      "diseaseB": "akut_nyresvigt",
+      "type": "progression",
+      "bridge": "Gentagne episoder af akut nyreskade (AKI) accelererer progressionen til kronisk nyresvigt — AKI on CKD er en ond cirkel"
+    },
+    {
+      "id": "nyresvigt__anemi_jern",
+      "diseaseA": "nyresvigt",
+      "diseaseB": "anemi_jern",
+      "type": "komplikation",
+      "bridge": "Kronisk nyresvigt giver nedsat EPO-produktion → renal anæmi. Behandles med EPO-injektioner + jerntilskud"
+    },
+    {
+      "id": "nyresvigt__hypertension",
+      "diseaseA": "nyresvigt",
+      "diseaseB": "hypertension",
+      "type": "mekanisme",
+      "bridge": "Bidirektionel: nyrerne regulerer BT via RAAS/natriumudskillelse — CKD giver hypertension og hypertension giver CKD"
+    },
+    {
+      "id": "akut_nyresvigt__sepsis",
+      "diseaseA": "akut_nyresvigt",
+      "diseaseB": "sepsis",
+      "type": "komplikation",
+      "bridge": "Sepsis er den hyppigste årsag til AKI på intensivafdelinger — nyrerne er særligt sårbare over for hypoperfusion"
+    },
+    {
+      "id": "urinvejsinfektioner__prostatahypertrofi",
+      "diseaseA": "urinvejsinfektioner",
+      "diseaseB": "prostatahypertrofi",
+      "type": "komplikation",
+      "bridge": "Prostatahypertrofi giver urinretention og residualurin → grobund for bakterier → hyppige UTI'er"
+    },
+    {
+      "id": "urinvejsinfektioner__urininkontinens",
+      "diseaseA": "urinvejsinfektioner",
+      "diseaseB": "urininkontinens",
+      "type": "komplikation",
+      "bridge": "UTI giver pludselig trang og akut inkontinens — særligt hos ældre. Og inkontinens-hjælpemidler øger UTI-risikoen"
+    },
+    {
+      "id": "prostatahypertrofi__prostatakraeft",
+      "diseaseA": "prostatahypertrofi",
+      "diseaseB": "prostatakraeft",
+      "type": "forveksles",
+      "bridge": "Begge giver LUTS (vandladningsbesvær, nattevanding) hos ældre mænd — PSA og biopsi skelner godartet fra malign"
+    },
+    {
+      "id": "pcos__adipositas",
+      "diseaseA": "pcos",
+      "diseaseB": "adipositas",
+      "type": "mekanisme",
+      "bridge": "Abdominal fedme forværrer insulinresistens → forhøjet insulin → øget androgen-produktion i ovariet → PCOS"
+    },
+    {
+      "id": "pcos__diabetes_type2",
+      "diseaseA": "pcos",
+      "diseaseB": "diabetes_type2",
+      "type": "mekanisme",
+      "bridge": "PCOS-kvinder har 3-7× øget risiko for T2DM — fælles underliggende patogenese: insulinresistens. Metformin bruges til begge"
+    },
+    {
+      "id": "pcos__metabolisk_syndrom",
+      "diseaseA": "pcos",
+      "diseaseB": "metabolisk_syndrom",
+      "type": "mekanisme",
+      "bridge": "50% af PCOS-kvinder har metabolisk syndrom — insulinresistens er den fælles kerne i begge tilstande"
+    },
+    {
+      "id": "praeeklampsi__hypertension",
+      "diseaseA": "praeeklampsi",
+      "diseaseB": "hypertension",
+      "type": "mekanisme",
+      "bridge": "Præeklampsi er graviditetsspecifik hypertension (>140/90) + proteinuri — kronisk hypertension er den vigtigste risikofaktor"
+    },
+    {
+      "id": "praeeklampsi__dvt",
+      "diseaseA": "praeeklampsi",
+      "diseaseB": "dvt",
+      "type": "risikofaktor",
+      "bridge": "Graviditet øger koagulabiliteten — begge er vaskulære graviditetskomplikationer med øget maternel morbiditet"
+    },
+    {
+      "id": "cin__kondylomer",
+      "diseaseA": "cin",
+      "diseaseB": "kondylomer",
+      "type": "mekanisme",
+      "bridge": "Begge skyldes HPV — kondylomer (lavrisiko HPV 6/11), CIN/cervixkræft (højrisiko HPV 16/18). Vaccineres med Gardasil"
+    },
+    {
+      "id": "spontan_abort__ekstrauterin_graviditet",
+      "diseaseA": "spontan_abort",
+      "diseaseB": "ekstrauterin_graviditet",
+      "type": "forveksles",
+      "bridge": "Begge giver blødning og smerter i tidlig graviditet — UL og β-hCG skelner: EUG er livstruende og kræver akut behandling"
+    },
+    {
+      "id": "anemi_jern__megaloblastaer_anaemi",
+      "diseaseA": "anemi_jern",
+      "diseaseB": "megaloblastaer_anaemi",
+      "type": "forveksles",
+      "bridge": "Begge er anæmier men modsatte MCV — jernmangel giver mikrocytær (lav MCV), B12/folat-mangel giver makrocytær (høj MCV)"
+    },
+    {
+      "id": "leukemi_aml__akut_lymfoblastaer_leukaemi",
+      "diseaseA": "leukemi_aml",
+      "diseaseB": "akut_lymfoblastaer_leukaemi",
+      "type": "forveksles",
+      "bridge": "Begge er akutte leukæmier med pancytopeni og blasterceller i blod/knoglemarv — AML er myeloid (ældre), ALL er lymfatisk (børn)"
+    },
+    {
+      "id": "leukemi_aml__kronisk_myeloid_leukaemi",
+      "diseaseA": "leukemi_aml",
+      "diseaseB": "kronisk_myeloid_leukaemi",
+      "type": "forveksles",
+      "bridge": "Begge er myeloide leukæmier — AML er akut (fatalt på uger), CML er kronisk med Philadelphia-kromosom (BCR-ABL)"
+    },
+    {
+      "id": "akut_lymfoblastaer_leukaemi__kronisk_lymfatisk_leukaemi",
+      "diseaseA": "akut_lymfoblastaer_leukaemi",
+      "diseaseB": "kronisk_lymfatisk_leukaemi",
+      "type": "forveksles",
+      "bridge": "Begge er lymfatiske — ALL er akut (børn, 90% helbrede), CLL er kronisk (ældre, indolent forløb, 'watch and wait')"
+    },
+    {
+      "id": "kronisk_myeloid_leukaemi__kronisk_lymfatisk_leukaemi",
+      "diseaseA": "kronisk_myeloid_leukaemi",
+      "diseaseB": "kronisk_lymfatisk_leukaemi",
+      "type": "forveksles",
+      "bridge": "Begge er kroniske leukæmier med leukocytose — CML er myeloid med splenomegali, CLL er lymfatisk med lymfadenopati"
+    },
+    {
+      "id": "lymfom__leukemi_aml",
+      "diseaseA": "lymfom",
+      "diseaseB": "leukemi_aml",
+      "type": "forveksles",
+      "bridge": "Begge er hæmatologiske maligniteter — lymfom er solid (lymfeknuder), leukæmi er cirkulerende (blod/knoglemarv)"
+    },
+    {
+      "id": "lymfom__myelomatose",
+      "diseaseA": "lymfom",
+      "diseaseB": "myelomatose",
+      "type": "forveksles",
+      "bridge": "Begge er B-celle-maligniteter behandlet med kemoterapi — lymfom i lymfeknuder, myelomatose i knoglemarv"
+    },
+    {
+      "id": "myelomatose__osteoporose",
+      "diseaseA": "myelomatose",
+      "diseaseB": "osteoporose",
+      "type": "forveksles",
+      "bridge": "Begge giver knoglesmerte og frakturer — myelomatose giver osteolytiske 'punched-out' læsioner og hypercalcæmi"
+    },
+    {
+      "id": "polycytaemia_vera__dvt",
+      "diseaseA": "polycytaemia_vera",
+      "diseaseB": "dvt",
+      "type": "komplikation",
+      "bridge": "Polycytæmi (øget blodviskositet) øger tromboserisikoen markant — DVT, lungeemboli og portventrombose er hyppige"
+    },
+    {
+      "id": "haemoragisk_diatese__dvt",
+      "diseaseA": "haemoragisk_diatese",
+      "diseaseB": "dvt",
+      "type": "forveksles",
+      "bridge": "Modsatte koagulationsdefekter — blødningssygdomme (for lidt koagulation) vs. trombofili (for meget). Begge rammer koagulationskaskaden"
+    },
+    {
+      "id": "lungekraeft__kol",
+      "diseaseA": "lungekraeft",
+      "diseaseB": "kol",
+      "type": "risikofaktor",
+      "bridge": "Rygning er årsag til >85% af al lungekræft og er den vigtigste årsag til KOL — rygning skader luftvejsepitel og fremmer karcinom"
+    },
+    {
+      "id": "tyktarmskraeft__ibd",
+      "diseaseA": "tyktarmskraeft",
+      "diseaseB": "ibd",
+      "type": "komplikation",
+      "bridge": "Colitis ulcerosa (>8 år) øger risikoen for kolorektal karcinom 5-10× — kronisk inflammation → dysplasi → cancer"
+    },
+    {
+      "id": "kraeft_generelt__depression",
+      "diseaseA": "kraeft_generelt",
+      "diseaseB": "depression",
+      "type": "komplikation",
+      "bridge": "30-50% af kræftpatienter udvikler depression — reaktiv til diagnose, kronisk smerte og bivirkning til kemoterapi"
+    },
+    {
+      "id": "hiv__kraeft_generelt",
+      "diseaseA": "hiv",
+      "diseaseB": "kraeft_generelt",
+      "type": "komplikation",
+      "bridge": "HIV/AIDS øger risikoen for Kaposi sarkom, NHL og invasivt cervixkarcinom — AIDS-definerende maligniteter"
+    },
+    {
+      "id": "brystkraeft__osteoporose",
+      "diseaseA": "brystkraeft",
+      "diseaseB": "osteoporose",
+      "type": "komplikation",
+      "bridge": "Aromatasehæmmere (brystkræftbehandling) reducerer østrogen → accelereret knogletab. Bisfosfonat gives profylaktisk"
+    },
+    {
+      "id": "klamydia__gonorre",
+      "diseaseA": "klamydia",
+      "diseaseB": "gonorre",
+      "type": "forveksles",
+      "bridge": "Begge er bakterielle STI med urethritis/cervicitis — klamydia (Chlamydia trachomatis, tavs), gonorré (Neisseria gonorrhoeae, symptomatisk)"
+    },
+    {
+      "id": "klamydia__reaktiv_artrit",
+      "diseaseA": "klamydia",
+      "diseaseB": "reaktiv_artrit",
+      "type": "komplikation",
+      "bridge": "Urogenital klamydia er den hyppigste årsag til reaktiv artrit (Reiters syndrom) — led-symptomer 2-4 uger efter infektion"
+    },
+    {
+      "id": "gonorre__kondylomer",
+      "diseaseA": "gonorre",
+      "diseaseB": "kondylomer",
+      "type": "mekanisme",
+      "bridge": "Begge er seksuelt overførte infektioner — begge forebygges med kondom og kontaktopsporing"
+    },
+    {
+      "id": "erysipelas__impetigo",
+      "diseaseA": "erysipelas",
+      "diseaseB": "impetigo",
+      "type": "mekanisme",
+      "bridge": "Begge er bakterielle hudinfektioner — erysipelas er dyb (β-streptokokker, voksne), impetigo er overfladisk (S. aureus/strep, børn)"
+    },
+    {
+      "id": "otitis_media_acuta__tonsillitis_acuta",
+      "diseaseA": "otitis_media_acuta",
+      "diseaseB": "tonsillitis_acuta",
+      "type": "mekanisme",
+      "bridge": "Begge er øvre luftvejsinfektioner hos børn med streptokokker/virus — otitis medieres via Eustachisk rør fra nasopharynx"
+    },
+    {
+      "id": "otitis_media_acuta__meningitis",
+      "diseaseA": "otitis_media_acuta",
+      "diseaseB": "meningitis",
+      "type": "komplikation",
+      "bridge": "Ubehandlet otitis media kan sprede sig intrakranielt og give meningitis eller mastoiditis — vigtig at behandle korrekt"
+    },
+    {
+      "id": "tonsillitis_acuta__erysipelas",
+      "diseaseA": "tonsillitis_acuta",
+      "diseaseB": "erysipelas",
+      "type": "mekanisme",
+      "bridge": "Begge skyldes gruppe A β-hæmolytiske streptokokker (Streptococcus pyogenes) — behandles begge med penicillin"
+    },
+    {
+      "id": "influenza__meningitis",
+      "diseaseA": "influenza",
+      "diseaseB": "meningitis",
+      "type": "forveksles",
+      "bridge": "Begge giver akut debut med høj feber, nakkestivhed og smerter — meningitis er livstruende og kræver LP og akut penicillin"
+    },
+    {
+      "id": "sepsis__akut_nyresvigt",
+      "diseaseA": "sepsis",
+      "diseaseB": "akut_nyresvigt",
+      "type": "komplikation",
+      "bridge": "Septisk shock giver hypoperfusion → AKI hos 40-50% — nyrerne er det første organ der svigter ved sepsis"
+    },
+    {
+      "id": "praetermfodsel__praeeklampsi",
+      "diseaseA": "praetermfodsel",
+      "diseaseB": "praeeklampsi",
+      "type": "komplikation",
+      "bridge": "Præeklampsi er den hyppigste årsag til iatrogen præterm fødsel — induceret fødsel er eneste behandling ved svær præeklampsi"
+    },
+    {
+      "id": "praetermfodsel__vaeksthaemning_foster",
+      "diseaseA": "praetermfodsel",
+      "diseaseB": "vaeksthaemning_foster",
+      "type": "komplikation",
+      "bridge": "Væksthæmning (IUGR) og præterm fødsel optræder ofte sammen — begge er tegn på placentainsufficiens"
+    },
+    {
+      "id": "postmenopausal_bloedning__cin",
+      "diseaseA": "postmenopausal_bloedning",
+      "diseaseB": "cin",
+      "type": "forveksles",
+      "bridge": "Postmenopausal blødning kræver altid udredning for malignitet — endometrie- og cervixkarcinom er vigtigste differentialdiagnoser"
+    },
+    {
+      "id": "postmenopausal_bloedning__kraeft_generelt",
+      "diseaseA": "postmenopausal_bloedning",
+      "diseaseB": "kraeft_generelt",
+      "type": "komplikation",
+      "bridge": "Postmenopausal blødning er alarmsymptom — endometriecancer er årsag i 10% af tilfælde og skal altid udelukkes"
+    },
+    {
+      "id": "benigne_ovariecyster__pcos",
+      "diseaseA": "benigne_ovariecyster",
+      "diseaseB": "pcos",
+      "type": "forveksles",
+      "bridge": "PCOS viser multiple små follikelcyster på UL — vigtig at skelne fra ægte ovariecyster: PCOS har kliniske PCOS-kriterier"
+    },
+    {
+      "id": "benigne_ovariecyster__ekstrauterin_graviditet",
+      "diseaseA": "benigne_ovariecyster",
+      "diseaseB": "ekstrauterin_graviditet",
+      "type": "forveksles",
+      "bridge": "Begge giver adneksalt fund på UL og bækkensmerter — β-hCG og Doppler-flow skelner cyste fra EUG"
+    },
+    {
+      "id": "vaeksthaemning_foster__hypertension",
+      "diseaseA": "vaeksthaemning_foster",
+      "diseaseB": "hypertension",
+      "type": "risikofaktor",
+      "bridge": "Kronisk hypertension reducerer uteroplacental perfusion → IUGR. Hypertension er vigtigste maternelle årsag til IUGR"
+    },
+    {
+      "id": "vaeksthaemning_foster__diabetes_type2",
+      "diseaseA": "vaeksthaemning_foster",
+      "diseaseB": "diabetes_type2",
+      "type": "risikofaktor",
+      "bridge": "Dårligt reguleret diabetes → vaskulopati → placentainsufficiens → IUGR. Veldoseret insulin forebygger"
+    },
+    {
+      "id": "kraeft_tumorbiologi__kraeft_generelt",
+      "diseaseA": "kraeft_tumorbiologi",
+      "diseaseB": "kraeft_generelt",
+      "type": "mekanisme",
+      "bridge": "Tumorbiologien forklarer hallmarks of cancer: ukontrolleret celledeling, apoptoseresistens, angiogenese og metastasering"
+    },
+    {
+      "id": "kraeft_udredning__kraeft_behandling",
+      "diseaseA": "kraeft_udredning",
+      "diseaseB": "kraeft_behandling",
+      "type": "mekanisme",
+      "bridge": "Udredning (stadie I-IV, histologi, biomarkører) er forudsætningen for at vælge korrekt behandling (kirurgi/kemo/stråle)"
+    },
+    {
+      "id": "kraeft_behandling__kraeft_senfoelger",
+      "diseaseA": "kraeft_behandling",
+      "diseaseB": "kraeft_senfoelger",
+      "type": "komplikation",
+      "bridge": "Kemoterapi og strålebehandling giver senfølger (neuropati, hjerteskade, osteoporose, kognitiv svækkelse) der kan vare livet ud"
+    },
+    {
+      "id": "kraeft_palliation__kraeft_byrde",
+      "diseaseA": "kraeft_palliation",
+      "diseaseB": "kraeft_byrde",
+      "type": "mekanisme",
+      "bridge": "Palliation reducerer byrden — god lindring forbedrer livskvalitet og reducerer hospitaliseringsbehovet i terminalfasen"
+    },
+    {
+      "id": "kraeft_forebyggelse__kraeft_generelt",
+      "diseaseA": "kraeft_forebyggelse",
+      "diseaseB": "kraeft_generelt",
+      "type": "mekanisme",
+      "bridge": "40% af kræfttilfælde kan forebygges — rygning, alkohol, overvægt, sol og infektioner (HPV, H. pylori) er modificerbare risikofaktorer"
+    }
+  ]
+}
