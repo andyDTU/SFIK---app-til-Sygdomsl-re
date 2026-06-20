@@ -185,7 +185,7 @@ struct ThemeClusterView: View {
 
                                     Image(systemName: "chevron.right")
                                         .font(.caption2)
-                                        .foregroundColor(.tertiary)
+                                        .foregroundColor(.secondary.opacity(0.5))
                                 }
                                 .padding(.vertical, 9)
                             }
