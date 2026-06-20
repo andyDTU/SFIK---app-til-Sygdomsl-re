@@ -4,7 +4,7 @@ struct MainTabView: View {
     @StateObject private var dataLoader = DataLoader()
 
     #if os(macOS)
-    enum Tab: Hashable { case training, lexicon, cheatsheet, glossary, reading }
+    enum Tab: Hashable { case training, lexicon, prevalence, cheatsheet, glossary, reading }
     @State private var selection: Tab? = .training
     #endif
 
@@ -16,6 +16,8 @@ struct MainTabView: View {
                     .tag(Tab.training)
                 Label("Leksikon", systemImage: "text.book.closed")
                     .tag(Tab.lexicon)
+                Label("Forekomster", systemImage: "chart.bar.fill")
+                    .tag(Tab.prevalence)
                 Label("Spickseddel", systemImage: "note.text")
                     .tag(Tab.cheatsheet)
                 Label("Ordliste", systemImage: "character.book.closed")
@@ -42,6 +44,8 @@ struct MainTabView: View {
                     TrainingView(diseases: dataLoader.diseases)
                 case .lexicon:
                     LexiconView(diseases: dataLoader.diseases)
+                case .prevalence:
+                    PrevalenceView(diseases: dataLoader.diseases)
                 case .cheatsheet:
                     CheatSheetView()
                 case .glossary:
@@ -61,6 +65,10 @@ struct MainTabView: View {
             LexiconView(diseases: dataLoader.diseases)
                 .tabItem {
                     Label("Leksikon", systemImage: "text.book.closed")
+                }
+            PrevalenceView(diseases: dataLoader.diseases)
+                .tabItem {
+                    Label("Forekomster", systemImage: "chart.bar.fill")
                 }
             CheatSheetView()
                 .tabItem {
