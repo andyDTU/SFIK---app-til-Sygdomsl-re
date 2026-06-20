@@ -44,8 +44,9 @@ struct DiseaseWebView: View {
                     }
                 }
             }
+            #if os(iOS)
             .listStyle(.insetGrouped)
-            #if os(macOS)
+            #else
             .listStyle(.inset)
             #endif
             .searchable(text: $searchText, prompt: "Søg efter sygdom…")

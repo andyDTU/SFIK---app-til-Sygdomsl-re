@@ -15,11 +15,11 @@
       "bridge": "Begge giver ledinflamation, men reaktiv artrit er selvlimiterende (uger–måneder) og udløst af forudgående infektion (klamydia, salmonella)"
     },
     {
-      "id": "ra__ibd",
-      "diseaseA": "ra",
-      "diseaseB": "ibd",
+      "id": "ibd__ra",
+      "diseaseA": "ibd",
+      "diseaseB": "ra",
       "type": "behandling",
-      "bridge": "Begge behandles med TNF-alfa-hæmmere (biologisk medicin) ved moderat–svær sygdom"
+      "bridge": "Begge behandles med TNF-alfa-hæmmere (infliximab, adalimumab) og methotrexat — fælles biologisk behandlingsplatform"
     },
     {
       "id": "ra__multipel_sklerose",
@@ -64,11 +64,11 @@
       "bridge": "Begge giver smerter og hævelse i led, men artritis urica er akut, monoartikulær og viser urinsyrekrystaller i ledvæske"
     },
     {
-      "id": "osteoartrose__adipositas",
-      "diseaseA": "osteoartrose",
-      "diseaseB": "adipositas",
+      "id": "adipositas__osteoartrose",
+      "diseaseA": "adipositas",
+      "diseaseB": "osteoartrose",
       "type": "risikofaktor",
-      "bridge": "Overvægt er den vigtigste modificerbare risikofaktor for knæ- og hofteartrose pga. mekanisk overbelastning"
+      "bridge": "Overvægt øger mekanisk belastning på knæ og hofte — 5 kg vægttab reducerer risikoen for knæartrose med ~50%"
     },
     {
       "id": "osteoartrose__diskusprolaps",
@@ -113,11 +113,11 @@
       "bridge": "Cøliaki og malabsorption giver calcium- og D-vitaminmangel → knogleresorption → osteoporose"
     },
     {
-      "id": "osteoporose__brystkraeft",
-      "diseaseA": "osteoporose",
-      "diseaseB": "brystkraeft",
+      "id": "brystkraeft__osteoporose",
+      "diseaseA": "brystkraeft",
+      "diseaseB": "osteoporose",
       "type": "komplikation",
-      "bridge": "Aromatasehæmmere (brystkræftbehandling) sænker østrogen → accelereret knogletab → iatrogen osteoporose"
+      "bridge": "Aromatasehæmmere (brystkræftbehandling) reducerer østrogen → accelereret knogletab. Bisfosfonat gives profylaktisk"
     },
     {
       "id": "proksimal_femurfraktur__distal_radiusfraktur",
@@ -372,18 +372,11 @@
       "bridge": "Diabetisk nefropati er den hyppigste årsag til terminal nyresvigt i Danmark — skyldes glomerulosklerose"
     },
     {
-      "id": "diabetes_type2__pcos",
-      "diseaseA": "diabetes_type2",
-      "diseaseB": "pcos",
+      "id": "pcos__diabetes_type2",
+      "diseaseA": "pcos",
+      "diseaseB": "diabetes_type2",
       "type": "mekanisme",
-      "bridge": "PCOS er stærkt associeret med insulinresistens — samme patofysiologi som T2DM, og metformin bruges ved begge"
-    },
-    {
-      "id": "diabetes_type1__ra",
-      "diseaseA": "diabetes_type1",
-      "diseaseB": "ra",
-      "type": "mekanisme",
-      "bridge": "Begge er autoimmune sygdomme med HLA-association — T1DM har HLA-DR3/DR4, RA har HLA-DR4"
+      "bridge": "PCOS-kvinder har 3-7× øget risiko for T2DM — fælles underliggende patogenese: insulinresistens. Metformin bruges til begge"
     },
     {
       "id": "adipositas__metabolisk_syndrom",
@@ -398,13 +391,6 @@
       "diseaseB": "hypertension",
       "type": "mekanisme",
       "bridge": "Fedme → øget sympatikusaktivitet, RAAS-aktivering og natriumretention → hypertension. Vægttab sænker BT"
-    },
-    {
-      "id": "adipositas__osteoartrose",
-      "diseaseA": "adipositas",
-      "diseaseB": "osteoartrose",
-      "type": "risikofaktor",
-      "bridge": "Overvægt øger mekanisk belastning på knæ og hofte — 5 kg vægttab reducerer risikoen for knæartrose med ~50%"
     },
     {
       "id": "metabolisk_syndrom__aterosklerose",
@@ -540,11 +526,11 @@
       "bridge": "Begge giver rød, hævet, øm underekstremitet — DVT er vaskulær (venøs okklusion), erysipelas er infektion (streptokokker)"
     },
     {
-      "id": "dvt__praeeklampsi",
-      "diseaseA": "dvt",
-      "diseaseB": "praeeklampsi",
+      "id": "praeeklampsi__dvt",
+      "diseaseA": "praeeklampsi",
+      "diseaseB": "dvt",
       "type": "risikofaktor",
-      "bridge": "Graviditet øger DVT-risikoen 4-5× pga. hyperkoagulabilitet, venøs stase og kompression af vena cava"
+      "bridge": "Graviditet øger koagulabiliteten — begge er vaskulære graviditetskomplikationer med øget maternel morbiditet"
     },
     {
       "id": "claudicatio__dvt",
@@ -589,18 +575,11 @@
       "bridge": "Begge involverer bronkospasme via IgE/mastcelle-degranulering — astmatikere har øget risiko for fatal anafylaksi"
     },
     {
-      "id": "kol__lungekraeft",
-      "diseaseA": "kol",
-      "diseaseB": "lungekraeft",
+      "id": "lungekraeft__kol",
+      "diseaseA": "lungekraeft",
+      "diseaseB": "kol",
       "type": "risikofaktor",
-      "bridge": "Rygning er den dominerende årsag til begge — KOL-patienter har 2-5× øget risiko for lungekræft"
-    },
-    {
-      "id": "kol__hjertesvigt",
-      "diseaseA": "kol",
-      "diseaseB": "hjertesvigt",
-      "type": "forveksles",
-      "bridge": "Begge giver anstrengelsesudløst dyspnø — hyppig komorbiditet, da rygning er risikofaktor for begge"
+      "bridge": "Rygning er årsag til >85% af al lungekræft og er den vigtigste årsag til KOL — rygning skader luftvejsepitel og fremmer karcinom"
     },
     {
       "id": "idf__kol",
@@ -692,13 +671,6 @@
       "diseaseB": "tyktarmskraeft",
       "type": "komplikation",
       "bridge": "Langvarig colitis ulcerosa (>8-10 år) øger risikoen for kolorektal karcinom 5-10× — koloskopi-overvågning er obligatorisk"
-    },
-    {
-      "id": "ibd__ra",
-      "diseaseA": "ibd",
-      "diseaseB": "ra",
-      "type": "behandling",
-      "bridge": "Begge behandles med TNF-alfa-hæmmere (infliximab, adalimumab) og methotrexat — fælles biologisk behandlingsplatform"
     },
     {
       "id": "cirrose__alkoholisk_leversygdom",
@@ -827,13 +799,6 @@
       "bridge": "Abdominal fedme forværrer insulinresistens → forhøjet insulin → øget androgen-produktion i ovariet → PCOS"
     },
     {
-      "id": "pcos__diabetes_type2",
-      "diseaseA": "pcos",
-      "diseaseB": "diabetes_type2",
-      "type": "mekanisme",
-      "bridge": "PCOS-kvinder har 3-7× øget risiko for T2DM — fælles underliggende patogenese: insulinresistens. Metformin bruges til begge"
-    },
-    {
       "id": "pcos__metabolisk_syndrom",
       "diseaseA": "pcos",
       "diseaseB": "metabolisk_syndrom",
@@ -846,13 +811,6 @@
       "diseaseB": "hypertension",
       "type": "mekanisme",
       "bridge": "Præeklampsi er graviditetsspecifik hypertension (>140/90) + proteinuri — kronisk hypertension er den vigtigste risikofaktor"
-    },
-    {
-      "id": "praeeklampsi__dvt",
-      "diseaseA": "praeeklampsi",
-      "diseaseB": "dvt",
-      "type": "risikofaktor",
-      "bridge": "Graviditet øger koagulabiliteten — begge er vaskulære graviditetskomplikationer med øget maternel morbiditet"
     },
     {
       "id": "cin__kondylomer",
@@ -939,20 +897,6 @@
       "bridge": "Modsatte koagulationsdefekter — blødningssygdomme (for lidt koagulation) vs. trombofili (for meget). Begge rammer koagulationskaskaden"
     },
     {
-      "id": "lungekraeft__kol",
-      "diseaseA": "lungekraeft",
-      "diseaseB": "kol",
-      "type": "risikofaktor",
-      "bridge": "Rygning er årsag til >85% af al lungekræft og er den vigtigste årsag til KOL — rygning skader luftvejsepitel og fremmer karcinom"
-    },
-    {
-      "id": "tyktarmskraeft__ibd",
-      "diseaseA": "tyktarmskraeft",
-      "diseaseB": "ibd",
-      "type": "komplikation",
-      "bridge": "Colitis ulcerosa (>8 år) øger risikoen for kolorektal karcinom 5-10× — kronisk inflammation → dysplasi → cancer"
-    },
-    {
       "id": "kraeft_generelt__depression",
       "diseaseA": "kraeft_generelt",
       "diseaseB": "depression",
@@ -965,13 +909,6 @@
       "diseaseB": "kraeft_generelt",
       "type": "komplikation",
       "bridge": "HIV/AIDS øger risikoen for Kaposi sarkom, NHL og invasivt cervixkarcinom — AIDS-definerende maligniteter"
-    },
-    {
-      "id": "brystkraeft__osteoporose",
-      "diseaseA": "brystkraeft",
-      "diseaseB": "osteoporose",
-      "type": "komplikation",
-      "bridge": "Aromatasehæmmere (brystkræftbehandling) reducerer østrogen → accelereret knogletab. Bisfosfonat gives profylaktisk"
     },
     {
       "id": "klamydia__gonorre",
@@ -1028,13 +965,6 @@
       "diseaseB": "meningitis",
       "type": "forveksles",
       "bridge": "Begge giver akut debut med høj feber, nakkestivhed og smerter — meningitis er livstruende og kræver LP og akut penicillin"
-    },
-    {
-      "id": "sepsis__akut_nyresvigt",
-      "diseaseA": "sepsis",
-      "diseaseB": "akut_nyresvigt",
-      "type": "komplikation",
-      "bridge": "Septisk shock giver hypoperfusion → AKI hos 40-50% — nyrerne er det første organ der svigter ved sepsis"
     },
     {
       "id": "praetermfodsel__praeeklampsi",
