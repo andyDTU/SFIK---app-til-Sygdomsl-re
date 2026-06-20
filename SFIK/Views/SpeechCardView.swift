@@ -116,25 +116,25 @@ struct SpeechCardDetailView: View {
                 // ── Kapitel-badge ───────────────────────────────
                 HStack(spacing: 6) {
                     Image(systemName: disease.chapterIcon)
-                        .font(.caption)
+                        .font(.subheadline)
                         .foregroundColor(tier.color)
                     Text(disease.chapter)
-                        .font(.caption)
+                        .font(.subheadline)
                         .foregroundColor(.secondary)
                     Spacer()
                     Text("\(index + 1) / \(diseases.count)")
-                        .font(.caption)
+                        .font(.subheadline)
                         .foregroundColor(.secondary)
                 }
                 .padding(.horizontal)
-                .padding(.top, 12)
+                .padding(.top, 14)
                 .padding(.bottom, 6)
 
                 // ── Sygdomsnavn ─────────────────────────────────
                 Text(disease.name)
-                    .font(.title2.bold())
+                    .font(.title.bold())
                     .padding(.horizontal)
-                    .padding(.bottom, 14)
+                    .padding(.bottom, 16)
 
                 // ── Felter ──────────────────────────────────────
                 cardSection("Definition",           icon: "book.fill",                   color: .indigo,
@@ -179,7 +179,7 @@ struct SpeechCardDetailView: View {
                     Image(systemName: "chevron.left")
                     Text("Forrige")
                 }
-                .font(.subheadline.bold())
+                .font(.body.bold())
             }
             .disabled(index == 0)
             .buttonStyle(.plain)
@@ -188,7 +188,7 @@ struct SpeechCardDetailView: View {
             Spacer()
 
             Text("\(index + 1) / \(diseases.count)")
-                .font(.subheadline)
+                .font(.body)
                 .foregroundColor(.secondary)
 
             Spacer()
@@ -200,7 +200,7 @@ struct SpeechCardDetailView: View {
                     Text("Næste")
                     Image(systemName: "chevron.right")
                 }
-                .font(.subheadline.bold())
+                .font(.body.bold())
             }
             .disabled(index == diseases.count - 1)
             .buttonStyle(.plain)
@@ -220,27 +220,27 @@ struct SpeechCardDetailView: View {
                 // Section header
                 HStack(spacing: 6) {
                     Image(systemName: icon)
-                        .font(.caption.bold())
+                        .font(.subheadline.bold())
                         .foregroundColor(color)
                     Text(title.uppercased())
-                        .font(.caption.bold())
+                        .font(.subheadline.bold())
                         .foregroundColor(color)
                         .tracking(0.8)
                 }
                 .padding(.horizontal)
-                .padding(.top, 14)
-                .padding(.bottom, 6)
+                .padding(.top, 18)
+                .padding(.bottom, 8)
 
                 // Cue-bullets
-                VStack(alignment: .leading, spacing: 5) {
+                VStack(alignment: .leading, spacing: 8) {
                     ForEach(Array(cues.enumerated()), id: \.offset) { _, cue in
-                        HStack(alignment: .top, spacing: 8) {
+                        HStack(alignment: .top, spacing: 10) {
                             Text("·")
-                                .font(.subheadline.bold())
+                                .font(.body.bold())
                                 .foregroundColor(color)
-                                .frame(width: 12)
+                                .frame(width: 14)
                             Text(cue)
-                                .font(.subheadline)
+                                .font(.body)
                                 .foregroundColor(.primary)
                                 .fixedSize(horizontal: false, vertical: true)
                         }
@@ -251,7 +251,7 @@ struct SpeechCardDetailView: View {
 
                 Divider()
                     .padding(.horizontal)
-                    .padding(.top, 10)
+                    .padding(.top, 14)
             }
         )
     }
