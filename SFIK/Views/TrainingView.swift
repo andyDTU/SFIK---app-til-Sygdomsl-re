@@ -14,6 +14,7 @@ struct TrainingView: View {
     @State private var showingDistinguisher = false
     @State private var showingDiseaseWeb = false
     @State private var showingSimilarity = false
+    @State private var showingSpeechCards = false
 
     @ObservedObject private var store = SpacedRepetitionStore.shared
 
@@ -223,6 +224,17 @@ struct TrainingView: View {
         }
         .sheet(isPresented: $showingSimilarity) {
             SimilarityView(diseases: diseases)
+                .trainingSheetFrame()
+        }
+
+        Button(action: { showingSpeechCards = true }) {
+            TrainingCard(title: "Taleagtige kort",
+                         description: "Stikord per felt for alle sygdomme — tal dem igennem højt og lær dem udenad.",
+                         icon: "text.bubble.fill",
+                         color: .indigo)
+        }
+        .sheet(isPresented: $showingSpeechCards) {
+            SpeechCardView(diseases: diseases)
                 .trainingSheetFrame()
         }
     }

@@ -84,7 +84,7 @@ struct ExamFocusView: View {
             DiseaseWebView(diseases: focus).trainingSheetFrame()
         }
         .sheet(isPresented: $showingSpeechCards) {
-            SpeechCardView(diseases: diseases).trainingSheetFrame()
+            SpeechCardView(diseases: focus).trainingSheetFrame()
         }
         .sheet(isPresented: $showingDashboard) {
             ProgressDashboardView(diseases: focus).trainingSheetFrame()

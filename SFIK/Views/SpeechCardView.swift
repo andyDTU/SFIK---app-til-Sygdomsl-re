@@ -9,16 +9,14 @@ struct SpeechCardView: View {
     @State private var searchText = ""
 
     enum FocusTier: String, CaseIterable {
-        case all       = "Alle (45)"
-        case primary   = "Primær (28)"
-        case secondary = "Sekundær (17)"
+        case all       = "Alle"
+        case primary   = "Primær"
+        case secondary = "Sekundær"
     }
 
     private var pool: [Disease] {
-        let base = diseases.filter {
-            !$0.isTopic &&
-            (DiseasePriority.tier(for: $0) == .high || DiseasePriority.tier(for: $0) == .secondary)
-        }.sorted { $0.chapter == $1.chapter ? $0.name < $1.name : $0.chapter < $1.chapter }
+        let base = diseases.filter { !$0.isTopic }
+            .sorted { $0.chapter == $1.chapter ? $0.name < $1.name : $0.chapter < $1.chapter }
 
         let filtered: [Disease]
         switch filter {
@@ -73,9 +71,10 @@ struct SpeechCardView: View {
 
     private func diseaseRow(_ disease: Disease) -> some View {
         let tier = DiseasePriority.tier(for: disease)
+        let dotColor: Color = tier == .high ? .orange : tier == .secondary ? .blue : .secondary
         return HStack(spacing: 10) {
             Circle()
-                .fill(tier == .high ? Color.orange : Color.blue)
+                .fill(dotColor)
                 .frame(width: 8, height: 8)
             VStack(alignment: .leading, spacing: 2) {
                 Text(disease.name)
@@ -259,98 +258,146 @@ struct SpeechCardDetailView: View {
 
     // MARK: - Cue-udtrækning
 
-    /// Generelt feltudtræk: sætningsopdeling → kommaopdelede chunks ved lange sætninger
+    /// Splitter kun ved ægte sætningsgrænser: ". " + stort begyndelsesbogstav.
+    /// Undgår at splitte ved "pga.", "bl.a.", "fx.", "dvs.", "ca.", tal + "."
+    private func splitSentences(_ text: String) -> [String] {
+        var sentences: [String] = []
+        var current = ""
+        let chars = Array(text)
+        var i = 0
+        while i < chars.count {
+            current.append(chars[i])
+            if chars[i] == "." && i + 2 < chars.count && chars[i + 1] == " " {
+                let next = chars[i + 2]
+                // Split kun hvis næste ord starter med stort bogstav
+                // OG det forrige ord ikke er en forkortelse (kort ord ≤4 bogstaver)
+                let lastWord = current.components(separatedBy: " ").last(where: { !$0.isEmpty }) ?? ""
+                let lastWordClean = lastWord.trimmingCharacters(in: .punctuationCharacters)
+                let isAbbrev = lastWordClean.count <= 4 || lastWordClean.first?.isNumber == true
+                if !isAbbrev && next.isUppercase {
+                    sentences.append(current.trimmingCharacters(in: .whitespacesAndNewlines))
+                    current = ""
+                    i += 2 // spring ". " over
+                    continue
+                }
+            }
+            i += 1
+        }
+        if !current.trimmingCharacters(in: .whitespaces).isEmpty {
+            sentences.append(current.trimmingCharacters(in: .whitespacesAndNewlines))
+        }
+        return sentences.filter { !$0.isEmpty }
+    }
+
+    /// Splitter på kommaer uden for parenteser
+    private func splitByCommaOutsideParens(_ text: String) -> [String] {
+        var parts: [String] = []
+        var current = ""
+        var depth = 0
+        for ch in text {
+            if ch == "(" { depth += 1 }
+            else if ch == ")" { depth -= 1 }
+            if ch == "," && depth == 0 {
+                let trimmed = current.trimmingCharacters(in: .whitespaces)
+                if !trimmed.isEmpty { parts.append(trimmed) }
+                current = ""
+            } else {
+                current.append(ch)
+            }
+        }
+        let last = current.trimmingCharacters(in: .whitespaces)
+        if !last.isEmpty { parts.append(last) }
+        return parts
+    }
+
+    /// Trunkerer ved ordgrænse
+    private func truncate(_ s: String, at max: Int = 88) -> String {
+        guard s.count > max else { return s }
+        let cut = s.prefix(max)
+        if let lastSpace = cut.lastIndex(of: " "), cut.distance(from: cut.startIndex, to: lastSpace) > max / 2 {
+            return String(cut[..<lastSpace]) + "…"
+        }
+        return String(cut) + "…"
+    }
+
+    /// Generelt feltudtræk
     private func cues(_ text: String, max maxCount: Int) -> [String] {
         guard !text.trimmingCharacters(in: .whitespaces).isEmpty else { return [] }
         let cleaned = text.replacingOccurrences(of: "\n", with: " ")
                           .replacingOccurrences(of: "  ", with: " ")
 
-        // Split i sætninger
-        let sentences = cleaned.components(separatedBy: ". ")
-
+        let sentences = splitSentences(cleaned)
         var chunks: [String] = []
         for sent in sentences {
-            let t = sent.trimmingCharacters(in: .whitespacesAndNewlines)
-            if t.isEmpty { continue }
-            // Lang sætning med kommaer → yderligere opdeling
-            if t.count > 55 && t.contains(", ") {
-                let parts = t.components(separatedBy: ", ")
-                              .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
-                              .filter { $0.count >= 4 }
-                chunks.append(contentsOf: parts)
-            } else {
-                chunks.append(t)
+            // Lang sætning: split på kommaer (men ikke inden for parenteser)
+            if sent.count > 60 && sent.contains(", ") {
+                let parts = splitByCommaOutsideParens(sent).filter { $0.count >= 5 }
+                if parts.count >= 2 {
+                    chunks.append(contentsOf: parts)
+                    continue
+                }
             }
+            chunks.append(sent)
         }
 
         return chunks
-            .filter { $0.count >= 5 }
             .map { c -> String in
                 var s = c
                 while s.hasSuffix(".") || s.hasSuffix(",") { s = String(s.dropLast()) }
-                return s.count > 90 ? String(s.prefix(87)) + "…" : s
+                return truncate(s)
             }
+            .filter { $0.count >= 5 }
             .uniqued()
             .prefix(maxCount)
             .map { $0 }
     }
 
-    /// Behandling: altid kommaopdelede stikord (typisk: "NSAID, metformin, kirurgi")
+    /// Behandling: kommaer og sætninger — bevar parenteser samlet
     private func treatmentCues(_ text: String) -> [String] {
         guard !text.trimmingCharacters(in: .whitespaces).isEmpty else { return [] }
         let cleaned = text.replacingOccurrences(of: "\n", with: " ")
 
-        // Split primært på ", " og ". "
-        let chunks = cleaned
-            .components(separatedBy: ". ")
-            .flatMap { $0.components(separatedBy: ", ") }
-            .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
-            .filter { $0.count >= 4 }
+        // Split på sætningsgrænser, derefter på kommaer (uden for parenteser)
+        let sentences = splitSentences(cleaned)
+        var chunks: [String] = []
+        for sent in sentences {
+            let parts = splitByCommaOutsideParens(sent).filter { $0.count >= 4 }
+            chunks.append(contentsOf: parts.isEmpty ? [sent] : parts)
+        }
 
         return chunks
             .map { c -> String in
                 var s = c
                 while s.hasSuffix(".") || s.hasSuffix(",") { s = String(s.dropLast()) }
-                return s.count > 90 ? String(s.prefix(87)) + "…" : s
+                return truncate(s)
             }
+            .filter { $0.count >= 4 }
             .uniqued()
             .prefix(6)
             .map { $0 }
     }
 
-    /// Forekomst: kompakt format — tal · køn · alder
+    /// Forekomst: tal · køn · debut
     private func prevalenceCues(_ raw: String) -> [String] {
-        let t = raw.lowercased()
-
-        // Udtræk prævalenstal (fx "ca. 1%" eller "ca. 320.000")
         var result: [String] = []
 
-        // Tag første sætning som prævalensnøglefakt
-        if let first = raw.components(separatedBy: ". ").first {
-            let trimmed = first.trimmingCharacters(in: .whitespaces)
-            if trimmed.count >= 5 {
-                result.append(trimmed)
-            }
-        }
+        // Første ægte sætning (prævalenstallet)
+        let first = splitSentences(raw).first ?? ""
+        if first.count >= 5 { result.append(first.trimmingCharacters(in: CharacterSet(charactersIn: "."))) }
 
-        // Køn
+        // Køn fra PrevalenceFacts
         let facts = PrevalenceFacts.from(raw)
-        if let sex = facts.sex {
-            result.append("\(sex.symbol) \(sex.label)")
-        }
+        if let sex = facts.sex { result.append("\(sex.symbol) \(sex.label)") }
 
         // Debutalder
-        if let debut = facts.debut {
-            result.append("Debut: \(debut)")
-        }
+        if let debut = facts.debut { result.append("Debut: \(debut)") }
 
-        // Anden sætning (hvis informativ)
-        let sentences = raw.components(separatedBy: ". ")
+        // Anden sætning hvis der er mere at sige
+        let sentences = splitSentences(raw)
         if sentences.count >= 2 {
-            let second = sentences[1].trimmingCharacters(in: .whitespaces)
-            if second.count >= 10 && !result.contains(where: { $0.lowercased().contains(second.lowercased().prefix(20)) }) {
-                result.append(second)
-            }
+            let second = sentences[1].trimmingCharacters(in: CharacterSet(charactersIn: "."))
+            let alreadyCovered = result.contains { $0.lowercased().hasPrefix(second.lowercased().prefix(15)) }
+            if !alreadyCovered && second.count >= 10 { result.append(second) }
         }
 
         return Array(result.prefix(4))
