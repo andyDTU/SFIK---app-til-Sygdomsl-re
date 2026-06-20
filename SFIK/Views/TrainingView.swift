@@ -13,6 +13,7 @@ struct TrainingView: View {
     @State private var showingPatternFlashcards = false
     @State private var showingDistinguisher = false
     @State private var showingDiseaseWeb = false
+    @State private var showingSimilarity = false
 
     @ObservedObject private var store = SpacedRepetitionStore.shared
 
@@ -211,6 +212,17 @@ struct TrainingView: View {
         }
         .sheet(isPresented: $showingDiseaseWeb) {
             DiseaseWebView(diseases: diseases)
+                .trainingSheetFrame()
+        }
+
+        Button(action: { showingSimilarity = true }) {
+            TrainingCard(title: "Lighedsmatrix",
+                         description: "Se hvilke sygdomme der deler diagnostik, behandling, patogenese, symptomer og mere.",
+                         icon: "tablecells.fill",
+                         color: .teal)
+        }
+        .sheet(isPresented: $showingSimilarity) {
+            SimilarityView(diseases: diseases)
                 .trainingSheetFrame()
         }
     }
