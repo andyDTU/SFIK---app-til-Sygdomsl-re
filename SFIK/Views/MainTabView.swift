@@ -37,6 +37,9 @@ struct MainTabView: View {
                     OpenWindowButton(id: "cheatsheet",
                                      icon: "note.text",
                                      tooltip: "Åbn Spickseddel i nyt vindue")
+                    OpenWindowButton(id: "speechcards",
+                                     icon: "text.bubble.fill",
+                                     tooltip: "Åbn Taleagtige kort i nyt vindue")
                 }
             }
         } detail: {

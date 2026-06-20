@@ -23,6 +23,11 @@ struct SFIKApp: App {
                 .frame(minWidth: 500, minHeight: 600)
         }
         .defaultSize(width: 700, height: 800)
+
+        WindowGroup("Taleagtige kort", id: "speechcards") {
+            SpeechCardsWindowView()
+        }
+        .defaultSize(width: 720, height: 880)
         #endif
     }
 }
@@ -37,13 +42,24 @@ private struct FlashcardsWindowView: View {
     }
 }
 
+private struct SpeechCardsWindowView: View {
+    @StateObject private var dataLoader = DataLoader()
+
+    var body: some View {
+        SpeechCardView(diseases: dataLoader.diseases)
+            .frame(minWidth: 640, minHeight: 720)
+    }
+}
+
 struct SFIKWindowCommands: Commands {
     var body: some Commands {
         CommandMenu("Vinduer") {
-            SFIKWindowMenuItem(windowID: "flashcards", label: "Åbn Flashcards i nyt vindue",
+            SFIKWindowMenuItem(windowID: "flashcards",   label: "Åbn Flashcards i nyt vindue",
                                shortcut: "f", modifiers: [.command, .shift])
-            SFIKWindowMenuItem(windowID: "cheatsheet", label: "Åbn Spickseddel i nyt vindue",
+            SFIKWindowMenuItem(windowID: "cheatsheet",   label: "Åbn Spickseddel i nyt vindue",
                                shortcut: "s", modifiers: [.command, .shift])
+            SFIKWindowMenuItem(windowID: "speechcards",  label: "Åbn Taleagtige kort i nyt vindue",
+                               shortcut: "t", modifiers: [.command, .shift])
         }
     }
 }

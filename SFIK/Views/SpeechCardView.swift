@@ -340,13 +340,19 @@ struct SpeechCardDetailView: View {
             chunks.append(sent)
         }
 
+        let stopEndings = [" af", " og", " i", " til", " den", " det", " de",
+                           " er", " på", " med", " at", " som", " der", " skal til"]
         return chunks
             .map { c -> String in
                 var s = c
                 while s.hasSuffix(".") || s.hasSuffix(",") { s = String(s.dropLast()) }
                 return truncate(s)
             }
-            .filter { $0.count >= 5 }
+            .filter { c in
+                guard c.count >= 5 else { return false }
+                let lower = c.lowercased()
+                return !stopEndings.contains(where: { lower.hasSuffix($0) })
+            }
             .uniqued()
             .prefix(maxCount)
             .map { $0 }
