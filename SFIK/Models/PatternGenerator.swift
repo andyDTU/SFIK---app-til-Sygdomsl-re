@@ -52,6 +52,8 @@ struct ThemeCluster: Identifiable {
     let description: String
     let diseases: [Disease]
     let keywords: [String]
+    let color: Color
+    let icon: String
 }
 
 struct DistinguisherPair: Identifiable {
@@ -259,9 +261,11 @@ enum PatternGenerator {
             clusters.append(ThemeCluster(
                 id: "autoimmune",
                 title: "Autoimmune sygdomme",
-                description: "Sygdomme hvor immunsystemet angriber kroppens egne væv.",
+                description: "Immunsystemet angriber kroppens egne væv.",
                 diseases: autoimmune,
-                keywords: ["autoimmun", "antistoffer", "inflammation"]
+                keywords: ["autoimmun", "antistoffer", "inflammation"],
+                color: .red,
+                icon: "shield.lefthalf.filled"
             ))
         }
 
@@ -273,7 +277,9 @@ enum PatternGenerator {
                 title: "Degenerative sygdomme",
                 description: "Progressiv nedbrydning af væv og celler.",
                 diseases: degenerative,
-                keywords: ["degenerativ", "progressiv", "atrofi"]
+                keywords: ["degenerativ", "progressiv", "atrofi"],
+                color: .brown,
+                icon: "clock.arrow.2.circlepath"
             ))
         }
 
@@ -289,7 +295,9 @@ enum PatternGenerator {
                 title: "Vaskulære sygdomme",
                 description: "Sygdomme i blodkar og kredsløb.",
                 diseases: vascular,
-                keywords: ["iskæmi", "trombe", "emboli", "aterosklerose"]
+                keywords: ["iskæmi", "trombe", "emboli", "aterosklerose"],
+                color: .pink,
+                icon: "heart.fill"
             ))
         }
 
@@ -305,7 +313,9 @@ enum PatternGenerator {
                 title: "Metaboliske & livsstilssygdomme",
                 description: "Sygdomme knyttet til stofskifte, kost og livsstil.",
                 diseases: metabolic,
-                keywords: ["insulin", "metabolisk", "overvægt", "livsstil"]
+                keywords: ["insulin", "metabolisk", "overvægt", "livsstil"],
+                color: .green,
+                icon: "fork.knife"
             ))
         }
 
@@ -316,10 +326,12 @@ enum PatternGenerator {
         if inflammatory.count >= 2 {
             clusters.append(ThemeCluster(
                 id: "inflammatory",
-                title: "Inflammatoriske sygdomme (ikke-autoimmune)",
-                description: "Sygdomme med inflammation uden autoimmun mekanisme.",
+                title: "Inflammatoriske sygdomme",
+                description: "Inflammation som central mekanisme, ikke-autoimmun.",
                 diseases: inflammatory,
-                keywords: ["inflammation", "neutrofiler", "cytokiner"]
+                keywords: ["inflammation", "neutrofiler", "cytokiner"],
+                color: .orange,
+                icon: "flame.fill"
             ))
         }
 
@@ -335,7 +347,9 @@ enum PatternGenerator {
                 title: "Neurodegenerative sygdomme",
                 description: "Progressiv degeneration af nerveceller.",
                 diseases: neurodegen,
-                keywords: ["neurodegenerativ", "dopamin", "amyloid", "tau"]
+                keywords: ["neurodegenerativ", "dopamin", "amyloid", "tau"],
+                color: .purple,
+                icon: "brain.head.profile"
             ))
         }
 
@@ -347,7 +361,9 @@ enum PatternGenerator {
                 title: "Kræftsygdomme",
                 description: "Maligne sygdomme med ukontrolleret cellevækst.",
                 diseases: cancer,
-                keywords: ["kræft", "tumor", "malign", "metastase"]
+                keywords: ["kræft", "tumor", "malign", "metastase"],
+                color: .indigo,
+                icon: "cross.case.fill"
             ))
         }
 
@@ -359,7 +375,9 @@ enum PatternGenerator {
                 title: "Psykiske sygdomme",
                 description: "Sygdomme i det mentale spektrum.",
                 diseases: psychiatric,
-                keywords: ["psykose", "depression", "mani", "hallucination"]
+                keywords: ["psykose", "depression", "mani", "hallucination"],
+                color: .teal,
+                icon: "figure.mind.and.body"
             ))
         }
 
