@@ -4,14 +4,16 @@ struct MainTabView: View {
     @StateObject private var dataLoader = DataLoader()
 
     #if os(macOS)
-    enum Tab: Hashable { case training, lexicon, prevalence, cheatsheet, glossary, reading }
-    @State private var selection: Tab? = .training
+    enum Tab: Hashable { case exam, training, lexicon, prevalence, cheatsheet, glossary, reading }
+    @State private var selection: Tab? = .exam
     #endif
 
     var body: some View {
         #if os(macOS)
         NavigationSplitView {
             List(selection: $selection) {
+                Label("Eksamen", systemImage: "graduationcap.fill")
+                    .tag(Tab.exam)
                 Label("Træning", systemImage: "brain.head.profile")
                     .tag(Tab.training)
                 Label("Leksikon", systemImage: "text.book.closed")
@@ -39,7 +41,9 @@ struct MainTabView: View {
             }
         } detail: {
             NavigationStack {
-                switch selection ?? .training {
+                switch selection ?? .exam {
+                case .exam:
+                    ExamFocusView(diseases: dataLoader.diseases)
                 case .training:
                     TrainingView(diseases: dataLoader.diseases)
                 case .lexicon:
@@ -58,6 +62,10 @@ struct MainTabView: View {
         .accentColor(.blue)
         #else
         TabView {
+            ExamFocusView(diseases: dataLoader.diseases)
+                .tabItem {
+                    Label("Eksamen", systemImage: "graduationcap.fill")
+                }
             TrainingView(diseases: dataLoader.diseases)
                 .tabItem {
                     Label("Træning", systemImage: "brain.head.profile")
