@@ -3,16 +3,22 @@ import SwiftUI
 struct ExamFocusView: View {
     let diseases: [Disease]
 
-    // Kun høj-prioritetssygdomme, sorteret efter kapitel → navn
-    private var focus: [Disease] {
+    // Primær fokus (orange)
+    private var primary: [Disease] {
         diseases
             .filter { DiseasePriority.tier(for: $0) == .high && !$0.isTopic }
             .sorted { $0.chapter == $1.chapter ? $0.name < $1.name : $0.chapter < $1.chapter }
     }
 
-    private var chapters: [String] {
-        Array(Set(focus.map { $0.chapter })).sorted()
+    // Sekundær fokus (blå)
+    private var secondaryDiseases: [Disease] {
+        diseases
+            .filter { DiseasePriority.tier(for: $0) == .secondary && !$0.isTopic }
+            .sorted { $0.chapter == $1.chapter ? $0.name < $1.name : $0.chapter < $1.chapter }
     }
+
+    // Alle i fokus — bruges til træningsværktøjerne
+    private var focus: [Disease] { primary + secondaryDiseases }
 
     // MARK: Sheet-state
     @State private var showingFlashcards      = false
@@ -106,7 +112,7 @@ struct ExamFocusView: View {
                 VStack(alignment: .leading, spacing: 2) {
                     Text("Eksamenstræning")
                         .font(.title2.bold())
-                    Text("\(focus.count) høj-prioritets sygdomme · baseret på eksamenshistorik")
+                    Text("\(primary.count) primære · \(secondaryDiseases.count) sekundære · \(focus.count) i alt")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                 }
@@ -145,38 +151,63 @@ struct ExamFocusView: View {
 
     // MARK: - Sygdomsoversigt
 
-    private var diseaseSection: some View {
-        VStack(alignment: .leading, spacing: 12) {
-            Text("SYGDOMME I FOKUS")
-                .font(.caption.bold())
-                .foregroundColor(.orange)
-                .tracking(1)
+    private var chapters: [String] {
+        Array(Set(focus.map { $0.chapter })).sorted()
+    }
 
-            ForEach(chapters, id: \.self) { chapter in
-                let rows = focus.filter { $0.chapter == chapter }
-                VStack(alignment: .leading, spacing: 6) {
-                    HStack(spacing: 6) {
+    private var diseaseSection: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            diseaseLayer(
+                title: "⭐ PRIMÆR FOKUS",
+                subtitle: "\(primary.count) sygdomme — sikreste eksamensemner",
+                diseases: primary,
+                color: .orange
+            )
+            diseaseLayer(
+                title: "SEKUNDÆR FOKUS",
+                subtitle: "\(secondaryDiseases.count) sygdomme — tænk bredt",
+                diseases: secondaryDiseases,
+                color: .blue
+            )
+        }
+    }
+
+    private func diseaseLayer(title: String, subtitle: String, diseases: [Disease], color: Color) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            VStack(alignment: .leading, spacing: 2) {
+                Text(title)
+                    .font(.caption.bold())
+                    .foregroundColor(color)
+                    .tracking(1)
+                Text(subtitle)
+                    .font(.caption2)
+                    .foregroundColor(.secondary)
+            }
+
+            let chaps = Array(Set(diseases.map { $0.chapter })).sorted()
+            ForEach(chaps, id: \.self) { chapter in
+                let rows = diseases.filter { $0.chapter == chapter }
+                VStack(alignment: .leading, spacing: 4) {
+                    HStack(spacing: 5) {
                         Image(systemName: rows.first?.chapterIcon ?? "book")
-                            .font(.caption)
+                            .font(.caption2)
                             .foregroundColor(.secondary)
                         Text(chapter)
-                            .font(.caption.bold())
+                            .font(.caption2)
                             .foregroundColor(.secondary)
                     }
-                    FlowLayout(spacing: 8) {
+                    FlowLayout(spacing: 6) {
                         ForEach(rows) { disease in
-                            Button {
-                                selectedDisease = disease
-                            } label: {
+                            Button { selectedDisease = disease } label: {
                                 Text(disease.name.components(separatedBy: " (").first ?? disease.name)
                                     .font(.subheadline.bold())
-                                    .foregroundColor(.orange)
+                                    .foregroundColor(color)
                                     .padding(.horizontal, 10)
                                     .padding(.vertical, 6)
-                                    .background(Color.orange.opacity(0.1))
+                                    .background(color.opacity(0.1))
                                     .cornerRadius(8)
                                     .overlay(RoundedRectangle(cornerRadius: 8)
-                                        .stroke(Color.orange.opacity(0.3), lineWidth: 1))
+                                        .stroke(color.opacity(0.3), lineWidth: 1))
                             }
                             .buttonStyle(.plain)
                         }
@@ -184,6 +215,9 @@ struct ExamFocusView: View {
                 }
             }
         }
+        .padding()
+        .background(color.opacity(0.04))
+        .cornerRadius(12)
     }
 
     // MARK: - Træningsknapper
