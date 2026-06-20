@@ -51,7 +51,7 @@ struct ThemeCluster: Identifiable {
     let title: String
     let description: String
     let diseases: [Disease]
-    let keywords: [String]
+    let sharedTraits: [String]  // kliniske sætninger der forklarer hvad sygdommene deler
     let color: Color
     let icon: String
 }
@@ -263,7 +263,12 @@ enum PatternGenerator {
                 title: "Autoimmune sygdomme",
                 description: "Immunsystemet angriber kroppens egne væv.",
                 diseases: autoimmune,
-                keywords: ["autoimmun", "antistoffer", "inflammation"],
+                sharedTraits: [
+                    "Immunsystemet danner autoantistoffer mod kroppens egne strukturer",
+                    "Behandles med immunsuppression: steroider, DMARD eller biologisk medicin",
+                    "Forløb præget af forværringer (flare-ups) og remissioner",
+                    "Kvinder rammes hyppigere end mænd"
+                ],
                 color: .red,
                 icon: "shield.lefthalf.filled"
             ))
@@ -277,7 +282,12 @@ enum PatternGenerator {
                 title: "Degenerative sygdomme",
                 description: "Progressiv nedbrydning af væv og celler.",
                 diseases: degenerative,
-                keywords: ["degenerativ", "progressiv", "atrofi"],
+                sharedTraits: [
+                    "Progredierende og irreversibel nedbrydning af væv eller celler",
+                    "Ingen kurativ behandling — behandling er symptomatisk og understøttende",
+                    "Hyppigere med stigende alder (aldersrelateret risiko)",
+                    "Rehabilitering og fysioterapi er vigtige dele af behandlingen"
+                ],
                 color: .brown,
                 icon: "clock.arrow.2.circlepath"
             ))
@@ -295,7 +305,12 @@ enum PatternGenerator {
                 title: "Vaskulære sygdomme",
                 description: "Sygdomme i blodkar og kredsløb.",
                 diseases: vascular,
-                keywords: ["iskæmi", "trombe", "emboli", "aterosklerose"],
+                sharedTraits: [
+                    "Fælles mekanisme: nedsat blodforsyning (iskæmi) til et organ pga. okklusion",
+                    "Aterosklerose og trombedannelse er de hyppigste årsager",
+                    "Delte risikofaktorer: hypertension, rygning, diabetes og hyperlipidæmi",
+                    "Forebygges og behandles med antitrombotisk medicin og livsstilsændringer"
+                ],
                 color: .pink,
                 icon: "heart.fill"
             ))
@@ -313,7 +328,12 @@ enum PatternGenerator {
                 title: "Metaboliske & livsstilssygdomme",
                 description: "Sygdomme knyttet til stofskifte, kost og livsstil.",
                 diseases: metabolic,
-                keywords: ["insulin", "metabolisk", "overvægt", "livsstil"],
+                sharedTraits: [
+                    "Livsstilsændringer (kost, motion, vægttab) er første og vigtigste behandling",
+                    "Alle øger risikoen for kardiovaskulær sygdom og tidlig død",
+                    "Kroniske tilstande der kræver livslang opfølgning",
+                    "Overvægt og fysisk inaktivitet er fælles risikofaktorer"
+                ],
                 color: .green,
                 icon: "fork.knife"
             ))
@@ -329,7 +349,11 @@ enum PatternGenerator {
                 title: "Inflammatoriske sygdomme",
                 description: "Inflammation som central mekanisme, ikke-autoimmun.",
                 diseases: inflammatory,
-                keywords: ["inflammation", "neutrofiler", "cytokiner"],
+                sharedTraits: [
+                    "Inflammation (ikke autoimmun) er den centrale patogenetiske mekanisme",
+                    "Forhøjet CRP og leukocytter ved aktiv sygdom",
+                    "Behandles med NSAID, kortikosteroider eller antibiotika afhængigt af årsag"
+                ],
                 color: .orange,
                 icon: "flame.fill"
             ))
@@ -347,7 +371,12 @@ enum PatternGenerator {
                 title: "Neurodegenerative sygdomme",
                 description: "Progressiv degeneration af nerveceller.",
                 diseases: neurodegen,
-                keywords: ["neurodegenerativ", "dopamin", "amyloid", "tau"],
+                sharedTraits: [
+                    "Progressivt og irreversibelt tab af specifikke nerveceller",
+                    "Ingen helbredende behandling — kun symptomatisk lindring",
+                    "Debut typisk i høj alder (50–70 år)",
+                    "Protein-aflejringer (amyloid, tau, α-synuklein) ses i hjernevæv"
+                ],
                 color: .purple,
                 icon: "brain.head.profile"
             ))
@@ -361,7 +390,12 @@ enum PatternGenerator {
                 title: "Kræftsygdomme",
                 description: "Maligne sygdomme med ukontrolleret cellevækst.",
                 diseases: cancer,
-                keywords: ["kræft", "tumor", "malign", "metastase"],
+                sharedTraits: [
+                    "Ukontrolleret celledeling med evne til invasion og fjernmetastaser",
+                    "Behandles med kirurgi, kemoterapi og/eller strålebehandling",
+                    "Stadieindeling (I–IV) er afgørende for valg af behandling og prognose",
+                    "Tidlig diagnostik forbedrer overlevelsen markant"
+                ],
                 color: .indigo,
                 icon: "cross.case.fill"
             ))
@@ -375,7 +409,12 @@ enum PatternGenerator {
                 title: "Psykiske sygdomme",
                 description: "Sygdomme i det mentale spektrum.",
                 diseases: psychiatric,
-                keywords: ["psykose", "depression", "mani", "hallucination"],
+                sharedTraits: [
+                    "Diagnosticeres klinisk efter ICD-10 kriterier — ingen blodprøver eller skanninger",
+                    "Stor komorbiditet: psykiske lidelser optræder ofte sammen",
+                    "Behandles med psykofarmaka og/eller psykoterapi (kombination er bedst)",
+                    "Stigma er en væsentlig barriere for at søge hjælp"
+                ],
                 color: .teal,
                 icon: "figure.mind.and.body"
             ))

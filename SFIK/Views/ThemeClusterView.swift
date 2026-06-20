@@ -132,22 +132,28 @@ struct ThemeClusterView: View {
 
                     // Fælles / bro
                     VStack(alignment: .leading, spacing: 8) {
-                        Label("FÆLLES", systemImage: "link")
+                        Label("FÆLLES FOR ALLE", systemImage: "link")
                             .font(.caption2.bold())
                             .foregroundColor(cluster.color)
                             .tracking(0.8)
 
-                        FlowLayout(spacing: 6) {
-                            ForEach(cluster.keywords, id: \.self) { kw in
-                                Text(kw)
-                                    .font(.caption.bold())
-                                    .padding(.horizontal, 9)
-                                    .padding(.vertical, 3)
-                                    .background(cluster.color.opacity(0.1))
-                                    .foregroundColor(cluster.color)
-                                    .clipShape(Capsule())
+                        VStack(alignment: .leading, spacing: 6) {
+                            ForEach(cluster.sharedTraits, id: \.self) { trait in
+                                HStack(alignment: .top, spacing: 8) {
+                                    Image(systemName: "checkmark.circle.fill")
+                                        .font(.caption)
+                                        .foregroundColor(cluster.color)
+                                        .padding(.top, 1)
+                                    Text(trait)
+                                        .font(.subheadline)
+                                        .foregroundColor(.primary)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                }
                             }
                         }
+                        .padding(12)
+                        .background(cluster.color.opacity(0.06))
+                        .cornerRadius(10)
                     }
 
                     Divider()
