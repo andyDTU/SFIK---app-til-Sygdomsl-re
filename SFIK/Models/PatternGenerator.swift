@@ -1,4 +1,5 @@
 import Foundation
+import SwiftUI
 
 // MARK: - Data Models
 
@@ -29,6 +30,18 @@ enum PatternCategory: String, CaseIterable {
         case .diagnostics: return "stethoscope"
         case .complications: return "arrow.triangle.branch"
         case .epidemiology: return "chart.bar.fill"
+        }
+    }
+
+    var color: Color {
+        switch self {
+        case .treatment: return .blue
+        case .genetics: return .purple
+        case .riskFactor: return .orange
+        case .pathogenesis: return .red
+        case .diagnostics: return .teal
+        case .complications: return .pink
+        case .epidemiology: return .green
         }
     }
 }
