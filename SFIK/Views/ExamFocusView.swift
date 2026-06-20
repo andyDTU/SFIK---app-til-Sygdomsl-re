@@ -33,6 +33,7 @@ struct ExamFocusView: View {
     @State private var showingDiseaseWeb      = false
     @State private var selectedDisease: Disease? = nil
     @State private var showingDashboard       = false
+    @State private var showingSpeechCards     = false
 
     @ObservedObject private var store = SpacedRepetitionStore.shared
 
@@ -81,6 +82,9 @@ struct ExamFocusView: View {
         }
         .sheet(isPresented: $showingDiseaseWeb) {
             DiseaseWebView(diseases: focus).trainingSheetFrame()
+        }
+        .sheet(isPresented: $showingSpeechCards) {
+            SpeechCardView(diseases: diseases).trainingSheetFrame()
         }
         .sheet(isPresented: $showingDashboard) {
             ProgressDashboardView(diseases: focus).trainingSheetFrame()
@@ -290,6 +294,11 @@ struct ExamFocusView: View {
             TrainingCard(title: "Sygdomsweb",
                          description: "Udforsk forbindelserne mellem eksamens-sygdommene.",
                          icon: "point.3.connected.trianglepath.dotted", color: .blue)
+        }
+        Button { showingSpeechCards = true } label: {
+            TrainingCard(title: "Taleagtige kort",
+                         description: "Stikord per felt for hver sygdom — tal udfra dem og lær dem udenad.",
+                         icon: "text.bubble.fill", color: .indigo)
         }
     }
 
