@@ -1,0 +1,730 @@
+[
+  {
+    "id": "hjerteinfarkt",
+    "name": "Akut myokardieinfarkt (AMI)",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut iskæmisk nekrose af hjertemuskulatur pga. pludselig okklusion af koronararterie, typisk ved aterosklerotisk plakruptur med trombedannelse\n- **Tal:** Ca. 10.000 AMI/år i Danmark\n- **Patogenese:** 💡 plakruptur → trombe → okklusion → iskæmi → **nekrose**\n- **Symptomer:** 💡 trykkende brystsmerte >20 min, udstråling arm/kæbe, kvalme, sved (atypisk ♀/diabetikere)\n- **Diag:** EKG (ST-elevation ved STEMI)\n- **Beh:** Primær PCI (ballonudvidelse) inden for 90 min ved STEMI – guldstandard\n- **Følger:** Hjerterytmeforstyrrelser ses hos op til 70-80 % i de første timer/døgn: ventrikelflimren (hyppigst tidligt, behandles akut med DC-konvertering), sinusbradykardi (ca. ⅓, især ved bagvægsinfarkt, vagusmedieret) og AV-blok (ca. 5 % får tredjegrads-AV-blok)"
+  },
+  {
+    "id": "angina_pectoris",
+    "name": "Angina pectoris",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Forbigående brystsmerter forårsaget af myokardial iskæmi (ubalance mellem iltbehov og ilttilbud i hjertet), uden celledød\n- **Tal:** Ca. 160.000 danskere\n- **Patogenese:** 💡 fast plak → nedsat koronarreserve → iskæmi ved anstrengelse, svinder ved hvile/nitro\n- **Symptomer:** 💡 Stabil: brysttryk/-smerte ved anstrengelse, letter ved hvile (<5 min) eller nitroglycerin\n- **Diag:** EKG (under anfald: ST-depression)\n- **Beh:** Stabil: nitroglycerin (akut), betablokkere, calciumantagonister, statiner, ASA\n- **Følger:** Den alvorlige risiko opstår, hvis der sker plaqueruptur i et stabilt plaque med trombedannelse → akut koronart syndrom: ustabil angina pectoris, akut myokardieinfarkt (AMI) eller pludselig død"
+  },
+  {
+    "id": "aterosklerose",
+    "name": "Aterosklerose (åreforkalkning)",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kronisk inflammatorisk karsygdom i store og mellemstore arterier, hvor der dannes plaques (bestående af fedtnekrose og/eller arvæv), som nedsætter blodgennemstrømningen og giver iltmangel i de forsynede organer\n- **Tal:** Den hyppigste dødsårsag — ansvarlig for ca. en tredjedel af alle dødsfald i Danmark (ca. 12.000/år)\n- **Patogenese:** 💡 kolesterol + monocytter i karvæg → skumceller → plak (athere + fibrøs kappe)\n- **Symptomer:** 💡 Udvikler sig symptomfrit gennem årtier\n- **Diag:** De diagnostiske undersøgelser afhænger af, hvilket karområde/organ der er ramt (gennemgås under iskæmisk hjertesygdom og cerebrovaskulære sygdomme)\n- **Beh:** Kan ikke helbredes, men udviklingen kan bremses\n- **Følger:** Aterosklerosens følgesygdomme afhænger af plaquets dele: fedtnekrosen giver plaqueruptur og trombose med akut myokardieinfarkt og iskæmisk apopleksi (blodprop i hjernen), mens den fibrøse kappe giver forsnævring med angina pectoris og claudicatio intermittens"
+  },
+  {
+    "id": "atrieflimren",
+    "name": "Atrieflimren",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Hyppigste vedvarende hjertearytmi, karakteriseret ved ukoordineret atrial elektrisk aktivitet og irregulær ventrikelfrekvens\n- **Tal:** Ca. 80.000 danskere\n- **Patogenese:** 💡 multiple re-entry-kredse i atrierne → uregelmæssig ventrikelrytme\n- **Symptomer:** 💡 palpitationer, dyspnø, svimmelhed — ofte asymptomatisk\n- **Diag:** EKG (irregulær basislinje, ingen P-bølger, irregulær RR-interval)\n- **Beh:** Frekvenskontrol (betablokkere, digoxin)\n- **Følger:** Den nedsatte atriekontraktion giver stase og trombedannelse i atrierne → tromboemboli: apopleksi (embolia cerebri) med ca. 6x øget risiko — atrieflimren er ansvarlig for ca. 25 % af alle apopleksitilfælde og er den alvorligste komplikation — samt perifer arteriel emboli"
+  },
+  {
+    "id": "claudicatio",
+    "name": "Claudicatio intermittens (perifer arteriesygdom)",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Karsygdom med forsnævrede pulsårer og nedsat blodforsyning til benene (perifer arteriesygdom, PAD)\n- **Tal:** Stiger kraftigt med alderen; op mod 5 % af 70-årige mænd har symptomer\n- **Patogenese:** 💡 aterosklerose i benarterier → iltmangel under gang\n- **Symptomer:** 💡 krampe i læg ved gang, svinder ved hvile ('vindueskigger')\n- **Diag:** Ankel-Brachial Index (ABI): <0,9 indikerer nedsat perfusion; ~0,3 truende koldbrand\n- **Beh:** Totalt rygestop + daglig gangtræning til smertegrænsen (fremmer kollateralkar)\n- **Følger:** Den underliggende universelle aterosklerose betyder, at de fleste også har symptomgivende iskæmisk hjerte-kar-sygdom fra andre organer, især hjertet (betydelig overdødelighed pga. AMI)"
+  },
+  {
+    "id": "dvt",
+    "name": "Dyb venøs trombose (DVT)",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut tilstand med dannelse af en fibrintrombe (blodprop) i de dybe vener i ben eller bækken\n- **Tal:** Ca. 6.000 tilfælde/år i Danmark\n- **Patogenese:** 💡 **Virchows triade**: stase + hyperkoagulabilitet + endotelskade\n- **Symptomer:** 💡 ensidigt hævet, øm, varm, rød læg\n- **Diag:** Kompressions-ultralyd af benets vener (primær metode); D-dimer og venografi kan støtte\n- **Beh:** Omgående antikoagulation (lavmolekylært heparin, derefter NOAK/warfarin i længere tid) + kompressionsstrømpe\n- **Følger:** Lungeemboli er den akutte og mest frygtede komplikation (tromben river sig løs og føres til lungerne) — kan være livstruende og medføre hjertestop; ubehandlet udvikler ca. 50 % lungeemboli"
+  },
+  {
+    "id": "hjertesvigt",
+    "name": "Hjertesvigt",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Tilstand hvor hjertet ikke kan pumpe tilstrækkeligt blod til at opfylde kroppens behov, eller kun kan det ved forhøjet fyldningstryk\n- **Tal:** Ca. 60.000-70.000 danskere\n- **Patogenese:** 💡 myokardieskade → RAAS + sympatikus → remodellering (ond cirkel)\n- **Symptomer:** 💡 dyspnø, ortopnø, perifere ødemer, træthed (NYHA I-IV)\n- **Diag:** Ekkokardiografi (EF, hjertestørrelse)\n- **Beh:** ACE-hæmmer/ARB/ARNI, betablokkere, MRA (aldosteronantagonist), SGLT-2 hæmmer (HFrEF)\n- **Følger:** Fremadskridende sygdom med dårlig prognose trods behandling"
+  },
+  {
+    "id": "hypertension",
+    "name": "Hypertension (forhøjet blodtryk)",
+    "chapter": "Hjerte-kar-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Vedvarende forhøjet blodtryk ≥140/90 mmHg (klinisk måling)\n- **Tal:** Ca. 30% af voksne danskere\n- **Patogenese:** 💡 øget perifer karmodstand (95% essentiel)\n- **Symptomer:** 💡 oftest symptomløs ('den stille dræber')\n- **Diag:** Blodtryksmåling (gentagne målinger)\n- **Beh:** Livsstilsændringer (vægttab, salt, motion, alkohol)\n- **Følger:** Ubehandlet eller utilstrækkeligt behandlet hypertension giver hypertensiv organpåvirkning af hjerne, hjerte, nyrer og øjne (retinopati) og øget risiko for iskæmisk hjerte-kar-sygdom: apopleksi, AMI, pludselig død, hjerteinsufficiens, nyresygdom og perifer karsygdom"
+  },
+  {
+    "id": "astma",
+    "name": "Astma",
+    "chapter": "Lungesygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kronisk inflammatorisk atemvejssygdom karakteriseret ved reversibel luftvejsobstruktion, luftvejshyperreaktivitet og inflammation\n- **Tal:** Ca. 300.000 danskere (5-8% af befolkningen)\n- **Patogenese:** 💡 allergen → IgE/mastceller → bronkospasme + ødem + slim (**reversibel**)\n- **Symptomer:** 💡 pibende vejrtrækning, værst om natten/ved anstrengelse\n- **Diag:** Spirometri (FEV1/FVC ratio, reversibilitet ved bronkodilatator ≥12%)\n- **Beh:** Trinsbehandling. Korttidsvirkende beta-2 agonist (SABA – salbutamol) ved behov\n- **Følger:** De væsentligste risici er akutte forværringer (eksacerbationer), herunder livstruende anfald (status asthmaticus)"
+  },
+  {
+    "id": "idf",
+    "name": "Idiopatisk pulmonal fibrose (IPF)",
+    "chapter": "Lungesygdomme",
+    "high": false,
+    "body": "- **Hvad:** Progressiv, irreversibel arskanning (fibrose) af lungevævet af ukendt årsag, med forringelse af gasudveksling\n- **Tal:** Sjælden sygdom: prævalens ca. 10/100.000\n- **Patogenese:** 💡 gentagne epitelskader → abnorm sårheling → fibrose\n- **Symptomer:** 💡 tiltagende åndenød, tør hoste, krepitation, urglasnegle\n- **Diag:** HRCT (høj-oplösnings CT): 'honeycombing' mønster\n- **Beh:** Antifibrotisk medicin: nintedanib og pirfenidon (bremser progression, kurerer ikke)\n- **Følger:** Akutte eksacerbationer (influenzalignende episoder med faldende lungefunktion og øget iltbehov) medfører accelereret tab af lungefunktion og har meget høj mortalitet (1-års mortalitet op mod 80-90 %)"
+  },
+  {
+    "id": "kol",
+    "name": "KOL (kronisk obstruktiv lungesygdom)",
+    "chapter": "Lungesygdomme",
+    "high": true,
+    "body": "- **Hvad:** Progressiv, ikke-fuldt reversibel luftvejsobstruktion forårsaget af kronisk inflammation i luftvejene, typisk pga. tobaksrøg\n- **Tal:** Ca. 320.000 danskere (mange udiagnosticerede)\n- **Patogenese:** 💡 røg → inflammation → enzymer nedbryder lungevæv → emfysem + kronisk bronkitis (**irreversibel**)\n- **Symptomer:** 💡 snigende dyspnø, hoste, opspyt, eksacerbationer\n- **Diag:** Spirometri (post-bronkodilatator FEV1/FVC < 0,70 = obstruktion)\n- **Beh:** Stop rygning (vigtigste!)\n- **Følger:** KOL er ofte ledsaget af komorbiditeter, der øger sygelighed og dødelighed: iskæmisk hjerte-kar-sygdom, lungekræft og osteoporose (forekommer hyppigt, også korrigeret for rygning), angst og depression (op mod 50 %), pneumoni (øget ved inhalationssteroid) og respirationsinsufficiens"
+  },
+  {
+    "id": "akut_nyresvigt",
+    "name": "Akut nyresvigt (akut nyreskade)",
+    "chapter": "Nyre- og urinvejssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Hurtigt indsættende, kraftig reduktion af nyrernes glomerulære filtration (GFR)\n- **Tal:** Ses som sekundær tilstand hos ca. 5 % af alle indlagte og 15-30 % af kritisk syge på intensiv\n- **Patogenese:** 💡 **præ**-renal (lavt flow) / **intra**-renal (nyreskade) / **post**-renal (afløbsstop)\n- **Symptomer:** 💡 oliguri/anuri, stigende kreatinin, hyperkaliæmi\n- **Diag:** Blodprøver: stigende kreatinin og karbamid, acidose og kritisk forhøjet kalium\n- **Beh:** Behandl den udløsende årsag\n- **Følger:** Akut hyperkaliæmi kan give livstruende hjertearytmier"
+  },
+  {
+    "id": "nyresvigt",
+    "name": "Kronisk nyresvigt (CKD)",
+    "chapter": "Nyre- og urinvejssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Vedvarende (>3 måneder) nedsat nyrefunktion (eGFR < 60 ml/min/1,73 m²) eller strukturel nyreskade\n- **Tal:** Ca. 10% af befolkningen har CKD (alle stadier)\n- **Patogenese:** 💡 vedvarende nefrontab → ↓GFR → uræmi\n- **Symptomer:** 💡 sent: træthed, ødemer, kløe, kvalme, anæmi\n- **Diag:** eGFR (kreatinin-baseret)\n- **Beh:** Behandle grundsygdom. Blodtrykskontrol (ACE-hæmmer/ARB)\n- **Følger:** Systemisk uræmi. Hjerte-kar-sygdom (iskæmisk hjertesygdom og hjertesvigt er de hyppigste dødsårsager hos disse patienter)"
+  },
+  {
+    "id": "prostatahypertrofi",
+    "name": "Prostatahypertrofi (godartet forstørret blærehalskirtel)",
+    "chapter": "Nyre- og urinvejssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Aldersbetinget benign (godartet) forstørrelse af blærehalskirtlen (prostata) pga. hyperplasi af vævet omkring urinrøret\n- **Tal:** Ses hos >75 % af alle 70-årige mænd; prostata vokser ca. 2-2,5 % årligt\n- **Patogenese:** 💡 aldersbetinget hyperplasi → afløbshindring\n- **Symptomer:** 💡 LUTS: svag stråle, nykturi, efterdryp, trang\n- **Diag:** Anamnese med symptomscore (IPSS), rektaleksploration, urinstix (hæmaturi), flowmetri (flow <10 ml/s tyder på obstruktion), residualurin (ultralyd)\n- **Beh:** Afventende ved lette symptomer\n- **Følger:** Akut urinretention (total vandladningsstop) hos ca. 25 %"
+  },
+  {
+    "id": "urininkontinens",
+    "name": "Urininkontinens",
+    "chapter": "Nyre- og urinvejssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Ufrivillig afgang af urin i et omfang, der er et socialt og/eller hygiejnisk problem\n- **Tal:** Ca. hver 10\n- **Patogenese:** 💡 **stress** (svag lukkemuskel) vs **urge** (overaktiv blære)\n- **Symptomer:** 💡 Stress: lækage ved hoste, nys, løft og fysisk aktivitet\n- **Diag:** Anamnese og vandladningsskema (miktionsliste), urinstix (udeluk infektion), gynækologisk undersøgelse (fremfald), residualurin\n- **Beh:** Stress: bækkenbundstræning (1\n- **Følger:** Kronisk hudirritation/hudproblemer i skridtet"
+  },
+  {
+    "id": "apopleksi",
+    "name": "Apopleksi (slagtilfælde)",
+    "chapter": "Neurologiske sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Pludselig opstået fokal neurologisk udfald pga. enten iskæmi (blodprop, 85%) eller blødning (15%) i hjernen\n- **Tal:** Ca. 12.000 tilfælde/år i Danmark\n- **Patogenese:** 💡 iskæmi (85%) eller blødning (15%) → fokalt udfald\n- **Symptomer:** 💡 **FAST**: Face, Arm, Speech, Time\n- **Diag:** Akut CT-scanning (udelukker blødning)\n- **Beh:** Iskæmisk: trombolyse inden for 4,5 timer (alteplase) eller mekanisk trombektomi inden for 24 timer\n- **Følger:** Varige fysiske handicap (oftest spastisk hemiparese)"
+  },
+  {
+    "id": "demens_alzheimers",
+    "name": "Demens (Alzheimers sygdom)",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Progressivt syndrom med erhvervet svækkelse af kognitive funktioner (hukommelse, sprog, ræsonnement) i en grad, der forstyrrer daglig funktion\n- **Tal:** Ca. 90.000 danskere med demens\n- **Patogenese:** 💡 amyloid-plaques + tau-tangler → neurondegeneration\n- **Symptomer:** 💡 korttidshukommelse svigter først → senere total afhængighed\n- **Diag:** Klinisk vurdering (MMSE, ACE)\n- **Beh:** Symptomatisk: kolinesterasehæmmere (donepezil, rivastigmin) ved let-moderat Alzheimers\n- **Følger:** Progredierende tab af funktionsevne fører til total afhængighed og plejebehov"
+  },
+  {
+    "id": "epiduralt_haematom",
+    "name": "Epiduralt hæmatom",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Blødning i det epidurale rum mellem kraniets inderside og dura mater — en sjælden, men alvorlig komplikation til hovedtraume\n- **Tal:** Ca. 10.000 indlægges årligt i DK med hovedtraume; epiduralt hæmatom ses hos 1-2 % af disse\n- **Patogenese:** 💡 a. meningea media-ruptur (kraniebrud) → **arteriel** blødning\n- **Symptomer:** 💡 **frit interval** → tiltagende bevidsthedssvækkelse + udvidet pupil\n- **Diag:** Akut CT-scanning af hjernen — epiduralt hæmatom ses som en hvidlig, bikonveks ansamling mellem kranie og hjerne\n- **Beh:** Akut neurokirurgisk operation med udtømmelse af hæmatomet via et borehul i kraniet\n- **Følger:** Permanente neurologiske udfald afhængigt af den primære hjerneskade"
+  },
+  {
+    "id": "epilepsi",
+    "name": "Epilepsi",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kronisk hjernesygdom karakteriseret ved tilbagevendende epileptiske anfald (≥2 uprovokerede anfald) pga. unormal elektrisk aktivitet i hjernen\n- **Tal:** Ca. 60.000 danskere med epilepsi\n- **Patogenese:** 💡 synkron, abnorm elektrisk udladning i neuroner\n- **Symptomer:** 💡 generaliseret (kramper + bevidsthedstab) eller fokal/absencer\n- **Diag:** EEG (elektrisk aktivitet)\n- **Beh:** Antiepileptisk medicin (fx valproat, lamotrigin, levetiracetam)\n- **Følger:** Anfald medfører risiko for skader: tandskader, flænger og frakturer (epilepsipatienter kommer hyppigere på skadestuen)"
+  },
+  {
+    "id": "multipel_sklerose",
+    "name": "Multipel sklerose (MS)",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kronisk autoimmun sygdom i CNS med inflammation, demyelinisering og aksonal skade, som giver multiple neurologiske udfald adskilt i tid og sted\n- **Tal:** 19.000 danskere (OBS: korrekt tal ifølge MS-foreningen – bogen angiver fejlagtigt lavere tal)\n- **Patogenese:** 💡 autoimmun demyelinisering i CNS — **adskilt i tid og sted**\n- **Symptomer:** 💡 opticusneuritis, paræstesier, spasticitet, træthed, blæreproblemer\n- **Diag:** McDonald-kriterierne (klinisk + MR)\n- **Beh:** Attakbehandling: højdosis kortikosteroid\n- **Følger:** Tiltagende neurologisk invaliditet (ca. 50 % behøver ganghjælpemidler efter 15 år) med spasticitet, ataksi og synstab"
+  },
+  {
+    "id": "parkinsons",
+    "name": "Parkinsons sygdom",
+    "chapter": "Neurologiske sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Progressiv neurodegenerativ sygdom med degeneration af dopaminproducerende neuroner i substantia nigra, karakteriseret ved motoriske og non-motoriske symptomer\n- **Tal:** Ca. 8.000-10.000 danskere\n- **Patogenese:** 💡 tab af dopaminerge neuroner i **substantia nigra**\n- **Symptomer:** 💡 **TRAP**: Tremor (hvile), Rigiditet, Akinesi/bradykinesi, Posturale problemer\n- **Diag:** Klinisk diagnose (ingen definitiv biomarkør)\n- **Beh:** Levodopa (guldstandard) + carbidopa\n- **Følger:** Autonom dysfunktion (forstoppelse og ortostatisk hypotension) og REM-søvnforstyrrelser (livlige drømme, voldsomme bevægelser) — begge kan gå forud for de motoriske symptomer"
+  },
+  {
+    "id": "subaraknoidalbloedning",
+    "name": "Subaraknoidalblødning (SAH)",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Blødning ud i subaraknoidalrummet over store dele af hjernens overflade, oftest pga. bristning af et sækformet (sakkulært) aneurisme på en hjernearterie\n- **Tal:** Ca. 80 % skyldes et bristet aneurisme\n- **Patogenese:** 💡 bristet aneurisme → blod i subaraknoidalrummet\n- **Symptomer:** 💡 '**tordenskrald**'-hovedpine (værste nogensinde) + nakkestivhed\n- **Diag:** Akut CT-scanning (blod i subaraknoidalrummet)\n- **Beh:** Behandles på neurointensivt afsnit: stabilisering og behandling af forhøjet intrakranielt tryk og vasospasmer\n- **Følger:** Vasospasmer med sekundær iskæmi/infarkt (frygtet)"
+  },
+  {
+    "id": "subduralt_haematom",
+    "name": "Subduralt hæmatom",
+    "chapter": "Neurologiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Blødning i det subdurale rum mellem dura mater og arachnoidea mater\n- **Tal:** Akut subduralt hæmatom ses hos ca. 20 % af svære hovedtraumer (~200/år i DK)\n- **Patogenese:** 💡 brovene-ruptur → **venøs** blødning (akut: traume / kronisk: ældre m. atrofi)\n- **Symptomer:** 💡 akut: bevidsthedssvækkelse; kronisk: snigende konfusion/gangbesvær\n- **Diag:** CT-scanning af hjernen (både akut og kronisk subduralt hæmatom)\n- **Beh:** Neurokirurgisk udtømmelse af hæmatomet via borehuller i kraniet (både akut og kronisk)\n- **Følger:** Symptomatisk epilepsi som følge af fokal hjerneskade"
+  },
+  {
+    "id": "adipositas",
+    "name": "Adipositas (svær overvægt)",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Kronisk sygdom karakteriseret ved overdreven fedtophobning (BMI ≥30 kg/m²) som udgør en risiko for helbredet\n- **Tal:** Ca. 17% af voksne danskere har BMI ≥30\n- **Patogenese:** 💡 kronisk positiv energibalance → fedtophobning → inflammation/insulinresistens\n- **Symptomer:** 💡 Øget BMI, abdominalt fedme (talje >88 cm kvinder, >102 cm mænd)\n- **Diag:** BMI: overvægt ≥25, adipositas ≥30, svær adipositas ≥40\n- **Beh:** Livsstilsintervention (kost + motion)\n- **Følger:** Markant øget sygelighed og dødelighed (næsten fordoblet ved BMI >40)"
+  },
+  {
+    "id": "hypertyreose",
+    "name": "Hypertyreose (forhøjet stofskifte)",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Tilstand med øget produktion og frigivelse af skjoldbruskkirtelhormoner (T3 og T4), som giver hypermetabolisme\n- **Tal:** Ca. 1% af befolkningen\n- **Patogenese:** 💡 Graves: **TSH-receptor-antistoffer** stimulerer kirtlen (T3/T4↑, TSH↓)\n- **Symptomer:** 💡 hypermetabolisme: nervøs, tremor, hjertebanken, vægttab, varmeintolerans, exoftalmus\n- **Diag:** TSH (supprimeret), fT4 og fT3 (forhøjet)\n- **Beh:** Antistruma-medicin (thiamazol)\n- **Følger:** Graves' orbitopati (øjenbetændelse med exoftalmus) ses ved næsten halvdelen af Graves' sygdom og er stærkt associeret med rygning (5 % kræver immundæmpende behandling)"
+  },
+  {
+    "id": "hypotyreose",
+    "name": "Hypotyreose (lavt stofskifte)",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Tilstand med nedsat produktion af skjoldbruskkirtelhormoner, som giver hypometabolisme\n- **Tal:** Ca. 2-3% af befolkningen\n- **Patogenese:** 💡 Hashimoto: autoimmun destruktion → T3/T4↓, TSH↑\n- **Symptomer:** 💡 hypometabolisme: træthed, kuldskær, vægtøgning, obstipation, tør hud\n- **Diag:** TSH (forhøjet), fT4 (lav)\n- **Beh:** Substitutionsbehandling med levothyroxin (L-thyroxin) – livslangt\n- **Følger:** Ubehandlet hypotyreose er en alvorlig, potentielt dødelig tilstand: forhøjet kolesterol, forhøjet blodtryk og øget risiko for hjertesygdom"
+  },
+  {
+    "id": "metabolisk_syndrom",
+    "name": "Metabolisk syndrom",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Klynge af metaboliske risikofaktorer: abdominal fedme + insulinresistens + hypertension + dyslipidæmi, som tilsammen øger risikoen for hjertekarsygdom og type 2-diabetes\n- **Tal:** Ca. 20-25% af voksne danskere\n- **Patogenese:** 💡 insulinresistens (visceralt fedt) i centrum\n- **Symptomer:** 💡 asymptomatisk — diagnose: ≥3 af 5 (talje, TG, HDL, BT, fasteglukose)\n- **Diag:** Mindst 3 af 5 kriterier: abdominal fedme (talje >94/80 cm mænd/kvinder), forhøjet triglycerider, lavt HDL, forhøjet blodtryk, forhøjet fasteblodsukker\n- **Beh:** Livsstilsændringer (vægttab, motion, sund kost)\n- **Følger:** Øger risikoen for type 2-diabetes ca. 6x og for hjerte-kar-sygdom 2-3x (med fordoblet kardiovaskulær mortalitet); MS er medvirkende ved ca. ⅓ af alle tilfælde af hjerte-kar-sygdom"
+  },
+  {
+    "id": "osteoporose",
+    "name": "Osteoporose (knogleskørhed)",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Systemisk skeletlidelse karakteriseret ved lav knoglemasse og forringet knoglekvalitet, der medfører øget frakturrisiko\n- **Tal:** Ca. 500.000 danskere\n- **Patogenese:** 💡 resorption > formation (østrogenmangel/alder) → lav knoglemasse\n- **Symptomer:** 💡 asymptomatisk indtil lavenergifraktur (hofte, ryg, håndled)\n- **Diag:** DXA-scanning (guldstandard): T-score ≤-2,5 = osteoporose\n- **Beh:** Bisfosfonater (alendronat, zoledronsyre) – hæmmer osteoklaster\n- **Følger:** Lavenergifrakturer er hovedkomplikationen: hoftefraktur (20-30 % dør inden for 1 år, mange mister selvstændighed), vertebrale kompressionsfrakturer (højdetab, kyfose, kroniske rygsmerter) og distal radiusfraktur (Colles)"
+  },
+  {
+    "id": "diabetes_type1",
+    "name": "Type 1-diabetes",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Autoimmun destruktion af de insulinproducerende beta-celler i pancreas, som fører til absolut insulinmangel og livslang insulinafhængighed\n- **Tal:** Ca. 25.000 danskere\n- **Patogenese:** 💡 autoimmun **β-celle-destruktion** → absolut insulinmangel\n- **Symptomer:** 💡 4 P'er: Polyuri, Polydipsi, vægttab, træthed (+ ketoacidose)\n- **Diag:** Fastende blodglukose ≥7,0 mmol/L eller HbA1c ≥48 mmol/mol eller tilfældig blodglukose ≥11,1 mmol/L\n- **Beh:** Livslang insulinbehandling (basal-bolus regime eller insulinpumpe)\n- **Følger:** Akutte: diabetisk ketoacidose (DKA, livstruende ved insulinmangel) og hypoglykæmi (behandlingsrelateret)"
+  },
+  {
+    "id": "diabetes_type2",
+    "name": "Type 2-diabetes",
+    "chapter": "Endokrine sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Metabolisk sygdom karakteriseret ved hyperglykæmi pga. insulinresistens og relativ insulinsekretionssvigt fra beta-cellerne\n- **Tal:** Ca. 320.000 diagnosticerede danskere + skønsmæssigt 100.000 udiagnosticerede\n- **Patogenese:** 💡 **insulinresistens** → β-celleudtrætning → relativ insulinmangel\n- **Symptomer:** 💡 ofte asymptomatisk i årevis; polyuri, polydipsi, træthed\n- **Diag:** Samme kriterier som type 1\n- **Beh:** Livsstilsændringer (vægttab, motion) – vigtigst!\n- **Følger:** Makrovaskulære komplikationer (aterosklerose) dominerer: myokardieinfarkt, angina, apopleksi, claudicatio og iskæmiske fodsår"
+  },
+  {
+    "id": "akut_lymfoblastaer_leukaemi",
+    "name": "Akut lymfoblastær leukæmi (ALL)",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En aggressiv form for blodkræft karakteriseret ved hurtig overproduktion af umodne lymfocytter (lymfoblaster) i knoglemarven\n- **Tal:** Den hyppigste kræftform hos børn (ca. 40 børn årligt i DK), men rammer også voksne (sjældnere)\n- **Patogenese:** 💡 umodne lymfoblaster → marvfortrængning\n- **Symptomer:** 💡 marvsvigt + evt. CNS-involvering\n- **Diag:** Blodprøver (anæmi, trombocytopeni, leukocytose med blaster)\n- **Beh:** Intensiv og langvarig kemoterapi (ofte i 2,5 år)\n- **Følger:** Knoglemarvssvigt med livstruende infektioner/sepsis, blødning og anæmi"
+  },
+  {
+    "id": "leukemi_aml",
+    "name": "Akut myeloid leukæmi (AML)",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** Malign proliferation af umodne myeloide forstadieceller (blasterne) som akkumuleres i knoglemarven og fortrænger normal blodcelleproduktion\n- **Tal:** Ca. 300-350 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 malign proliferation af umodne myeloide **blaster** → marvfortrængning\n- **Symptomer:** 💡 marvsvigt: anæmi + infektioner + blødning\n- **Diag:** Blodprøve: leukocytose (varierende), anæmi, trombocytopeni\n- **Beh:** Intensiv kemoterapi (induktion: cytarabin + daunorubicin '7+3')\n- **Følger:** Knoglemarvssvigt giver livstruende infektioner/sepsis (neutropeni), blødning (trombocytopeni, evt. DIC) og anæmi"
+  },
+  {
+    "id": "haemoragisk_diatese",
+    "name": "Hæmoragisk diatese (blødningssygdomme)",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En fællesbetegnelse for tilstande med øget tendens til blødning på grund af defekter i blodets evne til at størkne (koagulation)\n- **Tal:** Varierer. Von Willebrands sygdom er hyppig (1% af befolkningen), mens hæmofili (blødersygdom) er sjælden (ca\n- **Patogenese:** 💡 defekt i koagulation eller trombocytter\n- **Symptomer:** 💡 blødningstendens (hæmofili: ledblødninger)\n- **Diag:** Blodprøver: Trombocyttal, koagulationsfaktorer (APTT, INR, faktor-målinger)\n- **Beh:** Afhænger af årsagen. Tilførsel af manglende koagulationsfaktorer, desmopressin, tranexamsyre\n- **Følger:** Ved hæmofili fører gentagne ledblødninger til svær, invaliderende leddestruktion (hæmofil artropati)"
+  },
+  {
+    "id": "anemi_jern",
+    "name": "Jernmangelanæmi",
+    "chapter": "Blodsygdomme",
+    "high": true,
+    "body": "- **Hvad:** Anæmi pga. jernmangel → nedsat hæmoglobinsyntese → mikrocytær, hypokrom anæmi\n- **Tal:** Hyppigste anæmitype globalt\n- **Patogenese:** 💡 jernmangel → ↓hæmoglobinsyntese → mikrocytær, hypokrom\n- **Symptomer:** 💡 træthed, bleghed, dyspnø, hovedpine\n- **Diag:** Hæmoglobin (lav). MCV (lav <80 fL)\n- **Beh:** Jerntilskud (po eller iv)\n- **Følger:** Den kroniske iltmangel belaster hjertet (ved svær anæmi takykardi, angina og i værste fald hjertesvigt)"
+  },
+  {
+    "id": "kronisk_lymfatisk_leukaemi",
+    "name": "Kronisk lymfatisk leukæmi (CLL)",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En uhelbredelig, men oftest fredelig, langsomtvoksende blodkræft forårsaget af ondartede B-lymfocytter, der ophobes i knoglemarv, blod og lymfeknuder\n- **Tal:** Den hyppigste leukæmiform i Danmark (ca. 450 nye tilfælde pr\n- **Patogenese:** 💡 ophobning af modne, dysfunktionelle B-lymfocytter\n- **Symptomer:** 💡 ofte asymptomatisk; lymfeknudesvulst, infektioner\n- **Diag:** Blodprøve viser udtalt stigning i lymfocytter (lymfocytose)\n- **Beh:** Observation (\"watch and wait\") hos de fleste uden symptomer\n- **Følger:** Immunparese/hypogammaglobulinæmi (ca. 50 %) giver recidiverende, potentielt fatale infektioner"
+  },
+  {
+    "id": "kronisk_myeloid_leukaemi",
+    "name": "Kronisk myeloid leukæmi (CML)",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En langsomt voksende blodkræft kendetegnet ved overproduktion af overvejende modne, men unormale granulocytter (en type hvide blodlegemer)\n- **Tal:** Incidens ca. 50 tilfælde årligt i Danmark\n- **Patogenese:** 💡 **Philadelphia-kromosom** (BCR-ABL)\n- **Symptomer:** 💡 ofte tilfældig leukocytose; risiko for blastkrise\n- **Diag:** Blodprøver (meget højt leukocyttal)\n- **Beh:** Målrettet biologisk behandling med tyrosinkinase-hæmmere (TKI, f.eks. Imatinib) i tabletform\n- **Følger:** Ubehandlet (eller ved behandlingssvigt) transformerer sygdommen til en akut, livstruende blastkrise (udvikling som akut leukæmi)"
+  },
+  {
+    "id": "lymfom",
+    "name": "Maligne lymfomer",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** Heterogen gruppe af maligne sygdomme udgående fra lymfocytter\n- **Tal:** NHL: ca. 1.500 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 malign proliferation af lymfocytter i lymfeknuder\n- **Symptomer:** 💡 smertefri lymfeknudesvulst + **B-symptomer** (feber, nattesved, vægttab)\n- **Diag:** Biopsi af lymfeknude (guldstandard – excisionsbiopsi)\n- **Beh:** HL: ABVD-kemoterapi ± strålebehandling\n- **Følger:** Knoglemarvsinfiltration giver cytopenier (anæmi, infektioner, blødning)"
+  },
+  {
+    "id": "megaloblastaer_anaemi",
+    "name": "Megaloblastær anæmi",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En form for blodmangel karakteriseret ved unormalt store røde blodlegemer (makrocytose) forårsaget af nedsat DNA-syntese\n- **Tal:** Hyppig hos ældre. Perniciøs anæmi (B12-mangel) ses hos ca\n- **Patogenese:** 💡 B12-/folatmangel → defekt DNA-syntese → makrocytær\n- **Symptomer:** 💡 + neurologiske udfald (ved B12-mangel)\n- **Diag:** Blodprøver: lav hæmoglobin, høj MCV (makrocytær)\n- **Beh:** Tilskud af det manglende vitamin\n- **Følger:** Ubehandlet B12-mangel fører til permanente nerve- og hjerneskader (funikulær myelose), som kan være fuldstændig irreversible ved sen opdagelse, og pseudodemens hos ældre"
+  },
+  {
+    "id": "myelomatose",
+    "name": "Myelomatose (multipelt myelom)",
+    "chapter": "Blodsygdomme",
+    "high": true,
+    "body": "- **Hvad:** Malign plasmacelle-sygdom med klonal proliferation af plasmaceller i knoglemarven, som producerer monoklonalt immunglobulin (M-komponent)\n- **Tal:** Ca. 400-450 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 malign plasmacelleklon → **M-komponent**\n- **Symptomer:** 💡 **CRAB**: Calcium↑, Renal (nyre), Anæmi, Bone (knoglesmerter/frakturer)\n- **Diag:** Serum-elektroforese (M-komponent)\n- **Beh:** Induktionskemoterapi (VRd: bortezomib + lenalidomid + dexamethason)\n- **Følger:** Osteolytiske knoglelæsioner med knoglesmerter, patologiske frakturer og hyperkalcæmi"
+  },
+  {
+    "id": "polycytaemia_vera",
+    "name": "Polycytaemia vera",
+    "chapter": "Blodsygdomme",
+    "high": false,
+    "body": "- **Hvad:** En langsomt voksende blodkræft (myeloproliferativ neoplasi), hvor knoglemarven producerer for mange røde blodlegemer, hvilket gør blodet for tykt\n- **Tal:** Sjælden. Incidens er ca\n- **Patogenese:** 💡 **JAK2-mutation** → ↑erytrocytter → tykt blod\n- **Symptomer:** 💡 hovedpine, svimmelhed, kløe (varme bade), plethora, tromber\n- **Diag:** Høj hæmoglobin og hæmatokrit i blodprøve\n- **Beh:** Åreladning (phlebotomi) for at fortynde blodet og holde hæmatokrit < 45%\n- **Følger:** Massiv overrisiko for livstruende arterielle og venøse blodpropper (tromber) — den hyppigste dødsårsag ubehandlet"
+  },
+  {
+    "id": "artritis_urica",
+    "name": "Artritis urica (podagra/urinsyregigt)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Ledbetændelse forårsaget af aflejring af urinsyrekrystaller (natriumurat) i og omkring led\n- **Tal:** Ca. 1-2% af befolkningen\n- **Patogenese:** 💡 hyperurikæmi → **urat-krystaller** i led\n- **Symptomer:** 💡 akut rød, hævet, ekstremt øm storetå (podagra)\n- **Diag:** Klinisk diagnose ved klassisk præsentation\n- **Beh:** Akut anfald: NSAID, kolkicin eller kortikosteroider\n- **Følger:** Ubehandlet udvikles tiltagende hyppige anfald og kronisk urinsyregigt med leddestruktion og tofi (urinsyreknuder i og omkring led)"
+  },
+  {
+    "id": "bechterew",
+    "name": "Bechterews sygdom (rygsøjlegigt)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Kronisk inflammatorisk gigtsygdom som angriber bækkenled, rygsøjle og centralt placerede led (brystben, hofte, skulder)\n- **Tal:** Ca. 0,1% af befolkningen\n- **Patogenese:** 💡 **HLA-B27** → inflammation i sacroiliacaled + rygsøjle\n- **Symptomer:** 💡 natlige lændesmerter, morgenstivhed, **bedres ved bevægelse**\n- **Diag:** Røntgen/MR af sacroiliacaled og rygsøjle\n- **Beh:** Træning (meget vigtigt!), NSAID, biologisk medicin (TNF-alfa-hæmmere) ved utilstrækkelig effekt\n- **Følger:** Sekundær osteoporose med øget risiko for (rygsøjle)frakturer i den stive ryg"
+  },
+  {
+    "id": "diskusprolaps",
+    "name": "Diskusprolaps i lænden",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Udbuling eller brud af en mellemhvirvelskive (diskus) i lænden, som trykker på nerverødder og giver udstrålende smerter\n- **Tal:** Meget hyppig. Hyppigst i 30-50-årsalderen\n- **Patogenese:** 💡 nucleus pulposus buler ud gennem annulus → trykker nerverod\n- **Symptomer:** 💡 lændesmerter + iskias (udstråling ned i ben), værre ved hoste\n- **Diag:** Klinisk undersøgelse: Lasègues test (smerter ved løft af strakt ben)\n- **Beh:** Konservativ (90% helbredes): smertelindring, mobilisering, fysioterapi\n- **Følger:** Der kan opstå blivende nerveskade (neuropati) med vedvarende smerter, også efter at prolapsen er svundet"
+  },
+  {
+    "id": "distal_radiusfraktur",
+    "name": "Distal radiusfraktur (håndledsbrud)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Brud på den distale radius (spoleben) ved håndleddet\n- **Tal:** Den hyppigste osteoporosebetingede fraktur hos ældre, især kvinder\n- **Patogenese:** 💡 fald på udstrakt hånd\n- **Symptomer:** 💡 smerte/fejlstilling v. håndled (Colles = dorsal vinkling)\n- **Diag:** Røntgen (vurderer dislokation/vinkling: Colles vs\n- **Beh:** Reposition og oftest gipsskinne\n- **Følger:** Kliniske gener med smerter og nedsat funktion i længere perioder"
+  },
+  {
+    "id": "frakturer",
+    "name": "Frakturer (knoglebrud)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Brud på en knogle, der opstår når en ydre kraft overstiger knoglens styrke\n- **Tal:** Ca. 80.000 frakturer/år på danske skadestuer; ca\n- **Patogenese:** 💡 ydre kraft > knoglens styrke\n- **Symptomer:** 💡 Akutte smerter, funktionstab og smerter ved belastning/bevægelse\n- **Diag:** Røntgen primært; CT/MR ved tvivl eller komplekse brud; knogleskintigrafi ved stressfraktur\n- **Beh:** Reposition af dislocerede brud → immobilisering (gips/skinne) → evt. kirurgi (skruer/plader/marvsøm) + smertelindring\n- **Følger:** Akut: skade på nerver og blodkar, infektion (især ved åben fraktur), kompartmentsyndrom og fedtemboli (ved brud på store rørknogler)"
+  },
+  {
+    "id": "humerusfraktur",
+    "name": "Humerusfraktur (brud på overarmen)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Brud på overarmsknoglen (humerus), inddelt i proksimale (collum/caput), corpus (skaft) og suprakondylære (over albuen) frakturer\n- **Tal:** Hyppig hos både børn og voksne; den næsthyppigste frakturtype efter distal radiusfraktur\n- **Patogenese:** 💡 fald på skulder eller udstrakt arm\n- **Symptomer:** 💡 Direkte og indirekte ømhed svarende til bruddet, smerter og nedsat bevægelighed i skulder/arm\n- **Diag:** Røntgen giver den endelige diagnose\n- **Beh:** De fleste tilfælde behandles konservativt (uden operation); operation ved betydelig dislokation eller ustabilitet\n- **Følger:** Skade på n. radialis (især ved corpus-frakturer), samtidig luksation af caput humeri samt stivhed og nedsat skulderfunktion"
+  },
+  {
+    "id": "osteoartrose",
+    "name": "Osteoartrose (slidgigt)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Degenerativ ledsygdom karakteriseret ved nedbrydning af ledbrusk med sekundær knoglereaktioner (osteofytdannelse) og synovitis\n- **Tal:** Hyppigste ledsygdom. Rammer >50% af personer over 65 år\n- **Patogenese:** 💡 bruskdegeneration + osteofytter (slid)\n- **Symptomer:** 💡 startsmerte, belastningssmerte, kort morgenstivhed (<30 min)\n- **Diag:** Klinisk diagnose. Røntgen: ledspalteforsnævring, osteofytter, subkondral sklerosering, cyster\n- **Beh:** Ikke-farmakologisk: vægttab, træning (vigtigste!), afhjælpende hjælpemidler\n- **Følger:** Tiltagende funktionsnedsættelse og sekundære smerter i muskler og sener"
+  },
+  {
+    "id": "proksimal_femurfraktur",
+    "name": "Proksimal femurfraktur (hoftebrud)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Brud på lårbenets øvre ende (collum/proksimale femur) — typisk et lavenergifald hos ældre med osteoporose\n- **Tal:** Ca. 10.000 tilfælde om året i Danmark, hyppigst hos ældre kvinder\n- **Patogenese:** 💡 lavenergifald + osteoporose hos ældre\n- **Symptomer:** 💡 kan ikke rejse sig; benet **forkortet + udadroteret**\n- **Diag:** Røntgenundersøgelse i to planer (subsidiært CT eller MR ved tvivl)\n- **Beh:** Oftest kirurgisk, optimalt inden et halvt døgn: osteosyntese (giver styret aksial kompression → tidlig gangfunktion og vægtbelastning)\n- **Følger:** Caputnekrose (især yngre, forskudte brud), reoperationer og immobiliseringsfølger (DVT, pneumoni, tryksår)"
+  },
+  {
+    "id": "reaktiv_artrit",
+    "name": "Reaktiv artrit (reaktiv gigt)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Steril artrit (uden mikroorganismer i leddet) som udvikles i efterforløbet af en infektion andetsteds i kroppen, typisk 2-3 uger efter\n- **Tal:** Incidensen er ca. 2.300 registrerede tilfælde årligt\n- **Patogenese:** 💡 steril artrit udløst af infektion andetsteds\n- **Symptomer:** 💡 **Reiters triade**: artrit + uretrit + konjunktivit\n- **Diag:** Klinisk diagnose. HLA-B27 test\n- **Beh:** NSAID som primærbehandling\n- **Følger:** De fleste bliver helt raske, men hos ganske få ses et kronisk artritforløb med tilbagevendende ryg- og ledbesvær"
+  },
+  {
+    "id": "ra",
+    "name": "Reumatoid artrit (leddegigt)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Inflammatorisk lidelse med angreb på synovialisbeklædte strukturer, herunder oftest håndled og kno- og mellemled på fingre\n- **Tal:** Ca. 1% af befolkningen\n- **Patogenese:** 💡 autoimmun synovit → **pannus** → leddestruktion\n- **Symptomer:** 💡 symmetrisk, små led, morgenstivhed >1 time\n- **Diag:** ACR/EULAR kriterier (≥6/10 point)\n- **Beh:** NSAID (smertelindring), binyrebarkhormon (kortikosteroider), DMARD (methotrexat), biologisk medicin (TNF-alfa-hæmmere)\n- **Følger:** Synovitten kan erodere sener og give seneruptur, og bagtil i knæet ses Baker-cyste"
+  },
+  {
+    "id": "skulderluksation",
+    "name": "Skulderluksation (ledskred i skulderen)",
+    "chapter": "Bevægeapparatets sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Humeroskapulær luksation: caput humeri (overarmsknoglens hoved) skrider ud af cavitas glenoidalis (skulderbladets ledflade)\n- **Tal:** Relativt hyppig — mest hos yngre sportsaktive og hos ældre efter fald med slag mod skulderen\n- **Patogenese:** 💡 fald på strakt arm → forreste luksation (95%)\n- **Symptomer:** 💡 **epauletskulder** (kantet kontur), fastlåst arm\n- **Diag:** Klinisk billede + røntgen (bekræfter luksationsretning og udelukker samtidig fraktur)\n- **Beh:** Reposition (tilbageføring) af leddet\n- **Følger:** Recidiv (hyppigt hos yngre, sjældent hos ældre), skade på n"
+  },
+  {
+    "id": "appendicitis",
+    "name": "Akut appendicitis (blindtarmsbetændelse)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Akut inflammation i blindtarmens vedhæng (appendix vermiformis)\n- **Tal:** Livstidsrisiko er ca. 7-8%\n- **Patogenese:** 💡 **lumen-aflukning** → bakterievækst → inflammation gennem væggen → evt. perforation\n- **Symptomer:** 💡 smerte **vandrer**: navle → McBurney (h. nedre kvadrant) + slipømhed\n- **Diag:** Klinisk diagnose ud fra sygehistorie og palpation (slipømhed i højre fossa)\n- **Beh:** Akut kirurgisk fjernelse af blindtarmen (appendektomi), oftest via kikkertoperation (laparoskopi)\n- **Følger:** Den største fare er forsinket behandling: en ubehandlet, inficeret appendix kan perforere (allerede sket hos 15-30 % ved ankomst til akutmodtagelsen) → afføring, pus og bakterier i bughulen med farlig peritonitis, abscesdannelse og arvæv"
+  },
+  {
+    "id": "pancreatitis",
+    "name": "Akut og kronisk pancreatitis (bugspytkirtelbetændelse)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut pancreatitis er en pludselig opstået inflammation i bugspytkirtlen\n- **Tal:** Akut form er hyppig (ca. 2-3000 indlæggelser årligt i DK)\n- **Patogenese:** 💡 enzymaktivering i pankreas → **selvfordøjelse** (galdesten/alkohol)\n- **Symptomer:** 💡 voldsom epigastriesmerte med udstråling til ryggen, opkast\n- **Diag:** Akut: Forhøjet amylase/lipase i blodet, CT-scanning\n- **Beh:** Akut: Faste, massiv væsketerapi i drop, smertestillende\n- **Følger:** Ved svær akut pancreatitis kan den systemiske inflammation give svigt af nyrer, kredsløb og lunger (multiorgansvigt med chok og respiratorisk svigt) og høj dødelighed; desuden nekroser og pseudocyster i pancreas"
+  },
+  {
+    "id": "alkoholisk_leversygdom",
+    "name": "Alkoholisk leversygdom",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Leverskade forårsaget af et langvarigt, overdrevent indtag af alkohol\n- **Tal:** Hyppig. Betydelig andel af voksne danskere drikker over sundhedsstyrelsens genstandsgrænser\n- **Patogenese:** 💡 alkohol → fedtlever → alkoholisk hepatitis → cirrose\n- **Symptomer:** 💡 Tidligt stadie er oftest helt asymptomatisk!\n- **Diag:** Forhøjede lever-galdetal (især ALAT, ASAT, GGT) i blodprøver\n- **Beh:** Alkoholophør er hjørnestenen – det er den eneste behandling, der kan stoppe eller vende skaderne\n- **Følger:** Progredierer fra fedtlever (reversibel) over alkoholisk hepatitis (høj dødelighed ved svære anfald) til irreversibel cirrose med risiko for leverkræft"
+  },
+  {
+    "id": "cirrose",
+    "name": "Cirrose (skrumpelever)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Irreversibel diffus fibrose af levervævet med knudedannelse (noduli), som erstattes af funktionelt leverparenkym, og resulterende leversvigt\n- **Tal:** Ca. 10.000 danskere med cirrose\n- **Patogenese:** 💡 kronisk leverskade → **fibrose + noduli** → portal hypertension\n- **Symptomer:** 💡 ascites, ikterus, øsofagusvaricer, encefalopati, caput medusae\n- **Diag:** Blodprøver: levertal (ALAT, ASAT, bilirubin), koagulation (INR), albumin\n- **Beh:** Fjern årsag (alkoholophør, antivirale)\n- **Følger:** Portal hypertension giver øsofagusvaricer, der ved ruptur kan medføre livstruende blødning med meget høj akut dødelighed (leversvigtet hæmmer koagulationen), samt ascites og spontan bakteriel peritonitis"
+  },
+  {
+    "id": "diarre",
+    "name": "Diarré",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Hyppig afgang af tynd/vandig afføring (≥3 gange i døgnet)\n- **Tal:** Meget hyppigt symptom. Næsten alle oplever akut diarré\n- **Patogenese:** 💡 infektiøs / osmotisk / sekretorisk\n- **Symptomer:** 💡 hyppig tynd afføring → dehydreringsrisiko\n- **Diag:** Akut: Sjældent udredning nødvendig, medmindre der er blod i afføringen eller feber (afføringsdyrkning)\n- **Beh:** Symptomatisk: Væskeerstatning (vigtigst pga. dehydreringsrisiko)\n- **Følger:** Væske- og saltmangel (dehydrering) er den hyppigste følge, særligt farlig hos spædbørn og ældre, og kan i svære tilfælde give nyresvigt og chok"
+  },
+  {
+    "id": "galdestenssygdomme",
+    "name": "Galdestenssygdomme",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Dannelse af sten i galdeblæren eller galdevejene\n- **Tal:** Meget hyppigt. Forekommer hos ca\n- **Patogenese:** 💡 sten i galdeblære/-veje → blokering\n- **Symptomer:** 💡 kolik h. side efter fedt måltid; **Charcoals triade** (feber+ikterus+smerter)=kolangitis\n- **Diag:** Ultralyd af abdomen (guldstandard for sten i galdeblæren)\n- **Beh:** Smertebehandling (NSAID virker rigtig godt ved anfald)\n- **Følger:** Fastsiddende sten kan fremprovokere kolecystitis (galdeblærebetændelse), kolangitis (betændelse i galdegangen) og akut galdestenspancreatitis, hvis stenen blokerer det fælles udløb fra galdeveje og pancreas"
+  },
+  {
+    "id": "ibd",
+    "name": "Inflammatoriske tarmsygdomme (IBD)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kroniske, inflammatoriske tarmsygdomme: Crohns sygdom (transmural inflammation, hele GI-kanal) og colitis ulcerosa (mukøs inflammation, kolon)\n- **Tal:** Ca. 50.000 danskere\n- **Patogenese:** 💡 kronisk autoimmun tarminflammation (Crohn = transmural, hele GI / UC = mucosa, kolon)\n- **Symptomer:** 💡 diarré (UC: blodig), mavesmerter, vægttab + ekstraintestinale\n- **Diag:** Koloskopi med biopsi (guldstandard)\n- **Beh:** Remissionsinduktion: kortikosteroider, mesalazin (CU)\n- **Følger:** Ekstraintestinale manifestationer hos mindst 25 %: led (artralgier hos op til 20 %, sakroiliitis), hud (ca. 15 %: knuderosen, pyoderma gangrenosum), øjne (1-3 %: uveitis/episkleritis) og lever — ca. 5 % af colitis ulcerosa udvikler primær skleroserende kolangitis"
+  },
+  {
+    "id": "malabsorption",
+    "name": "Malabsorptionssygdomme",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** En samlebetegnelse for sygdomme, hvor mave-tarm-kanalen har nedsat evne til at optage næringsstoffer, vitaminer og mineraler fra maden\n- **Tal:** Cøliaki rammer op mod 1% af befolkningen, mange uden at vide det\n- **Patogenese:** 💡 nedsat optagelse (cøliaki: gluten → villusatrofi)\n- **Symptomer:** 💡 kronisk diarré/steatoré, vægttab, mangelsymptomer\n- **Diag:** Blodprøver for vitamin- og mineralmangel (jern, B12, D-vitamin)\n- **Beh:** Afhænger af årsagen. Cøliaki: Livslang og strikt glutenfri diæt\n- **Følger:** Ubehandlet generel malabsorption kan være livstruende pga. vægttab og mangeltilstande: infektioner (manglende byggesten til immunsystemet), svær jernmangelanæmi og hjertesvigt (proteinmangel)"
+  },
+  {
+    "id": "refluks",
+    "name": "Refluksøsofagitis (GERD/sure opstød)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Syreerosioner og betændelse i spiserøret (øsofagus) udløst af tilbageløb af mavesyre\n- **Tal:** Meget udbredt; ca. 10 % af befolkningen har dyspepsi, og ~600.000 danskere får årligt syrehæmmende medicin\n- **Patogenese:** 💡 svag nedre øsofagussfinkter → syre op i øsofagus\n- **Symptomer:** 💡 halsbrand, sure opstød, sviden bag brystben (værst liggende)\n- **Diag:** Klinisk anamnese; gastroskopi ved alarmsymptomer eller manglende effekt af behandling (kan vise øsofagit)\n- **Beh:** Livsstil: vægttab, undgå tobak/alkohol og sen mad\n- **Følger:** Langvarig syrepåvirkning giver refluksøsofagitis (syre-erosioner)"
+  },
+  {
+    "id": "ulcus",
+    "name": "Ulcus (mavesår og tolvfingertarmssår)",
+    "chapter": "Mave-Tarm-sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Sår i slimhinden i mavesæk (ulcus ventriculi) eller tolvfingertarm (ulcus duodeni) pga. ubalance mellem syreindsekreterende og beskyttende faktorer\n- **Tal:** Duodenalulcus hyppigst (3:1 vs ventrikelulcus)\n- **Patogenese:** 💡 **H. pylori / NSAID** nedbryder mucusbarriere → syre ætser slimhinden\n- **Symptomer:** 💡 epigastriesmerte ift. måltid; hæmatemese/melæna ved blødning\n- **Diag:** Gastroskopi (guldstandard) + biopsi (H\n- **Beh:** H. pylori-eradikation: trippelkur (PPI + 2 antibiotika)\n- **Følger:** Akut blødning er en af de hyppigste komplikationer og kan være livstruende (hæmatemese/melæna); sivende blødning giver jernmangelanæmi, der kan være eneste symptom"
+  },
+  {
+    "id": "adhd",
+    "name": "ADHD",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Neurodevelopmental lidelse karakteriseret ved vedvarende mønster af uopmærksomhed og/eller hyperaktivitet-impulsivitet, som forstyrrer funktion og udvikling\n- **Tal:** Ca. 3-5% af skolebørn\n- **Patogenese:** 💡 dysreguleret dopamin/noradrenalin (frontalt)\n- **Symptomer:** 💡 uopmærksomhed + hyperaktivitet + impulsivitet\n- **Diag:** Klinisk diagnose (ICD-10/DSM-5)\n- **Beh:** Centralstimulerende medicin (methylphenidat – Ritalin, amfetamin) – god effekt\n- **Følger:** Ubehandlet er der markant øget risiko for misbrug (som selvmedicinering), kriminalitet, ulykker, personlighedsforstyrrelser og depression — tilsammen forekommer dette hos ca. en tredjedel i voksenalderen"
+  },
+  {
+    "id": "angst",
+    "name": "Angstlidelser",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Gruppe af psykiske lidelser karakteriseret ved overdreven, vedvarende angst og frygt som forstyrrer daglig funktion\n- **Tal:** Hyppigste psykiske lidelse\n- **Patogenese:** 💡 overaktivt frygtrespons (amygdala)\n- **Symptomer:** 💡 uro, hjertebanken, åndenød, undgåelsesadfærd\n- **Diag:** Klinisk diagnose (ICD-10)\n- **Beh:** KAT (kognitiv adfærdsterapi) – bedst dokumenteret\n- **Følger:** Ubehandlet angst og undgåelsesadfærd fører til social isolation, lavt selvværd og hyppigt en sekundær depression"
+  },
+  {
+    "id": "bipolar",
+    "name": "Bipolar lidelse",
+    "chapter": "Psykiske sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Kronisk affektiv lidelse med episoder af både mani/hypomani og depression\n- **Tal:** Ca. 1-2% af befolkningen\n- **Patogenese:** 💡 forstyrret stemningsregulering\n- **Symptomer:** 💡 veksler mellem **mani** (hævet, grandiost) og **depression**\n- **Diag:** Klinisk diagnose (ICD-10)\n- **Beh:** Stemningsstabiliserende: lithium (guldstandard), valproat, quetiapin\n- **Følger:** Lettere kognitive gener (hukommelse og eksekutive funktioner) i restfaserne hos 30-50 %"
+  },
+  {
+    "id": "depression",
+    "name": "Depression (unipolar)",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Affektiv lidelse karakteriseret ved nedsat stemningsleje, energitab og anhedoni (manglende evne til at føle glæde) i mindst 2 uger\n- **Tal:** Livstidsprævalens ca. 20%\n- **Patogenese:** 💡 monoamin-mangel (serotonin/noradrenalin)\n- **Symptomer:** 💡 kerne: nedtrykthed + anhedoni + energitab (≥2 uger)\n- **Diag:** Klinisk diagnose (ICD-10 kriterier)\n- **Beh:** Let: psykoterapi (KAT). Moderat-svær: antidepressiva (SSRI førstevalg) + psykoterapi\n- **Følger:** Selvmord er den alvorligste komplikation — depression er den sygdom, der oftest fører til selvmord (omkring 50 % af alle selvmord har en depression)"
+  },
+  {
+    "id": "misbrug_afhaengighed",
+    "name": "Misbrug og afhængighed (alkohol)",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Skadeligt brug af og afhængighed af alkohol (og andre psykoaktive stoffer)\n- **Tal:** Blandt danskere over 16 år drikker ca. 860.000 over det anbefalede ugentlige indtag, ca. 585.000 har et skadeligt brug og ca. 140.000 et afhængighedssyndrom\n- **Patogenese:** 💡 neuroadaptation → tolerance + abstinens + craving\n- **Symptomer:** 💡 kontroltab, abstinenser; blackout = tegn på langvarigt misbrug\n- **Diag:** Diagnosen stilles efter ICD-10-kriterierne ved god spørgeteknik og omhyggelig klinisk observation; blodprøver og spørgeskemaer kan supplere\n- **Beh:** Lettere tilstande (storforbrug/skadeligt brug): motivationssamtaler og livsstilsændringer\n- **Følger:** Op til 8 gange øget dødelighed og skader på næsten alle organsystemer: CNS (demens, hovedtraumer), perifer polyneuropati, mave-tarm-lever (mavekatar, skrumpelever, pancreatitis), hjertesvigt, muskelsvind, endokrine forstyrrelser (nedsat testosteron/fertilitet), knoglemarvs-/immunsvækkelse samt kræft i fordøjelsessystemet og brystkræft hos kvinder"
+  },
+  {
+    "id": "ocd",
+    "name": "OCD (tvangslidelse)",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Lidelse med tilbagevendende obsessioner (tvangstanker) og/eller kompulsioner (tvangshandlinger)\n- **Tal:** Prævalens ca. 2-3 % (ca. 75.000 danskere)\n- **Patogenese:** 💡 forstyrret frontostriatalt kredsløb\n- **Symptomer:** 💡 tvangstanker (obsessioner) + tvangshandlinger (kompulsioner)\n- **Diag:** Klinisk/diagnostisk interview\n- **Beh:** Kognitiv adfærdsterapi — særligt eksponering med responsprævention (ERP)\n- **Følger:** Tilstanden følges ofte af sekundær depression (især ved utilstrækkelig behandling) samt svær indskrænkning af den sociale funktion"
+  },
+  {
+    "id": "ptsd",
+    "name": "PTSD (posttraumatisk belastningsreaktion)",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Forsinket psykisk reaktion (opstår typisk inden for 6 måneder) efter en exceptionel, katastrofelignende belastning med livsfare\n- **Tal:** Livstidsrisiko 1-9 % (ca. 50.000 danskere)\n- **Patogenese:** 💡 traume → fastlåst stressrespons\n- **Symptomer:** 💡 flashbacks + undgåelse + overvagtsomhed (debut <½ år)\n- **Diag:** Diagnostisk interview med afdækning af den udløsende traumatiske hændelse\n- **Beh:** Kognitiv traumeterapi i trygt miljø + SSRI\n- **Følger:** Ofte ledsaget af sekundær depression, angst og misbrug, og selvmordstanker og selvmordsforsøg er ikke ualmindelige"
+  },
+  {
+    "id": "personlighedsforstyrrelser",
+    "name": "Personlighedsforstyrrelser",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Vedvarende, ufleksibelt mønster af oplevelse og adfærd (impulskontrol, affekt, kognition, relationer), der afviger markant fra det kulturelt forventede\n- **Tal:** Meget hyppig — prævalens ca. 10 % i befolkningen; udgør ca. 50 % af ambulante psykiatriske patienter\n- **Patogenese:** 💡 vedvarende, ufleksibelt adfærdsmønster fra ung alder\n- **Symptomer:** 💡 Inddeles i 3 grupper: A (excentriske: paranoid, skizoid), B (dramatiske/impulsive: borderline, dyssocial, histrionisk), C (ængstelige: dependent, evasiv, tvangspræget)\n- **Diag:** Strukturerede diagnostiske interviews efter det polytetiske princip (et vist antal kriterier skal være opfyldt)\n- **Beh:** Psykoterapi er bærende — særligt dialektisk adfærdsterapi (DAT) og mentaliseringsbaseret terapi (MBT), evidensbaseret ved borderline\n- **Følger:** Massiv komorbiditet: personlighedsforstyrrelsen komplicerer typisk behandlingen af samtidig depression, angst, spiseforstyrrelser og stofmisbrug"
+  },
+  {
+    "id": "skizofreni",
+    "name": "Skizofreni",
+    "chapter": "Psykiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Alvorlig psykisk lidelse med positive symptomer (hallucinationer, vrangforestillinger), negative symptomer (affektfladhed, alogia) og kognitive symptomer i ≥1 måned\n- **Tal:** Livstidsprævalens ca. 1%\n- **Patogenese:** 💡 dopamin-hypotesen (overaktivitet mesolimbisk)\n- **Symptomer:** 💡 **positive** (hallucinationer, vrang) + **negative** (apati, tilbagetrækning)\n- **Diag:** Klinisk diagnose (ICD-10/DSM-5)\n- **Beh:** Antipsykotika (D2-antagonister): typiske (haloperidol) og atypiske (olanzapin, risperidon)\n- **Følger:** Betydelig forkortet levetid (15-20 år) med tredoblet risiko for at dø af medicinske sygdomme (diabetes og hjerte-kar-sygdom) pga. livsstil og medicinbivirkninger"
+  },
+  {
+    "id": "spiseforstyrrelser",
+    "name": "Spiseforstyrrelser (AN/BN)",
+    "chapter": "Psykiske sygdomme",
+    "high": true,
+    "body": "- **Hvad:** Anorexia nervosa (AN): selvpålagt sult med vægttab og forvrænget kropsbillede\n- **Tal:** AN: ca. 0,5-1% (kvinder), debut typisk 13-18 år\n- **Patogenese:** 💡 psykisk + sociokulturel + biologisk\n- **Symptomer:** 💡 AN: selvsult/vægttab/amenoré; BN: overspisning + opkast (normalvægt)\n- **Diag:** Klinisk diagnose (ICD-10)\n- **Beh:** AN: genernæring (indlæggelse ved svær AN), psykoterapi (familiebaseret terapi hos unge, KAT hos voksne)\n- **Følger:** Anoreksi: osteoporose (knogleskørhed) og infertilitet, og sygdommen har den højeste dødelighed blandt psykiske lidelser (både somatisk og pga. selvmord)"
+  },
+  {
+    "id": "hoefeber",
+    "name": "Allergisk rhinoconjunctivitis (høfeber)",
+    "chapter": "Allergiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** IgE-medieret allergisk inflammation i næseslimhinde og øjnenes konjunktiva, typisk udløst af pollen (sæsonbetinget) eller helårlige allergener\n- **Tal:** Ca. 15-20% af danskere\n- **Patogenese:** 💡 IgE-medieret allergi i næse-/øjenslimhinde\n- **Symptomer:** 💡 nysen, løbe-/tilstoppet næse, kløende røde øjne\n- **Diag:** Klinisk diagnose + allergenhistorie\n- **Beh:** Undgåelse af allergen. Antihistaminer (oral/næsespray)\n- **Følger:** Stor risiko for udvikling af astma — ca. 80 % af astmapatienter har allergisk rhinoconjunctivitis, og høfeber i barnealderen øger risikoen for astma senere (led i den allergiske march)"
+  },
+  {
+    "id": "anafylaksi",
+    "name": "Anafylaksi (allergisk shock)",
+    "chapter": "Allergiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Livstruende systemisk allergisk reaktion med hurtig (minutter) systemisk IgE-medieret mastcelleaktivering, der kan føre til kredsløbssvigt og luftvejsobstruktion\n- **Tal:** Incidens ca. 5-10/100.000/år\n- **Patogenese:** 💡 massiv IgE-medieret mastcelleaktivering → **systemisk**\n- **Symptomer:** 💡 urticaria + luftvejsobstruktion + kredsløbskollaps (min.)\n- **Diag:** Klinisk diagnose (akut situation)\n- **Beh:** Adrenalin (epinephrin) i.m\n- **Følger:** Kan være fatal (død), hvis behandlingen med adrenalin forsinkes — pga. kredsløbskollaps (shock) og/eller luftvejsobstruktion (kvælning)"
+  },
+  {
+    "id": "atopisk_eksem",
+    "name": "Atopisk eksem (børneeksem)",
+    "chapter": "Allergiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Kronisk inflammatorisk hudsygdom karakteriseret ved kløende, tørre, eksematøse hudlæsioner, oftest med debut i barnealderen\n- **Tal:** Ca. 10-20% af børn i Danmark\n- **Patogenese:** 💡 defekt hudbarriere + atopi\n- **Symptomer:** 💡 kløende, tørt eksem (albue-/knæhaser, ansigt)\n- **Diag:** Klinisk diagnose (Hanifin & Rajka kriterier)\n- **Beh:** Fugtgivende cremer (basisbehandling!)\n- **Følger:** Stor risiko for hudinfektioner (bakterielle, fx Staphylococcus aureus, og virale som eczema herpeticum) pga. den defekte hudbarriere"
+  },
+  {
+    "id": "foedevareallergi",
+    "name": "Fødevareallergi",
+    "chapter": "Allergiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Immunologisk medieret uønsket reaktion på fødevarer, oftest IgE-medieret (type I) mod specifikke fødevareallergener\n- **Tal:** Ca. 4-8% af børn, 1-2% af voksne\n- **Patogenese:** 💡 IgE mod fødevareallergen\n- **Symptomer:** 💡 kløe, urticaria, GI-symptomer, evt. anafylaksi\n- **Diag:** Priktest, specifik IgE. Oral madprovokation (guldstandard)\n- **Beh:** Strict allergenundgåelse\n- **Følger:** Risiko for livstruende anafylaksi ved IgE-medieret allergi (fx jordnød, skaldyr)"
+  },
+  {
+    "id": "urticaria",
+    "name": "Urticaria (nældefeber)",
+    "chapter": "Allergiske sygdomme",
+    "high": false,
+    "body": "- **Hvad:** Hudlidelse karakteriseret ved kløende, ophøjede, rødlige kvabler (kvaddler) pga. mastcelledegranulering i huden\n- **Tal:** Ca. 20% af befolkningen oplever urticaria en gang i livet\n- **Patogenese:** 💡 **mastcelle-histaminfrigørelse** → kvaddler\n- **Symptomer:** 💡 kløende, flygtige kvaddler (<24 t); evt. angioødem\n- **Diag:** Klinisk diagnose. Udredning for årsag: allergitest, blodprøver (thyreoidea), infektion\n- **Beh:** Antihistaminer (H1-antagonister)\n- **Følger:** Kan ledsages af angioødem (dybere hævelse, fx i læber/øjenlåg/svælg)"
+  },
+  {
+    "id": "benigne_ovariecyster",
+    "name": "Benigne ovariecyster og -tumorer",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Godartede væskefyldte blærer (cyster) eller knuder (tumorer) placeret på eller i æggestokkene (ovarierne)\n- **Tal:** Ekstremt hyppigt hos kvinder i den fødedygtige alder (op mod 10% opereres i løbet af livet)\n- **Patogenese:** 💡 funktionelle (follikel-/corpus luteum) eller benigne tumorer\n- **Symptomer:** 💡 oftest tilfældige; smerter ved ruptur/torsion\n- **Diag:** Gynækologisk undersøgelse og transvaginal ultralydsscanning er sufficient i næsten alle tilfælde\n- **Beh:** Små asymptomatiske cyster observeres\n- **Følger:** Ruptur (bristning) af cysten med blødning i bughulen — større blødning kan kræve akut operation"
+  },
+  {
+    "id": "cin",
+    "name": "Cervikal intraepitelial neoplasi (CIN)",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Forstadier til livmoderhalskræft\n- **Tal:** Meget hyppig. Opdages oftest via screening\n- **Patogenese:** 💡 **HPV** → celleforandringer på cervix (præmalign, CIN I-III)\n- **Symptomer:** 💡 symptomløs — opdages ved screening\n- **Diag:** Celleskrab hos egen læge\n- **Beh:** CIN 1 svinder ofte af sig selv og observeres blot\n- **Følger:** CIN er en præmalign tilstand: ubehandlet (især CIN III ved højrisiko-HPV) kan den progrediere til livmoderhalskræft (cervixcancer)"
+  },
+  {
+    "id": "ekstrauterin_graviditet",
+    "name": "Ekstrauterin graviditet (EUG)",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": true,
+    "body": "- **Hvad:** Graviditet placeret uden for livmoderhulen (oftest i æggelederen)\n- **Tal:** Ca. 1-2% af alle graviditeter\n- **Patogenese:** 💡 implantation uden for uterus (oftest tuba)\n- **Symptomer:** 💡 amenoré + ensidige underlivssmerter + blødning (akut ved ruptur)\n- **Diag:** Gynækologisk undersøgelse, positiv hCG-måling, men transvaginal ultralyd viser en 'tom' livmoder, evt. med blod i bughulen\n- **Beh:** Akut operation (oftest kikkertkirurgi), hvor man fjerner den pågældende æggeleder\n- **Følger:** Ubehandlet kan graviditeten sprænge æggelederen (tubaruptur) og give livstruende intraabdominal blødning — en akut kirurgisk nødsituation"
+  },
+  {
+    "id": "pcos",
+    "name": "Polycystisk ovariesyndrom (PCOS)",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Hyppigste endokrine sygdom hos kvinder i fertil alder, karakteriseret ved hyperandrogenisme, oligo/anovulation og polycystiske ovarier\n- **Tal:** Ca. 5-10% af kvinder i fertil alder\n- **Patogenese:** 💡 **insulinresistens** → ↑androgener\n- **Symptomer:** 💡 **Rotterdam 2/3**: hyperandrogenisme + oligo/anovulation + polycystiske ovarier\n- **Diag:** Rotterdam-kriterierne (mindst 2 af 3): 1) oligo/anovulation, 2) klinisk/biokemisk hyperandrogenisme, 3) polycystiske ovarier (UL)\n- **Beh:** Livsstilsændringer (vægttab vigtigst!)\n- **Følger:** Op mod 50 % udvikler type 2-diabetes senere i livet, og ca. 30 % får svangerskabsdiabetes (gestationel diabetes)"
+  },
+  {
+    "id": "postmenopausal_bloedning",
+    "name": "Postmenopausal blødning",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Vaginal blødning der opstår mere end 1 år efter kvindens sidste naturlige menstruation (menopausen)\n- **Tal:** Optræder hos ca. 5-10% af postmenopausale kvinder\n- **Patogenese:** 💡 blødning >1 år efter menopause — **udred altid for endometriecancer**\n- **Symptomer:** 💡 Blødning eller blodigt udflåd fra skeden lang tid efter overgangsalderen\n- **Diag:** Gynekologisk undersøgelse, ultralyd af livmoderen (vurdering af slimhindetykkelse), og i de fleste tilfælde en vævsprøve (biopsi) fra livmoderen for at udelukke kræft\n- **Beh:** Afhænger fuldstændigt af årsagen\n- **Følger:** Postmenopausal blødning er et alarmsymptom, der altid skal udredes, da årsagen kan være endometriecancer (livmoderkræft) eller cervixcancer"
+  },
+  {
+    "id": "praeeklampsi",
+    "name": "Præeklampsi (svangerskabsforgiftning)",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": true,
+    "body": "- **Hvad:** Graviditetskomplikation karakteriseret ved nyopstået hypertension (≥140/90) og proteinuri (eller organpåvirkning) efter graviditetsuge 20\n- **Tal:** Forekommer hos ca. 3-5% af graviditeter\n- **Patogenese:** 💡 dårlig placentation → øget karmodstand i placenta + mor\n- **Symptomer:** 💡 **hypertension + proteinuri efter uge 20** (+ ødemer, hovedpine)\n- **Diag:** Blodtryksmåling. Urinstix/24-timers urin (proteinuri)\n- **Beh:** Eneste kurativ behandling: fødsel (tidspunktet afhænger af gestationsalder og sværhedsgrad)\n- **Følger:** Kan udvikle sig til eklampsi (krampeanfald), hjerneødem, leverpåvirkning (HELLP-syndrom) og abruptio placentae (for tidlig løsning af moderkagen)"
+  },
+  {
+    "id": "praetermfodsel",
+    "name": "Præterm fødsel",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Fødsel før udgangen af 37\n- **Tal:** Ca. 5-7% af alle fødsler i Danmark\n- **Patogenese:** 💡 fødsel <37 uger (spontane veer / vandafgang / indikation)\n- **Symptomer:** 💡 Regelmæssige uteruskontraktioner, cervikale forandringer (dilatation, effacement)\n- **Diag:** Klinisk (kontraktioner + cervikale forandringer)\n- **Beh:** Tokolyse (hæmmer kontraktioner kortvarigt for at vinde tid)\n- **Følger:** Ekstremt forhøjet perinatal dødelighed; for tidligt fødte optager ca. 80 % af de neonatale sengepladser"
+  },
+  {
+    "id": "spontan_abort",
+    "name": "Spontan abort",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Ufrivilligt tab af graviditet inden 22\n- **Tal:** Meget hyppigt. Ca\n- **Patogenese:** 💡 graviditetstab <22 uger (ofte kromosomfejl)\n- **Symptomer:** 💡 vaginalblødning + menstruationslignende smerter\n- **Diag:** Ultralydsscanning viser intet hjerteblink eller tom fosterhule\n- **Beh:** Afventende (kroppen rydder selv op)\n- **Følger:** Krisereaktion og sorg er hyppigt"
+  },
+  {
+    "id": "vaeksthaemning_foster",
+    "name": "Væksthæmning af fosteret",
+    "chapter": "Gynækologiske sygdomme og obstetrik",
+    "high": false,
+    "body": "- **Hvad:** Fosteret vokser ikke som forventet under graviditeten (IUGR - Intrauterine Growth Restriction)\n- **Tal:** Rammer omkring 3-5% af alle graviditeter\n- **Patogenese:** 💡 placentainsufficiens → nedsat tilvækst\n- **Symptomer:** 💡 Gravide mærker ikke væksthæmningen\n- **Diag:** Ultralydsscanning med måling af fosterets dimensioner (hovedomfang, maveomfang, lårbenslængde) og beregning af fostervægt\n- **Beh:** Tæt overvågning. Fosteret kan ikke behandles i livmoderen\n- **Følger:** Øget perinatal morbiditet og mortalitet, inkl"
+  },
+  {
+    "id": "brystkraeft",
+    "name": "Brystkræft (cancer mamma)",
+    "chapter": "Kræftsygdomme",
+    "high": false,
+    "body": "- **Hvad:** Malign svulst i brystkirtelvævet, hyppigst adenokarcinom udgående fra ductus (DCIS → invasivt duktalt karcinom) eller lobuli\n- **Tal:** Ca. 5.000 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 malign tumor i brystkirtelvæv (ofte østrogenreceptor+)\n- **Symptomer:** 💡 palpabel knude, hudindtrækning, peau d'orange, sekretion\n- **Diag:** Trippeldiagnostik: klinisk undersøgelse + mammografi/ultralyd + biopsi (finnålsaspirat eller kernebiopsi)\n- **Beh:** Kirurgi (lumpektomi eller mastektomi)\n- **Følger:** Metastasering til regionale lymfeknuder (armhule) og fjernmetastaser i knogler, lunge, lever og hjerne"
+  },
+  {
+    "id": "lungekraeft",
+    "name": "Lungekræft (cancer pulmonis)",
+    "chapter": "Kræftsygdomme",
+    "high": true,
+    "body": "- **Hvad:** Malign svulst udgående fra bronkial eller alveolær epitel\n- **Tal:** Ca. 5.000 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 **rygning (~90%)** → malign transformation i bronkieepitel\n- **Symptomer:** 💡 alarmsymptomer: vedvarende hoste, hæmoptyse, hæshed, vægttab\n- **Diag:** Røntgen/CT thorax. Bronkoskopi + biopsi (guldstandard)\n- **Beh:** NSCLC lokaliseret: kirurgi (lobektomi) + adjuvant kemo/immunterapi\n- **Følger:** Tidlig og udbredt metastasering, især til hjerne (hjernemetastaser er hyppige), knogler, lever og binyrer; lokal vækst kan give pleuraekssudat, vena cava superior-syndrom og hæmoptyse"
+  },
+  {
+    "id": "prostatakraeft",
+    "name": "Prostatakræft (cancer prostatae)",
+    "chapter": "Kræftsygdomme",
+    "high": false,
+    "body": "- **Hvad:** Malign svulst udgående fra prostatakirtlens epitel, oftest adenokarcinom i den perifere zone\n- **Tal:** Ca. 5.000 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 malign tumor i prostata (perifert)\n- **Symptomer:** 💡 ofte asymptomatisk; sent LUTS/knoglesmerter (metastaser)\n- **Diag:** PSA (prostataspesifikt antigen) – screening kontroversielt\n- **Beh:** Lokaliseret (lav risiko): aktiv monitorering\n- **Følger:** Metastasering især til knogler (knoglemetastaser, ofte osteoblastiske) og lymfeknuder"
+  },
+  {
+    "id": "tyktarmskraeft",
+    "name": "Tyk- og endetarmskræft (kolorektal karcinom)",
+    "chapter": "Kræftsygdomme",
+    "high": false,
+    "body": "- **Hvad:** Malign svulst udgående fra slimhinden i colon eller rektum, oftest som progression fra adenom (adenom-karcinom sekvensen)\n- **Tal:** Ca. 5.000 nye tilfælde/år i Danmark\n- **Patogenese:** 💡 **adenom → karcinom-sekvens**\n- **Symptomer:** 💡 blod i afføring, ændret afføringsmønster, jernmangelanæmi\n- **Diag:** Koloskopi (guldstandard) + biopsi\n- **Beh:** Kirurgi (resektion) – kurativt ved lokaliseret sygdom\n- **Følger:** Metastasering primært til lever og lunger; lokalt kan tumor give tarmobstruktion (ileus), blødning og perforation"
+  },
+  {
+    "id": "akut_gastroenteritis",
+    "name": "Akut gastroenteritis (mave-tarm-infektion)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut inflammation i slimhinderne i mavesækken og tarmen forårsaget af en mikrobiel infektion\n- **Tal:** Rammer alle mennesker utallige gange i løbet af et liv (fx 'roskildesyge')\n- **Patogenese:** 💡 viral/bakteriel tarminfektion\n- **Symptomer:** 💡 diarré, opkast, mavekramper → dehydrering\n- **Diag:** Klinisk diagnose (går som regel over af sig selv)\n- **Beh:** Først og fremmest væske- og salttilførsel for at forebygge dehydrering (særligt vigtigt hos små børn og ældre)\n- **Følger:** Dehydrering og elektrolytforstyrrelser er den vigtigste komplikation — på verdensplan en af de helt store dræbere, særligt farlig hos spædbørn og ældre"
+  },
+  {
+    "id": "tonsillitis_acuta",
+    "name": "Bakteriel tonsillitis acuta (akut halsbetændelse)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut betændelse i mandlerne (tonsillerne), der ofte skyldes streptokok-bakterier\n- **Tal:** Meget hyppig, occurs in all ages, but is most common in school-aged children and young adults\n- **Patogenese:** 💡 streptokok-infektion i tonsiller\n- **Symptomer:** 💡 halssmerter, feber, belægninger, **ingen hoste** (Centor)\n- **Diag:** Klinisk billede (røde, hævede mandler med hvide/gule belægninger, hævede lymfeknuder på halsen)\n- **Beh:** Penicillin (antibiotika) V er guldstandarden\n- **Følger:** Peritonsillær absces (halsbyld) kan i svære tilfælde kompromittere fødeindtagelse og luftveje pga. ekstrem hævelse"
+  },
+  {
+    "id": "erysipelas",
+    "name": "Erysipelas (rosen)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut overfladisk bakteriel infektion i huden og de øverste lag af underhuden, oftest lokaliseret på underbenet eller i ansigtet\n- **Tal:** Ret hyppig (ca. 10.000 behandles årligt i DK)\n- **Patogenese:** 💡 streptokokker i øvre hudlag/lymfekar\n- **Symptomer:** 💡 skarpt afgrænset, rød, varm, øm hud + feber (oftest underben)\n- **Diag:** Klinisk diagnose ud fra udseendet\n- **Beh:** Penicillin (oftest som indsprøjtning eller drop initialt på sygehuset pga. sygdommens hastige spredning)\n- **Følger:** Kan kompliceres med en sekundær (tilstødende) stafylokokinfektion med bylder og blæredannelse"
+  },
+  {
+    "id": "gonorre",
+    "name": "Gonorré",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** En seksuelt overført bakteriel infektion, der i sin fremtræden minder om klamydia, men har tendens til mere 'hidsige' og udbredte symptomer\n- **Tal:** Mindre hyppig end klamydia, men incidensen er voldsomt stigende (over 3000 om året, særligt hos unge mænd)\n- **Patogenese:** 💡 Neisseria gonorrhoeae\n- **Symptomer:** 💡 purulent udflåd, svie (mere 'hidsig' end klamydia)\n- **Diag:** Urinprøve/podning og PCR\n- **Beh:** Ceftriaxon (et kraftigt antibiotika, ofte givet som en indsprøjtning i balden)\n- **Følger:** Svarer til de komplicerede følger ved klamydia: salpingitis/PID hos kvinder med risiko for infertilitet og ektopisk graviditet, epididymitis hos mænd"
+  },
+  {
+    "id": "hiv",
+    "name": "HIV-infektion",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Infektion med Human Immunodeficiency Virus (HIV), som progressivt ødelægger CD4+ T-lymfocytter → immunsvækkelse → AIDS (Acquired Immunodeficiency Syndrome)\n- **Tal:** Ca. 6.500 danskere lever med HIV (2023)\n- **Patogenese:** 💡 HIV ødelægger **CD4-celler** → immundefekt → AIDS\n- **Symptomer:** 💡 akut: influenzalignende; sent: opportunistiske infektioner\n- **Diag:** HIV-antistof/antigen-test (4\n- **Beh:** Antiretroviral terapi (ART): kombinationsterapi (≥3 midler fra ≥2 klasser) → 'undetectable = untransmittable' (U=U)\n- **Følger:** Den progredierende immundefekt (lavt CD4) fører til AIDS med opportunistiske infektioner (fx tuberkulose, atypiske/Pneumocystis-pneumonier) og maligniteter (lymfomer, Kaposis sarkom)"
+  },
+  {
+    "id": "impetigo",
+    "name": "Impetigo (børnesår)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** En stærkt smitsom, overfladisk bakteriel hudinfektion, der typisk rammer småbørn\n- **Tal:** Meget hyppig i alderen 2-5 år, occurs oftest i små epidemier i institutioner\n- **Patogenese:** 💡 stafylokok/streptokok i overhud\n- **Symptomer:** 💡 røde pletter med gyldne skorper (ansigt, børn)\n- **Diag:** Klinisk diagnose ud fra det karakteristiske hududslæt\n- **Beh:** Grundig afvaskning med vand og sæbe for at fjerne skorperne, kombineret med bakteriedræbende creme (fx fusidin-creme) ved små angreb\n- **Følger:** Hvis infektionen spreder sig ned i dybere hudlag med central nekrose, udvikles den farligere tilstand ektyma"
+  },
+  {
+    "id": "influenza",
+    "name": "Influenza",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut luftvejsinfektion forårsaget af influenza A eller B virus, karakteriseret ved pludseligt opstået feber og systemiske symptomer\n- **Tal:** Epidemier hvert år (vinter)\n- **Patogenese:** 💡 influenza A/B-virus i luftvejsepitel\n- **Symptomer:** 💡 pludselig feber, muskelsmerter, hoste, træthed\n- **Diag:** Klinisk diagnose under sæson\n- **Beh:** Symptomatisk (paracetamol, hvile, væske)\n- **Følger:** Primær celleskade i luftvejene skaber grobund for opportunistisk bakteriel superinfektion — klassisk en livstruende sekundær stafylokok- eller pneumokok-pneumoni"
+  },
+  {
+    "id": "kondylomer",
+    "name": "Kondylomer (kønsvorter)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Godartede vorter på kønsorganerne forårsaget af et virus (HPV)\n- **Tal:** Meget almindelig seksuelt overført infektion\n- **Patogenese:** 💡 **HPV type 6/11**\n- **Symptomer:** 💡 bløde vorter på kønsorganer\n- **Diag:** Klinisk diagnose: Lægen ser simpelthen på vorterne\n- **Beh:** Vorter fjernes for at mindske gener, men man kan ikke fjerne virussen i kroppen\n- **Følger:** Recidiv er hyppigt. Selve behandlingerne (laser, frysning mv.) kan i sjældne tilfælde give kroniske smertesyndromer — vulvodyni hos kvinder og penodyni hos mænd"
+  },
+  {
+    "id": "meningitis",
+    "name": "Meningitis (hjernehindebetændelse)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Inflammation af hjernehinderne (meningerne) forårsaget af bakterier (alvorligst) eller virus\n- **Tal:** Bakteriel meningitis: ca. 200-300 tilfælde/år i Danmark\n- **Patogenese:** 💡 infektion af meninges (bakteriel alvorligst)\n- **Symptomer:** 💡 klassisk triade: **feber + nakkestivhed + hovedpine** (+ petekkier ved meningokok)\n- **Diag:** Lumbalpunktur (LP) med cerebrospinalvæskeanalyse (guldstandard): celletælling, protein, glukose, dyrkning\n- **Beh:** AKUT IV-antibiotika (cefotaxim/penicillin) – start STRAKS uden at vente på LP!\n- **Følger:** Bakteriel meningitis har ekstremt alvorlige neurologiske konsekvenser og efterlader op mod 30-50 % af de overlevende med varige mén: svært høretab, epilepsi, varige lammelser og nedsat intellekt/hukommelse"
+  },
+  {
+    "id": "otitis_media_acuta",
+    "name": "Otitis media acuta (mellemørebetændelse)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Akut betændelse i mellemøret, typisk efter en forudgående øvre luftvejsinfektion (forkølelse)\n- **Tal:** Ekstremt hyppig, især hos børn i alderen 0-3 år\n- **Patogenese:** 💡 bakterier op via tuba auditiva efter forkølelse\n- **Symptomer:** 💡 øresmerter, feber, nedsat hørelse (børn)\n- **Diag:** Diagnosen stilles med otoskopi (kikkert i øret), hvor lægen ser en rød, frembulende og uigennemsigtig trommehinde\n- **Beh:** Oftest smertestillende (paracetamol/NSAID) og observation (70% bedres af sig selv indenfor 2-3 døgn)\n- **Følger:** Ca. 25 % af børnene udvikler efterfølgende sekretorisk otitis media (væske i mellemøret), som er smertefri, men nedsætter hørelsen i en periode og kan forsinke sprogudviklingen"
+  },
+  {
+    "id": "pneumoni",
+    "name": "Pneumoni (lungebetændelse)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Infektion i lungevævet (alveolerne) forårsaget af bakterier, virus eller svamp, karakteriseret ved konsolidering af lungeparenkym\n- **Tal:** Ca. 40.000 hospitalskrævende tilfælde/år i Danmark\n- **Patogenese:** 💡 infektion → alveolær inflammation/konsolidering\n- **Symptomer:** 💡 feber, hoste m. ekspektorat, dyspnø, brystsmerter\n- **Diag:** Røntgen/CT thorax (infiltrat)\n- **Beh:** Penicillin/amoxicillin (CAP)\n- **Følger:** Infektionen kan sprede sig og forårsage pleuritis (lungehindebetændelse), pleuraekssudat/empyem (pus i lungehulen), lungeabsces og i værste fald livstruende sepsis og respiratorisk svigt"
+  },
+  {
+    "id": "rhinosinuitis",
+    "name": "Rhinosinuitis acuta (forkølelse/bihulebetændelse)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Viral (forkølelse) eller bakteriel inflammation i næseslimhinde og bihuler\n- **Tal:** Voksne: ca. 2-3 gange/år\n- **Patogenese:** 💡 viral/bakteriel slimhindeinflammation i bihuler\n- **Symptomer:** 💡 Forkølelse: løbende/tilstoppet næse, ondt i halsen, let feber, hoste\n- **Diag:** Klinisk diagnose. Bakteriel: symptomer >10 dage uden bedring, evt\n- **Beh:** Viral: symptomatisk (næsedråber, paracetamol)\n- **Følger:** Kan udvikle sig til kronisk bihulebetændelse"
+  },
+  {
+    "id": "sepsis",
+    "name": "Sepsis (blodforgiftning)",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Livstruende organdysfunktion forårsaget af dysreguleret værtsrespons på infektion\n- **Tal:** Ca. 15.000-20.000 tilfælde/år i Danmark\n- **Patogenese:** 💡 **dysreguleret værtsrespons** på infektion → organdysfunktion\n- **Symptomer:** 💡 feber, takykardi, takypnø, konfusion → septisk shock\n- **Diag:** SOFA-score ≥2 points fra baseline (sepsis)\n- **Beh:** 'Sepsis 1-timers bundle': 1) bloddyrkning, 2) laktat, 3) antibiotika (bredspektret STRAKS), 4) IV-væske 30 ml/kg ved hypotension, 5) vasopressorer (noradrenalin) ved shock\n- **Følger:** Kan progrediere til septisk shock med multiorgansvigt: kredsløbssvigt, akut nyresvigt (evt. varig dialyse), ARDS/respiratorisk svigt (respiratorbehandling) og dissemineret intravaskulær koagulation (DIC)"
+  },
+  {
+    "id": "urinvejsinfektioner",
+    "name": "Urinvejsinfektioner (blærebetændelse/cystitis)",
+    "chapter": "Infektionssygdomme",
+    "high": true,
+    "body": "- **Hvad:** Betændelse i de nedre urinveje (urinblæren og urinrøret) forårsaget af bakterier\n- **Tal:** Ekstremt hyppig. Næsten alle kvinder oplever det i løbet af livet\n- **Patogenese:** 💡 opadstigende **E. coli** fra urinrør → blære\n- **Symptomer:** 💡 dysuri, pollakisuri, blæreømhed (feber/flanke = pyelonefritis)\n- **Diag:** Urin-stix (positiv for nitrit og leukocytter)\n- **Beh:** Kortvarig antibiotikakur (fx Pivmecillinam)\n- **Følger:** Infektionen kan stige op og give pyelonefritis (nyrebækkenbetændelse)"
+  },
+  {
+    "id": "klamydia",
+    "name": "Urogenital klamydia",
+    "chapter": "Infektionssygdomme",
+    "high": false,
+    "body": "- **Hvad:** Den hyppigste seksuelt overførte bakterielle infektion i Danmark, forårsaget af bakterien Chlamydia trachomatis\n- **Tal:** Ca. 30.000 registrerede tilfælde årligt\n- **Patogenese:** 💡 Chlamydia trachomatis (intracellulær)\n- **Symptomer:** 💡 ofte asymptomatisk; udflåd, svie\n- **Diag:** Urinprøve for mænd og podepind (vaginal) hos kvinder\n- **Beh:** 1 uges kur med antibiotika (doxycyklin)\n- **Følger:** Uopdaget breder infektionen sig retrogradt"
+  }
+]

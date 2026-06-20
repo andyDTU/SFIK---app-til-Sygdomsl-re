@@ -27,7 +27,7 @@ enum DiseasePriority {
     /// Tier 1 (eksamens-gengangere) + alle endokrine emner.
     static let high: Set<String> = [
         "parkinsons", "kol", "appendicitis", "spiseforstyrrelser", "myelomatose",
-        "frakturer", "praeeklampsi", "apopleksi", "ekstrauterin_graviditet", "bipolar",
+        "frakturer", "proksimal_femurfraktur", "praeeklampsi", "apopleksi", "ekstrauterin_graviditet", "bipolar",
         "lungekraeft", "urinvejsinfektioner", "anemi_jern", "bechterew",
         "diabetes_type1", "diabetes_type2", "hypotyreose", "hypertyreose",
         "adipositas", "metabolisk_syndrom", "osteoporose",

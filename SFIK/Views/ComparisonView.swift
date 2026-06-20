@@ -14,7 +14,6 @@ struct ComparisonPair: Identifiable {
         .init(title: "Type 1- vs. type 2-diabetes", idA: "diabetes_type1", idB: "diabetes_type2"),
         .init(title: "Hypertyreose vs. hypotyreose", idA: "hypertyreose", idB: "hypotyreose"),
         .init(title: "Stabil angina vs. akut myokardieinfarkt", idA: "angina_pectoris", idB: "hjerteinfarkt"),
-        .init(title: "Apopleksi vs. TIA", idA: "apopleksi", idB: "tia"),
         .init(title: "Astma vs. KOL", idA: "astma", idB: "kol"),
         .init(title: "Jernmangelanæmi vs. megaloblastær anæmi", idA: "anemi_jern", idB: "megaloblastaer_anaemi"),
         .init(title: "AML vs. ALL (akutte leukæmier)", idA: "leukemi_aml", idB: "akut_lymfoblastaer_leukaemi"),

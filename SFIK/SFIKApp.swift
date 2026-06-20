@@ -1,10 +1,3 @@
-//
-//  SFIKApp.swift
-//  SFIK
-//
-//  Created by Anders Juul Madsen on 08/06/2026.
-//
-
 import SwiftUI
 
 @main
@@ -13,5 +6,75 @@ struct SFIKApp: App {
         WindowGroup {
             ContentView()
         }
+        #if os(macOS)
+        .commands {
+            SFIKWindowCommands()
+        }
+        #endif
+
+        #if os(macOS)
+        WindowGroup("Flashcards", id: "flashcards") {
+            FlashcardsWindowView()
+        }
+        .defaultSize(width: 760, height: 820)
+
+        WindowGroup("Spickseddel", id: "cheatsheet") {
+            CheatSheetView()
+                .frame(minWidth: 500, minHeight: 600)
+        }
+        .defaultSize(width: 700, height: 800)
+        #endif
     }
 }
+
+#if os(macOS)
+private struct FlashcardsWindowView: View {
+    @StateObject private var dataLoader = DataLoader()
+
+    var body: some View {
+        FlashcardTopicSelectionView(diseases: dataLoader.diseases)
+            .frame(minWidth: 640, minHeight: 680)
+    }
+}
+
+struct SFIKWindowCommands: Commands {
+    var body: some Commands {
+        CommandMenu("Vinduer") {
+            SFIKWindowMenuItem(windowID: "flashcards", label: "Åbn Flashcards i nyt vindue",
+                               shortcut: "f", modifiers: [.command, .shift])
+            SFIKWindowMenuItem(windowID: "cheatsheet", label: "Åbn Spickseddel i nyt vindue",
+                               shortcut: "s", modifiers: [.command, .shift])
+        }
+    }
+}
+
+private struct SFIKWindowMenuItem: View {
+    @Environment(\.openWindow) private var openWindow
+    let windowID: String
+    let label: String
+    let shortcut: Character
+    let modifiers: EventModifiers
+
+    var body: some View {
+        Button(label) { openWindow(id: windowID) }
+            .keyboardShortcut(KeyEquivalent(shortcut), modifiers: modifiers)
+    }
+}
+
+struct OpenWindowButton: View {
+    @Environment(\.openWindow) private var openWindow
+    let id: String
+    let icon: String
+    let tooltip: String
+
+    var body: some View {
+        Button {
+            openWindow(id: id)
+        } label: {
+            Label(tooltip, systemImage: icon)
+                .labelStyle(.iconOnly)
+        }
+        .help(tooltip)
+    }
+}
+#endif

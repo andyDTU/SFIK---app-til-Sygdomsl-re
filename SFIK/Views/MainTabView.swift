@@ -4,7 +4,7 @@ struct MainTabView: View {
     @StateObject private var dataLoader = DataLoader()
 
     #if os(macOS)
-    enum Tab: Hashable { case training, lexicon, glossary, reading }
+    enum Tab: Hashable { case training, lexicon, cheatsheet, glossary, reading }
     @State private var selection: Tab? = .training
     #endif
 
@@ -16,6 +16,8 @@ struct MainTabView: View {
                     .tag(Tab.training)
                 Label("Leksikon", systemImage: "text.book.closed")
                     .tag(Tab.lexicon)
+                Label("Spickseddel", systemImage: "note.text")
+                    .tag(Tab.cheatsheet)
                 Label("Ordliste", systemImage: "character.book.closed")
                     .tag(Tab.glossary)
                 Label("Pensum", systemImage: "doc.richtext")
@@ -23,6 +25,16 @@ struct MainTabView: View {
             }
             .navigationTitle("SFIK")
             .navigationSplitViewColumnWidth(min: 160, ideal: 200)
+            .toolbar {
+                ToolbarItemGroup(placement: .primaryAction) {
+                    OpenWindowButton(id: "flashcards",
+                                     icon: "rectangle.stack.fill",
+                                     tooltip: "Åbn Flashcards i nyt vindue")
+                    OpenWindowButton(id: "cheatsheet",
+                                     icon: "note.text",
+                                     tooltip: "Åbn Spickseddel i nyt vindue")
+                }
+            }
         } detail: {
             NavigationStack {
                 switch selection ?? .training {
@@ -30,6 +42,8 @@ struct MainTabView: View {
                     TrainingView(diseases: dataLoader.diseases)
                 case .lexicon:
                     LexiconView(diseases: dataLoader.diseases)
+                case .cheatsheet:
+                    CheatSheetView()
                 case .glossary:
                     OrdlisteView()
                 case .reading:
@@ -47,6 +61,10 @@ struct MainTabView: View {
             LexiconView(diseases: dataLoader.diseases)
                 .tabItem {
                     Label("Leksikon", systemImage: "text.book.closed")
+                }
+            CheatSheetView()
+                .tabItem {
+                    Label("Spickseddel", systemImage: "note.text")
                 }
             OrdlisteView()
                 .tabItem {
