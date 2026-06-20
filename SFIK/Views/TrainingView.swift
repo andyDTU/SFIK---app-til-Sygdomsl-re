@@ -12,7 +12,7 @@ struct TrainingView: View {
     @State private var showingDashboard = false
     @State private var showingPatternFlashcards = false
     @State private var showingDistinguisher = false
-    @State private var showingThemeClusters = false
+    @State private var showingDiseaseWeb = false
 
     @ObservedObject private var store = SpacedRepetitionStore.shared
 
@@ -203,14 +203,14 @@ struct TrainingView: View {
                 .trainingSheetFrame()
         }
 
-        Button(action: { showingThemeClusters = true }) {
-            TrainingCard(title: "Temaklynger",
-                         description: "Browse sygdomme grupperet efter tværgående temaer – se hvilke der hænger sammen.",
-                         icon: "circle.grid.3x3.fill",
-                         color: .brown)
+        Button(action: { showingDiseaseWeb = true }) {
+            TrainingCard(title: "Sygdomsweb",
+                         description: "Udforsk forbindelserne mellem sygdomme. Vælg en sygdom og se hvad der binder den til alle andre.",
+                         icon: "point.3.connected.trianglepath.dotted",
+                         color: .blue)
         }
-        .sheet(isPresented: $showingThemeClusters) {
-            ThemeClusterView(diseases: diseases)
+        .sheet(isPresented: $showingDiseaseWeb) {
+            DiseaseWebView(diseases: diseases)
                 .trainingSheetFrame()
         }
     }
