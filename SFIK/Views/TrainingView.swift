@@ -10,6 +10,9 @@ struct TrainingView: View {
     @State private var showingExamRecall = false
     @State private var showingClozeDrill = false
     @State private var showingDashboard = false
+    @State private var showingPatternFlashcards = false
+    @State private var showingDistinguisher = false
+    @State private var showingThemeClusters = false
 
     @ObservedObject private var store = SpacedRepetitionStore.shared
 
@@ -175,6 +178,39 @@ struct TrainingView: View {
         }
         .sheet(isPresented: $showingComparison) {
             ComparisonView(diseases: diseases)
+                .trainingSheetFrame()
+        }
+
+        Button(action: { showingPatternFlashcards = true }) {
+            TrainingCard(title: "Bro-kort",
+                         description: "Tværgående mønster-quiz: hvilke sygdomme deler behandling, genetik, patogenese eller risikofaktorer?",
+                         icon: "link.circle.fill",
+                         color: .cyan)
+        }
+        .sheet(isPresented: $showingPatternFlashcards) {
+            PatternFlashcardView(diseases: diseases)
+                .trainingSheetFrame()
+        }
+
+        Button(action: { showingDistinguisher = true }) {
+            TrainingCard(title: "Fælles / Unikt",
+                         description: "Et udsagn – gælder det sygdom A, B, begge eller ingen? Træner skelnen mellem forvekslingspar.",
+                         icon: "arrow.left.arrow.right.circle.fill",
+                         color: .mint)
+        }
+        .sheet(isPresented: $showingDistinguisher) {
+            DistinguisherView(diseases: diseases)
+                .trainingSheetFrame()
+        }
+
+        Button(action: { showingThemeClusters = true }) {
+            TrainingCard(title: "Temaklynger",
+                         description: "Browse sygdomme grupperet efter tværgående temaer – se hvilke der hænger sammen.",
+                         icon: "circle.grid.3x3.fill",
+                         color: .brown)
+        }
+        .sheet(isPresented: $showingThemeClusters) {
+            ThemeClusterView(diseases: diseases)
                 .trainingSheetFrame()
         }
     }
