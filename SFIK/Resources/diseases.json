@@ -902,24 +902,6 @@
     "source": "Sygdomslære for ikke-klinikere · Kap. 13: Gynækologiske sygdomme og obstetrik"
   },
   {
-    "id": "rhinosinuitis",
-    "name": "Rhinosinuitis acuta (forkølelse/bihulebetændelse)",
-    "chapter": "Infektionssygdomme",
-    "chapterIcon": "cross.fill",
-    "definition": "Viral (forkølelse) eller bakteriel inflammation i næseslimhinde og bihuler. Viral er hyppigst (>90%) og kaldes common cold.",
-    "prevalence": "Voksne: ca. 2-3 gange/år. Børn: 6-8 gange/år. Hyppigste årsag til lægebesøg.",
-    "pathogenesis": "Virus (rhinovirus hyppigst) → inflammation i øvre luftveje. Bakteriel superinfektion (2-10%): Streptococcus pneumoniae, Haemophilus influenzae.",
-    "etiology": "Viral: rhinovirus, coronavirus, RSV, influenzavirus. Bakteriel: S. pneumoniae, H. influenzae, M. catarrhalis.",
-    "symptoms": "Forkølelse: løbende/tilstoppet næse, ondt i halsen, let feber, hoste. Bakteriel bihulebetændelse: ensidig ansigtssmerter, grøn sekret >10 dage, feber.",
-    "diagnostics": "Klinisk diagnose. Bakteriel: symptomer >10 dage uden bedring, evt. CRP. CT-bihuler ved komplikationer.",
-    "treatment": "Viral: symptomatisk (næsedråber, paracetamol). Bakteriel: antibiotika (amoxicillin) ved klar bakteriel infektion (de fleste afventes!). Undgå unødigt antibiotika!",
-    "complications": "Kan udvikle sig til kronisk bihulebetændelse. I sjældne, men livstruende tilfælde kan infektionen sprede sig til hjernen (meningitis eller hjerneabsces) eller til øjenhulen (orbital cellulitis) med dobbeltsyn og varigt synstab inden for under et døgn.",
-    "prognosis": "Selvlimiterende. Viral: 7-10 dage. Bakteriel: 90% helbredes spontant.",
-    "burden": "Enorm samfundsmæssig byrde (sygedage). Antibiotikaresistens er et stigende problem.",
-    "details": "**Definition:** En akut infektion og pusansamling i en eller flere af ansigtets bihuler \n\n**Forekomst:** Opstår typisk som en komplikation til ca. 0,5 % af alle almindelige forkølelser \n\n**Patogenese & Ætiologi:** Ætiologi:Oftest bakteriel superinfektion med pneumokokker eller Haemophilus influenzae.•Patogenese:En forudgående virusinfektion (forkølelse) skaber slimhindeødem og tillukning af bihuleåbningerne. Dette hæmmer drænagen, hvilket giver et lukket, iltfattigt miljø, hvor bakterier let kan opformeres. • \n\n**Symptomer & Fund:** Ensidige ansigtssmerter (ofte forværret ved foroverbøjning), gulligt/grønligt purulent næsesekret og feber > 38 °C,. \n\n**Paraklinik (Diagnostik):** Diagnosen stilles primært ved inspektion med lysstav (optik), hvor man kan se pus under muslingebenet i næsen eller på bagvæggen af svælget. Røntgen/scanning er sjældent indiceret. Blodprøver viser forhøjet CRP. \n\n**Behandling & Forebyggelse:** Behandles med lokal fugtning (saltvandsskylning), steroidholdige næsedråber (for at mindske hævelse) og systemisk antibiotika. \n\n**Følgesygdomme:** Kan udvikle sig til kronisk bihulebetændelse. I sjældne, men livstruende tilfælde kan infektionen sprede sig til hjernen (meningitis eller hjerneabsces) eller øjenhulen, hvilket kan forårsage dobbeltsyn og varigt synstab på under et døgn \n\n**Prognose:** Oftest en god prognose ved relevant behandlingByrdeGiver (sammen med øvrige øvre luftvejsinfektioner) anledning til enormt sygefravær og udgør en stor del af almen praksis' patientkontakter Bakteriel tonsillitis acuta (",
-    "source": "Sygdomslære for ikke-klinikere · Kap. 14: Infektionssygdomme"
-  },
-  {
     "id": "pneumoni",
     "name": "Pneumoni (lungebetændelse)",
     "chapter": "Infektionssygdomme",
