@@ -31,9 +31,9 @@ struct MainTabView: View {
             .navigationSplitViewColumnWidth(min: 160, ideal: 200)
             .toolbar {
                 ToolbarItemGroup(placement: .primaryAction) {
-                    OpenWindowButton(id: "flashcards",
+                    OpenWindowButton(id: "examflashcards",
                                      icon: "rectangle.stack.fill",
-                                     tooltip: "Åbn Flashcards i nyt vindue")
+                                     tooltip: "Åbn Eksamens-flashcards i nyt vindue")
                     OpenWindowButton(id: "cheatsheet",
                                      icon: "note.text",
                                      tooltip: "Åbn Spickseddel i nyt vindue")

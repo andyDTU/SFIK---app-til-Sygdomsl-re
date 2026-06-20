@@ -13,8 +13,13 @@ struct SFIKApp: App {
         #endif
 
         #if os(macOS)
-        WindowGroup("Flashcards", id: "flashcards") {
-            FlashcardsWindowView()
+        WindowGroup("Flashcards – Alle sygdomme", id: "flashcards") {
+            FlashcardsWindowView(focusOnly: false)
+        }
+        .defaultSize(width: 760, height: 820)
+
+        WindowGroup("Flashcards – Eksamens­fokus", id: "examflashcards") {
+            FlashcardsWindowView(focusOnly: true)
         }
         .defaultSize(width: 760, height: 820)
 
@@ -35,9 +40,19 @@ struct SFIKApp: App {
 #if os(macOS)
 private struct FlashcardsWindowView: View {
     @StateObject private var dataLoader = DataLoader()
+    let focusOnly: Bool
+
+    private var diseases: [Disease] {
+        let all = dataLoader.diseases.filter { !$0.isTopic }
+        guard focusOnly else { return all }
+        return all.filter {
+            DiseasePriority.tier(for: $0) == .high ||
+            DiseasePriority.tier(for: $0) == .secondary
+        }
+    }
 
     var body: some View {
-        FlashcardTopicSelectionView(diseases: dataLoader.diseases)
+        FlashcardTopicSelectionView(diseases: diseases)
             .frame(minWidth: 640, minHeight: 680)
     }
 }
@@ -54,11 +69,13 @@ private struct SpeechCardsWindowView: View {
 struct SFIKWindowCommands: Commands {
     var body: some Commands {
         CommandMenu("Vinduer") {
-            SFIKWindowMenuItem(windowID: "flashcards",   label: "Åbn Flashcards i nyt vindue",
+            SFIKWindowMenuItem(windowID: "examflashcards", label: "Åbn Eksamens-flashcards (45 syg.)",
                                shortcut: "f", modifiers: [.command, .shift])
-            SFIKWindowMenuItem(windowID: "cheatsheet",   label: "Åbn Spickseddel i nyt vindue",
+            SFIKWindowMenuItem(windowID: "flashcards",     label: "Åbn Flashcards – Alle sygdomme",
+                               shortcut: "a", modifiers: [.command, .shift])
+            SFIKWindowMenuItem(windowID: "cheatsheet",     label: "Åbn Spickseddel i nyt vindue",
                                shortcut: "s", modifiers: [.command, .shift])
-            SFIKWindowMenuItem(windowID: "speechcards",  label: "Åbn Taleagtige kort i nyt vindue",
+            SFIKWindowMenuItem(windowID: "speechcards",    label: "Åbn Taleagtige kort i nyt vindue",
                                shortcut: "t", modifiers: [.command, .shift])
         }
     }
