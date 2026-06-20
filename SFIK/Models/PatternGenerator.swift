@@ -34,7 +34,7 @@ enum PatternCategory: String, CaseIterable {
 }
 
 struct ThemeCluster: Identifiable {
-    let id = String
+    let id: String
     let title: String
     let description: String
     let diseases: [Disease]
@@ -42,7 +42,7 @@ struct ThemeCluster: Identifiable {
 }
 
 struct DistinguisherPair: Identifiable {
-    let id = String
+    let id: String
     let title: String
     let diseaseA: Disease
     let diseaseB: Disease
@@ -94,7 +94,7 @@ enum PatternGenerator {
         ("hypertension", "har hypertension som risikofaktor"),
         ("fedme", "har fedme som risikofaktor"),
         ("diabetes", "har diabetes som risikofaktor"),
-        ("ald ring", "har aldring som risikofaktor"), // aldring
+        ("aldring", "har aldring som risikofaktor"),
     ]
 
     static let pathogenesisKeywords: [(keyword: String, label: String)] = [
